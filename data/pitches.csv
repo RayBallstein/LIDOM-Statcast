@@ -17028,3 +17028,841 @@ date,game_pk,pitcher_id,pitcher,pitcher_team,batter_id,batter,batter_team,pitch_
 2026-11-10,851452,684871,Enmanuel Mejia,Gigantes del Cibao,677595,Ronny Mauricio,Tigres del Licey,FF,Four-Seam Fastball,Ball,95.8,2484.0,0,0
 2026-11-10,851452,684871,Enmanuel Mejia,Gigantes del Cibao,677595,Ronny Mauricio,Tigres del Licey,FC,Cutter,Ball,88.1,2437.0,0,0
 2026-11-10,851452,684871,Enmanuel Mejia,Gigantes del Cibao,609280,Miguel Andujar,Tigres del Licey,FC,Cutter,"In play, out(s)",89.6,2509.0,1,0
+2026-11-11,851474,593334,Domingo Germán,Leones del Escogido,682927,Ronny Simon,Toros del Este,FF,Four-Seam Fastball,Called Strike,93.1,2743.0,0,0
+2026-11-11,851474,593334,Domingo Germán,Leones del Escogido,682927,Ronny Simon,Toros del Este,FF,Four-Seam Fastball,"In play, no out",93.6,2735.0,1,0
+2026-11-11,851474,593334,Domingo Germán,Leones del Escogido,665482,Gilberto Celestino,Toros del Este,FF,Four-Seam Fastball,Ball,93.0,2554.0,0,0
+2026-11-11,851474,593334,Domingo Germán,Leones del Escogido,665482,Gilberto Celestino,Toros del Este,FF,Four-Seam Fastball,"In play, no out",94.6,2588.0,1,0
+2026-11-11,851474,593334,Domingo Germán,Leones del Escogido,682877,Juan Brito,Toros del Este,CH,Changeup,Ball,86.8,2670.0,0,0
+2026-11-11,851474,593334,Domingo Germán,Leones del Escogido,682877,Juan Brito,Toros del Este,CU,Curveball,Ball,83.3,2682.0,0,0
+2026-11-11,851474,593334,Domingo Germán,Leones del Escogido,682877,Juan Brito,Toros del Este,CH,Changeup,Swinging Strike,85.0,2516.0,1,1
+2026-11-11,851474,593334,Domingo Germán,Leones del Escogido,682877,Juan Brito,Toros del Este,CH,Changeup,Ball,87.1,2656.0,0,0
+2026-11-11,851474,593334,Domingo Germán,Leones del Escogido,682877,Juan Brito,Toros del Este,FF,Four-Seam Fastball,Ball,93.8,2772.0,0,0
+2026-11-11,851474,593334,Domingo Germán,Leones del Escogido,650559,Bryan De La Cruz,Toros del Este,CU,Curveball,Ball,84.8,2949.0,0,0
+2026-11-11,851474,593334,Domingo Germán,Leones del Escogido,650559,Bryan De La Cruz,Toros del Este,CU,Curveball,Ball In Dirt,83.0,2884.0,0,0
+2026-11-11,851474,593334,Domingo Germán,Leones del Escogido,650559,Bryan De La Cruz,Toros del Este,FF,Four-Seam Fastball,Ball,92.6,2698.0,0,0
+2026-11-11,851474,593334,Domingo Germán,Leones del Escogido,650559,Bryan De La Cruz,Toros del Este,FF,Four-Seam Fastball,Called Strike,92.6,2601.0,0,0
+2026-11-11,851474,593334,Domingo Germán,Leones del Escogido,650559,Bryan De La Cruz,Toros del Este,CH,Changeup,Ball,84.7,2573.0,0,0
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,660821,Jesús Sánchez,Toros del Este,FF,Four-Seam Fastball,Foul,92.0,2408.0,1,0
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,660821,Jesús Sánchez,Toros del Este,CH,Changeup,Ball,85.6,2155.0,0,0
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,660821,Jesús Sánchez,Toros del Este,CH,Changeup,Ball,85.1,2135.0,0,0
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,660821,Jesús Sánchez,Toros del Este,FF,Four-Seam Fastball,Foul,92.0,2416.0,1,0
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,660821,Jesús Sánchez,Toros del Este,CU,Curveball,Called Strike,76.5,2850.0,0,0
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,694025,Felix Reyes,Toros del Este,FF,Four-Seam Fastball,Ball,91.9,2465.0,0,0
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,694025,Felix Reyes,Toros del Este,CU,Curveball,Foul,79.3,2768.0,1,0
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,694025,Felix Reyes,Toros del Este,SI,Sinker,"In play, run(s)",92.2,2389.0,1,0
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,665839,Enmanuel Valdez,Toros del Este,CU,Curveball,Called Strike,78.0,2852.0,0,0
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,665839,Enmanuel Valdez,Toros del Este,FF,Four-Seam Fastball,Called Strike,92.5,2638.0,0,0
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,665839,Enmanuel Valdez,Toros del Este,FF,Four-Seam Fastball,Swinging Strike,93.8,2561.0,1,1
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,622168,Yairo Muñoz,Toros del Este,SL,Slider,Called Strike,80.6,2754.0,0,0
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,622168,Yairo Muñoz,Toros del Este,SL,Slider,"In play, out(s)",80.5,2834.0,1,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,593523,Marco Hernández,Leones del Escogido,SI,Sinker,Called Strike,95.5,2268.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,593523,Marco Hernández,Leones del Escogido,SI,Sinker,Called Strike,95.5,2421.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,593523,Marco Hernández,Leones del Escogido,SI,Sinker,Foul,96.0,2327.0,1,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,593523,Marco Hernández,Leones del Escogido,SI,Sinker,"In play, no out",89.8,1762.0,1,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,570481,Erik González,Leones del Escogido,SI,Sinker,Called Strike,96.0,2238.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,570481,Erik González,Leones del Escogido,FC,Cutter,Ball,85.9,2453.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,570481,Erik González,Leones del Escogido,SI,Sinker,Swinging Strike,96.4,2273.0,1,1
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,570481,Erik González,Leones del Escogido,SI,Sinker,Ball,89.7,1749.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,570481,Erik González,Leones del Escogido,SI,Sinker,Ball In Dirt,96.8,2313.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,570481,Erik González,Leones del Escogido,SI,Sinker,Ball,96.6,2169.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,592530,José Marmolejos,Leones del Escogido,SI,Sinker,Called Strike,94.8,2188.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,592530,José Marmolejos,Leones del Escogido,FF,Four-Seam Fastball,"In play, out(s)",91.5,2199.0,1,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,657656,Ramón Laureano,Leones del Escogido,SI,Sinker,Ball,96.6,2265.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,657656,Ramón Laureano,Leones del Escogido,SI,Sinker,Swinging Strike,96.1,2215.0,1,1
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,657656,Ramón Laureano,Leones del Escogido,SI,Sinker,Ball,96.7,2300.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,657656,Ramón Laureano,Leones del Escogido,SL,Slider,Swinging Strike,85.3,2386.0,1,1
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,657656,Ramón Laureano,Leones del Escogido,SI,Sinker,Ball,93.1,1906.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,657656,Ramón Laureano,Leones del Escogido,SI,Sinker,"In play, out(s)",95.5,2244.0,1,0
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,600474,Pedro Severino,Toros del Este,SL,Slider,Ball,79.0,2727.0,0,0
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,600474,Pedro Severino,Toros del Este,FF,Four-Seam Fastball,Foul,92.0,2493.0,1,0
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,600474,Pedro Severino,Toros del Este,FF,Four-Seam Fastball,"In play, out(s)",92.1,2377.0,1,0
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,682927,Ronny Simon,Toros del Este,CU,Curveball,Called Strike,75.3,2842.0,0,0
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,682927,Ronny Simon,Toros del Este,FF,Four-Seam Fastball,"In play, no out",93.2,2512.0,1,0
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,665482,Gilberto Celestino,Toros del Este,SL,Slider,Ball,80.7,2586.0,0,0
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,665482,Gilberto Celestino,Toros del Este,FF,Four-Seam Fastball,Foul,91.2,2500.0,1,0
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,665482,Gilberto Celestino,Toros del Este,SL,Slider,Ball,81.9,2777.0,0,0
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,665482,Gilberto Celestino,Toros del Este,FF,Four-Seam Fastball,Foul,92.7,2521.0,1,0
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,665482,Gilberto Celestino,Toros del Este,FF,Four-Seam Fastball,Ball,91.9,2465.0,0,0
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,665482,Gilberto Celestino,Toros del Este,SL,Slider,Swinging Strike,79.7,2872.0,1,1
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,682877,Juan Brito,Toros del Este,CU,Curveball,Called Strike,77.0,2978.0,0,0
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,682877,Juan Brito,Toros del Este,FF,Four-Seam Fastball,Foul,92.0,2466.0,1,0
+2026-11-11,851474,675195,Juan Mercedes,Leones del Escogido,682877,Juan Brito,Toros del Este,CH,Changeup,"In play, out(s)",86.9,2361.0,1,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,516809,Junior Lake,Leones del Escogido,FC,Cutter,Called Strike,89.0,2236.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,516809,Junior Lake,Leones del Escogido,SI,Sinker,Foul,95.3,2239.0,1,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,516809,Junior Lake,Leones del Escogido,SL,Slider,Ball,83.9,2197.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,516809,Junior Lake,Leones del Escogido,SL,Slider,"In play, out(s)",82.5,2269.0,1,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,695491,Joshua Báez,Leones del Escogido,SI,Sinker,Swinging Strike,89.8,1749.0,1,1
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,695491,Joshua Báez,Leones del Escogido,SI,Sinker,Ball,88.5,1737.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,695491,Joshua Báez,Leones del Escogido,SI,Sinker,Ball,93.1,2155.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,695491,Joshua Báez,Leones del Escogido,FC,Cutter,Ball,90.6,2182.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,695491,Joshua Báez,Leones del Escogido,FF,Four-Seam Fastball,Swinging Strike,87.9,1713.0,1,1
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,695491,Joshua Báez,Leones del Escogido,SL,Slider,Ball,84.4,2390.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,593647,Sócrates Brito,Leones del Escogido,FC,Cutter,Called Strike,89.6,2304.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,593647,Sócrates Brito,Leones del Escogido,SI,Sinker,Ball,94.5,2353.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,593647,Sócrates Brito,Leones del Escogido,SI,Sinker,Foul,95.1,2306.0,1,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,593647,Sócrates Brito,Leones del Escogido,SI,Sinker,Ball,90.2,1743.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,593647,Sócrates Brito,Leones del Escogido,SI,Sinker,Foul,88.7,1806.0,1,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,593647,Sócrates Brito,Leones del Escogido,SI,Sinker,"In play, no out",92.7,2150.0,1,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,828395,Jason Schiavone,Leones del Escogido,SL,Slider,Foul,84.4,2219.0,1,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,828395,Jason Schiavone,Leones del Escogido,SI,Sinker,Called Strike,95.7,2202.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,828395,Jason Schiavone,Leones del Escogido,SL,Slider,Ball,85.9,2403.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,828395,Jason Schiavone,Leones del Escogido,SL,Slider,Foul,84.1,2502.0,1,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,828395,Jason Schiavone,Leones del Escogido,SI,Sinker,Ball,94.4,2282.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,828395,Jason Schiavone,Leones del Escogido,FF,Four-Seam Fastball,Ball In Dirt,90.5,1826.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,828395,Jason Schiavone,Leones del Escogido,FC,Cutter,Ball,90.7,2371.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,593525,Orlando Calixte,Leones del Escogido,SI,Sinker,Foul,93.4,2120.0,1,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,593525,Orlando Calixte,Leones del Escogido,SI,Sinker,Called Strike,96.1,2255.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,593525,Orlando Calixte,Leones del Escogido,SL,Slider,Ball,85.2,2343.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,593525,Orlando Calixte,Leones del Escogido,SI,Sinker,Ball,95.3,2176.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,593525,Orlando Calixte,Leones del Escogido,FC,Cutter,Foul,89.1,2092.0,1,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,593525,Orlando Calixte,Leones del Escogido,SI,Sinker,Ball,95.6,2141.0,0,0
+2026-11-11,851474,666745,Jhony Brito,Toros del Este,593525,Orlando Calixte,Leones del Escogido,SI,Sinker,"In play, run(s)",95.4,2223.0,1,0
+2026-11-11,851474,656647,Taylor Lehman,Toros del Este,593523,Marco Hernández,Leones del Escogido,SL,Slider,Ball,87.0,2702.0,0,0
+2026-11-11,851474,656647,Taylor Lehman,Toros del Este,593523,Marco Hernández,Leones del Escogido,FF,Four-Seam Fastball,Called Strike,89.9,2609.0,0,0
+2026-11-11,851474,656647,Taylor Lehman,Toros del Este,593523,Marco Hernández,Leones del Escogido,SL,Slider,"In play, out(s)",86.3,2743.0,1,0
+2026-11-11,851474,656647,Taylor Lehman,Toros del Este,570481,Erik González,Leones del Escogido,SL,Slider,Ball,85.5,2643.0,0,0
+2026-11-11,851474,656647,Taylor Lehman,Toros del Este,570481,Erik González,Leones del Escogido,SL,Slider,"In play, out(s)",85.7,2587.0,1,0
+2026-11-11,851474,691869,Brian McKenna,Leones del Escogido,650559,Bryan De La Cruz,Toros del Este,FF,Four-Seam Fastball,Called Strike,93.2,2466.0,0,0
+2026-11-11,851474,691869,Brian McKenna,Leones del Escogido,650559,Bryan De La Cruz,Toros del Este,FF,Four-Seam Fastball,"In play, out(s)",94.1,2497.0,1,0
+2026-11-11,851474,691869,Brian McKenna,Leones del Escogido,660821,Jesús Sánchez,Toros del Este,SL,Slider,Called Strike,83.6,2290.0,0,0
+2026-11-11,851474,691869,Brian McKenna,Leones del Escogido,660821,Jesús Sánchez,Toros del Este,FF,Four-Seam Fastball,Swinging Strike,93.2,2483.0,1,1
+2026-11-11,851474,691869,Brian McKenna,Leones del Escogido,660821,Jesús Sánchez,Toros del Este,FF,Four-Seam Fastball,Foul,93.5,2552.0,1,0
+2026-11-11,851474,691869,Brian McKenna,Leones del Escogido,660821,Jesús Sánchez,Toros del Este,FF,Four-Seam Fastball,Foul,93.4,2483.0,1,0
+2026-11-11,851474,691869,Brian McKenna,Leones del Escogido,660821,Jesús Sánchez,Toros del Este,SL,Slider,Ball,85.7,2347.0,0,0
+2026-11-11,851474,691869,Brian McKenna,Leones del Escogido,660821,Jesús Sánchez,Toros del Este,SL,Slider,Foul,83.4,2198.0,1,0
+2026-11-11,851474,691869,Brian McKenna,Leones del Escogido,660821,Jesús Sánchez,Toros del Este,FF,Four-Seam Fastball,"In play, no out",93.9,2505.0,1,0
+2026-11-11,851474,691869,Brian McKenna,Leones del Escogido,694025,Felix Reyes,Toros del Este,SL,Slider,Ball,81.9,2341.0,0,0
+2026-11-11,851474,691869,Brian McKenna,Leones del Escogido,694025,Felix Reyes,Toros del Este,FF,Four-Seam Fastball,Swinging Strike,91.9,2476.0,1,1
+2026-11-11,851474,691869,Brian McKenna,Leones del Escogido,694025,Felix Reyes,Toros del Este,FF,Four-Seam Fastball,Swinging Strike,92.9,2533.0,1,1
+2026-11-11,851474,691869,Brian McKenna,Leones del Escogido,694025,Felix Reyes,Toros del Este,SL,Slider,Ball,82.7,2309.0,0,0
+2026-11-11,851474,691869,Brian McKenna,Leones del Escogido,694025,Felix Reyes,Toros del Este,SL,Slider,Swinging Strike,82.8,2234.0,1,1
+2026-11-11,851474,691869,Brian McKenna,Leones del Escogido,665839,Enmanuel Valdez,Toros del Este,FF,Four-Seam Fastball,Ball,92.4,2456.0,0,0
+2026-11-11,851474,691869,Brian McKenna,Leones del Escogido,665839,Enmanuel Valdez,Toros del Este,FF,Four-Seam Fastball,"In play, out(s)",92.1,2459.0,1,0
+2026-11-11,851474,656647,Taylor Lehman,Toros del Este,592530,José Marmolejos,Leones del Escogido,FF,Four-Seam Fastball,Ball,89.8,2570.0,0,0
+2026-11-11,851474,656647,Taylor Lehman,Toros del Este,592530,José Marmolejos,Leones del Escogido,SL,Slider,Ball,85.3,2546.0,0,0
+2026-11-11,851474,656647,Taylor Lehman,Toros del Este,592530,José Marmolejos,Leones del Escogido,SL,Slider,Ball,85.5,2694.0,0,0
+2026-11-11,851474,656647,Taylor Lehman,Toros del Este,592530,José Marmolejos,Leones del Escogido,FF,Four-Seam Fastball,Called Strike,88.7,2708.0,0,0
+2026-11-11,851474,656647,Taylor Lehman,Toros del Este,592530,José Marmolejos,Leones del Escogido,FF,Four-Seam Fastball,"In play, out(s)",88.2,2645.0,1,0
+2026-11-11,851474,570488,Phillips Valdez,Toros del Este,657656,Ramón Laureano,Leones del Escogido,SI,Sinker,"In play, out(s)",95.9,2672.0,1,0
+2026-11-11,851474,570488,Phillips Valdez,Toros del Este,516809,Junior Lake,Leones del Escogido,SL,Slider,Called Strike,85.1,2941.0,0,0
+2026-11-11,851474,570488,Phillips Valdez,Toros del Este,516809,Junior Lake,Leones del Escogido,SL,Slider,Ball,86.0,2926.0,0,0
+2026-11-11,851474,570488,Phillips Valdez,Toros del Este,516809,Junior Lake,Leones del Escogido,SI,Sinker,"In play, out(s)",96.5,2795.0,1,0
+2026-11-11,851474,660431,Hector Perez,Leones del Escogido,622168,Yairo Muñoz,Toros del Este,FF,Four-Seam Fastball,"In play, out(s)",95.0,2354.0,1,0
+2026-11-11,851474,660431,Hector Perez,Leones del Escogido,600474,Pedro Severino,Toros del Este,FF,Four-Seam Fastball,Called Strike,95.0,2399.0,0,0
+2026-11-11,851474,660431,Hector Perez,Leones del Escogido,600474,Pedro Severino,Toros del Este,SL,Slider,Ball,83.1,2570.0,0,0
+2026-11-11,851474,660431,Hector Perez,Leones del Escogido,600474,Pedro Severino,Toros del Este,FF,Four-Seam Fastball,Ball,94.2,2389.0,0,0
+2026-11-11,851474,660431,Hector Perez,Leones del Escogido,600474,Pedro Severino,Toros del Este,FC,Cutter,"In play, out(s)",86.7,2675.0,1,0
+2026-11-11,851474,660431,Hector Perez,Leones del Escogido,682927,Ronny Simon,Toros del Este,SL,Slider,Ball,82.7,2444.0,0,0
+2026-11-11,851474,660431,Hector Perez,Leones del Escogido,682927,Ronny Simon,Toros del Este,FF,Four-Seam Fastball,Ball,96.2,2498.0,0,0
+2026-11-11,851474,660431,Hector Perez,Leones del Escogido,682927,Ronny Simon,Toros del Este,FF,Four-Seam Fastball,Ball,95.6,2483.0,0,0
+2026-11-11,851474,660431,Hector Perez,Leones del Escogido,682927,Ronny Simon,Toros del Este,FF,Four-Seam Fastball,Called Strike,94.7,2407.0,0,0
+2026-11-11,851474,660431,Hector Perez,Leones del Escogido,682927,Ronny Simon,Toros del Este,FF,Four-Seam Fastball,Ball,95.9,2432.0,0,0
+2026-11-11,851474,660431,Hector Perez,Leones del Escogido,665482,Gilberto Celestino,Toros del Este,FF,Four-Seam Fastball,Ball,96.1,2554.0,0,0
+2026-11-11,851474,660431,Hector Perez,Leones del Escogido,665482,Gilberto Celestino,Toros del Este,FF,Four-Seam Fastball,Foul,95.1,2548.0,1,0
+2026-11-11,851474,660431,Hector Perez,Leones del Escogido,665482,Gilberto Celestino,Toros del Este,FF,Four-Seam Fastball,Foul,96.3,2438.0,1,0
+2026-11-11,851474,660431,Hector Perez,Leones del Escogido,665482,Gilberto Celestino,Toros del Este,CU,Curveball,Ball In Dirt,83.4,2462.0,0,0
+2026-11-11,851474,660431,Hector Perez,Leones del Escogido,665482,Gilberto Celestino,Toros del Este,SL,Slider,Ball In Dirt,83.7,2584.0,0,0
+2026-11-11,851474,660431,Hector Perez,Leones del Escogido,665482,Gilberto Celestino,Toros del Este,FF,Four-Seam Fastball,Ball,95.7,2436.0,0,0
+2026-11-11,851474,660431,Hector Perez,Leones del Escogido,682877,Juan Brito,Toros del Este,FF,Four-Seam Fastball,"In play, out(s)",96.7,2541.0,1,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,695491,Joshua Báez,Leones del Escogido,CU,Curveball,Called Strike,71.4,2625.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,695491,Joshua Báez,Leones del Escogido,CH,Changeup,Foul,79.4,1890.0,1,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,695491,Joshua Báez,Leones del Escogido,FF,Four-Seam Fastball,Foul,89.1,2278.0,1,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,695491,Joshua Báez,Leones del Escogido,SL,Slider,Ball,77.9,2683.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,695491,Joshua Báez,Leones del Escogido,CU,Curveball,Swinging Strike,72.3,2342.0,1,1
+2026-11-11,851474,592361,Evan Grills,Toros del Este,593647,Sócrates Brito,Leones del Escogido,FF,Four-Seam Fastball,Foul,89.6,2196.0,1,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,593647,Sócrates Brito,Leones del Escogido,CH,Changeup,Foul,79.3,1815.0,1,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,593647,Sócrates Brito,Leones del Escogido,SL,Slider,Swinging Strike (Blocked),78.0,2710.0,1,1
+2026-11-11,851474,592361,Evan Grills,Toros del Este,828395,Jason Schiavone,Leones del Escogido,CU,Curveball,Called Strike,71.5,2529.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,828395,Jason Schiavone,Leones del Escogido,SL,Slider,Ball,77.7,2674.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,828395,Jason Schiavone,Leones del Escogido,SI,Sinker,Ball,89.9,2255.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,828395,Jason Schiavone,Leones del Escogido,CH,Changeup,"In play, out(s)",78.5,1918.0,1,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,593525,Orlando Calixte,Leones del Escogido,CH,Changeup,Ball,89.3,2123.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,593525,Orlando Calixte,Leones del Escogido,CU,Curveball,Called Strike,71.0,2310.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,593525,Orlando Calixte,Leones del Escogido,CH,Changeup,Ball,79.1,1881.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,593525,Orlando Calixte,Leones del Escogido,CH,Changeup,Ball,89.4,2232.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,593525,Orlando Calixte,Leones del Escogido,SL,Slider,Called Strike,76.8,2603.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,593525,Orlando Calixte,Leones del Escogido,SL,Slider,"In play, out(s)",77.9,2638.0,1,0
+2026-11-11,851474,691322,Hansel Marcelino,Leones del Escogido,650559,Bryan De La Cruz,Toros del Este,SL,Slider,Ball,83.7,2253.0,0,0
+2026-11-11,851474,691322,Hansel Marcelino,Leones del Escogido,650559,Bryan De La Cruz,Toros del Este,FF,Four-Seam Fastball,"In play, no out",94.7,2593.0,1,0
+2026-11-11,851474,691322,Hansel Marcelino,Leones del Escogido,660821,Jesús Sánchez,Toros del Este,FF,Four-Seam Fastball,Ball,94.8,2661.0,0,0
+2026-11-11,851474,691322,Hansel Marcelino,Leones del Escogido,660821,Jesús Sánchez,Toros del Este,SI,Sinker,"In play, out(s)",94.8,2593.0,1,0
+2026-11-11,851474,691322,Hansel Marcelino,Leones del Escogido,694025,Felix Reyes,Toros del Este,SL,Slider,Swinging Strike,85.3,2279.0,1,1
+2026-11-11,851474,691322,Hansel Marcelino,Leones del Escogido,694025,Felix Reyes,Toros del Este,SL,Slider,"In play, out(s)",85.7,2339.0,1,0
+2026-11-11,851474,691322,Hansel Marcelino,Leones del Escogido,665839,Enmanuel Valdez,Toros del Este,FF,Four-Seam Fastball,Ball,95.5,2721.0,0,0
+2026-11-11,851474,691322,Hansel Marcelino,Leones del Escogido,665839,Enmanuel Valdez,Toros del Este,CH,Changeup,Swinging Strike,87.3,1701.0,1,1
+2026-11-11,851474,691322,Hansel Marcelino,Leones del Escogido,665839,Enmanuel Valdez,Toros del Este,FF,Four-Seam Fastball,Ball,95.8,2493.0,0,0
+2026-11-11,851474,691322,Hansel Marcelino,Leones del Escogido,665839,Enmanuel Valdez,Toros del Este,CH,Changeup,Foul,86.5,1718.0,1,0
+2026-11-11,851474,691322,Hansel Marcelino,Leones del Escogido,665839,Enmanuel Valdez,Toros del Este,SL,Slider,"In play, out(s)",84.9,2289.0,1,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,593523,Marco Hernández,Leones del Escogido,FF,Four-Seam Fastball,Called Strike,87.9,2240.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,593523,Marco Hernández,Leones del Escogido,FF,Four-Seam Fastball,Foul,88.2,2205.0,1,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,593523,Marco Hernández,Leones del Escogido,CH,Changeup,Swinging Strike,88.4,2120.0,1,1
+2026-11-11,851474,592361,Evan Grills,Toros del Este,570481,Erik González,Leones del Escogido,CH,Changeup,Called Strike,88.6,2149.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,570481,Erik González,Leones del Escogido,CH,Changeup,Ball,88.0,2152.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,570481,Erik González,Leones del Escogido,CU,Curveball,"In play, out(s)",70.8,2393.0,1,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,592530,José Marmolejos,Leones del Escogido,CU,Curveball,Called Strike,70.6,2355.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,592530,José Marmolejos,Leones del Escogido,SI,Sinker,"In play, out(s)",89.0,2270.0,1,0
+2026-11-11,851474,691548,Rolddy Muñoz,Leones del Escogido,622168,Yairo Muñoz,Toros del Este,SI,Sinker,Swinging Strike,95.6,2350.0,1,1
+2026-11-11,851474,691548,Rolddy Muñoz,Leones del Escogido,622168,Yairo Muñoz,Toros del Este,SL,Slider,Swinging Strike,85.3,2636.0,1,1
+2026-11-11,851474,691548,Rolddy Muñoz,Leones del Escogido,622168,Yairo Muñoz,Toros del Este,SI,Sinker,"In play, no out",96.1,2457.0,1,0
+2026-11-11,851474,691548,Rolddy Muñoz,Leones del Escogido,600474,Pedro Severino,Toros del Este,SI,Sinker,"In play, no out",95.3,2289.0,1,0
+2026-11-11,851474,691548,Rolddy Muñoz,Leones del Escogido,682927,Ronny Simon,Toros del Este,SI,Sinker,Called Strike,95.3,2290.0,0,0
+2026-11-11,851474,691548,Rolddy Muñoz,Leones del Escogido,682927,Ronny Simon,Toros del Este,SI,Sinker,Swinging Strike,89.2,2080.0,1,1
+2026-11-11,851474,691548,Rolddy Muñoz,Leones del Escogido,682927,Ronny Simon,Toros del Este,CH,Changeup,"In play, out(s)",88.9,2161.0,1,0
+2026-11-11,851474,691548,Rolddy Muñoz,Leones del Escogido,665482,Gilberto Celestino,Toros del Este,SI,Sinker,Called Strike,96.3,2223.0,0,0
+2026-11-11,851474,691548,Rolddy Muñoz,Leones del Escogido,665482,Gilberto Celestino,Toros del Este,FC,Cutter,Ball,88.7,2617.0,0,0
+2026-11-11,851474,691548,Rolddy Muñoz,Leones del Escogido,665482,Gilberto Celestino,Toros del Este,SI,Sinker,Ball,95.3,2354.0,0,0
+2026-11-11,851474,691548,Rolddy Muñoz,Leones del Escogido,665482,Gilberto Celestino,Toros del Este,SI,Sinker,"In play, out(s)",95.8,2351.0,1,0
+2026-11-11,851474,691548,Rolddy Muñoz,Leones del Escogido,682877,Juan Brito,Toros del Este,SI,Sinker,"In play, out(s)",95.0,2198.0,1,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,657656,Ramón Laureano,Leones del Escogido,CU,Curveball,Called Strike,71.0,2750.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,657656,Ramón Laureano,Leones del Escogido,CH,Changeup,Foul,88.0,2431.0,1,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,657656,Ramón Laureano,Leones del Escogido,SL,Slider,Ball,77.9,2682.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,657656,Ramón Laureano,Leones del Escogido,CH,Changeup,Ball,87.9,2318.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,657656,Ramón Laureano,Leones del Escogido,CU,Curveball,"In play, out(s)",72.2,2745.0,1,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,516809,Junior Lake,Leones del Escogido,FF,Four-Seam Fastball,Called Strike,88.9,2368.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,516809,Junior Lake,Leones del Escogido,CU,Curveball,"In play, out(s)",76.0,2777.0,1,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,695491,Joshua Báez,Leones del Escogido,CH,Changeup,Called Strike,88.3,2302.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,695491,Joshua Báez,Leones del Escogido,CH,Changeup,Ball,88.4,2271.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,695491,Joshua Báez,Leones del Escogido,CU,Curveball,"In play, no out",75.9,2783.0,1,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,593647,Sócrates Brito,Leones del Escogido,CU,Curveball,Ball,70.3,2380.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,593647,Sócrates Brito,Leones del Escogido,SL,Slider,Foul,77.8,2539.0,1,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,593647,Sócrates Brito,Leones del Escogido,CH,Changeup,Ball,87.2,2263.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,593647,Sócrates Brito,Leones del Escogido,CH,Changeup,"In play, no out",88.1,2272.0,1,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,828395,Jason Schiavone,Leones del Escogido,CU,Curveball,Called Strike,69.1,2614.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,828395,Jason Schiavone,Leones del Escogido,CU,Curveball,Swinging Strike,71.7,2652.0,1,1
+2026-11-11,851474,592361,Evan Grills,Toros del Este,828395,Jason Schiavone,Leones del Escogido,CU,Curveball,"In play, out(s)",71.9,2654.0,1,0
+2026-11-11,851474,665625,Elvis Peguero,Leones del Escogido,650559,Bryan De La Cruz,Toros del Este,FC,Cutter,Called Strike,86.6,2655.0,0,0
+2026-11-11,851474,665625,Elvis Peguero,Leones del Escogido,650559,Bryan De La Cruz,Toros del Este,SL,Slider,Ball,87.6,2720.0,0,0
+2026-11-11,851474,665625,Elvis Peguero,Leones del Escogido,650559,Bryan De La Cruz,Toros del Este,FC,Cutter,Ball,88.8,2690.0,0,0
+2026-11-11,851474,665625,Elvis Peguero,Leones del Escogido,650559,Bryan De La Cruz,Toros del Este,SI,Sinker,Swinging Strike,95.0,1967.0,1,1
+2026-11-11,851474,665625,Elvis Peguero,Leones del Escogido,650559,Bryan De La Cruz,Toros del Este,SL,Slider,"In play, out(s)",86.9,2769.0,1,0
+2026-11-11,851474,665625,Elvis Peguero,Leones del Escogido,660821,Jesús Sánchez,Toros del Este,FC,Cutter,Foul,88.3,2745.0,1,0
+2026-11-11,851474,665625,Elvis Peguero,Leones del Escogido,660821,Jesús Sánchez,Toros del Este,FC,Cutter,Ball,87.7,2679.0,0,0
+2026-11-11,851474,665625,Elvis Peguero,Leones del Escogido,660821,Jesús Sánchez,Toros del Este,SI,Sinker,Ball,96.2,2012.0,0,0
+2026-11-11,851474,665625,Elvis Peguero,Leones del Escogido,660821,Jesús Sánchez,Toros del Este,FC,Cutter,Ball,86.4,2493.0,0,0
+2026-11-11,851474,665625,Elvis Peguero,Leones del Escogido,660821,Jesús Sánchez,Toros del Este,SI,Sinker,"In play, no out",93.4,1990.0,1,0
+2026-11-11,851474,665625,Elvis Peguero,Leones del Escogido,694025,Felix Reyes,Toros del Este,SI,Sinker,"In play, no out",95.5,2034.0,1,0
+2026-11-11,851474,665625,Elvis Peguero,Leones del Escogido,665839,Enmanuel Valdez,Toros del Este,SI,Sinker,Called Strike,95.4,1839.0,0,0
+2026-11-11,851474,665625,Elvis Peguero,Leones del Escogido,665839,Enmanuel Valdez,Toros del Este,FC,Cutter,"In play, out(s)",86.8,2662.0,1,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,593525,Orlando Calixte,Leones del Escogido,CH,Changeup,Foul,87.3,2348.0,1,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,593525,Orlando Calixte,Leones del Escogido,CH,Changeup,Ball,87.5,2338.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,593525,Orlando Calixte,Leones del Escogido,CH,Changeup,Swinging Strike,77.6,1889.0,1,1
+2026-11-11,851474,592361,Evan Grills,Toros del Este,593525,Orlando Calixte,Leones del Escogido,CH,Changeup,Ball,87.2,2293.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,593525,Orlando Calixte,Leones del Escogido,CU,Curveball,Swinging Strike,70.5,2566.0,1,1
+2026-11-11,851474,592361,Evan Grills,Toros del Este,666695,Jonathan Guzmán,Leones del Escogido,CU,Curveball,Called Strike,75.6,2609.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,666695,Jonathan Guzmán,Leones del Escogido,CU,Curveball,Foul Tip,69.5,2537.0,1,1
+2026-11-11,851474,592361,Evan Grills,Toros del Este,666695,Jonathan Guzmán,Leones del Escogido,CH,Changeup,Ball,88.2,2320.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,666695,Jonathan Guzmán,Leones del Escogido,CU,Curveball,"In play, no out",68.6,2536.0,1,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,570481,Erik González,Leones del Escogido,CU,Curveball,"In play, out(s)",75.8,2649.0,1,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,592530,José Marmolejos,Leones del Escogido,SI,Sinker,Called Strike,87.9,2318.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,592530,José Marmolejos,Leones del Escogido,SI,Sinker,Called Strike,88.2,2331.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,592530,José Marmolejos,Leones del Escogido,SL,Slider,Ball In Dirt,77.8,2731.0,0,0
+2026-11-11,851474,592361,Evan Grills,Toros del Este,592530,José Marmolejos,Leones del Escogido,CH,Changeup,"In play, run(s)",88.7,2176.0,1,0
+2026-11-11,851474,682551,Ronaldo Alesandro,Toros del Este,657656,Ramón Laureano,Leones del Escogido,FF,Four-Seam Fastball,"In play, out(s)",92.7,2180.0,1,0
+2026-11-11,851474,593576,Héctor Neris,Leones del Escogido,622168,Yairo Muñoz,Toros del Este,FF,Four-Seam Fastball,"In play, out(s)",92.2,2453.0,1,0
+2026-11-11,851474,593576,Héctor Neris,Leones del Escogido,600474,Pedro Severino,Toros del Este,FF,Four-Seam Fastball,Swinging Strike,91.2,2478.0,1,1
+2026-11-11,851474,593576,Héctor Neris,Leones del Escogido,600474,Pedro Severino,Toros del Este,FS,Splitter,Ball,84.8,1974.0,0,0
+2026-11-11,851474,593576,Héctor Neris,Leones del Escogido,600474,Pedro Severino,Toros del Este,FS,Splitter,Swinging Strike,85.7,2068.0,1,1
+2026-11-11,851474,593576,Héctor Neris,Leones del Escogido,600474,Pedro Severino,Toros del Este,FF,Four-Seam Fastball,"In play, out(s)",91.4,2479.0,1,0
+2026-11-11,851474,593576,Héctor Neris,Leones del Escogido,682927,Ronny Simon,Toros del Este,FS,Splitter,Called Strike,81.7,1189.0,0,0
+2026-11-11,851474,593576,Héctor Neris,Leones del Escogido,682927,Ronny Simon,Toros del Este,FS,Splitter,"In play, out(s)",81.4,1422.0,1,0
+2026-11-11,851474,682274,Yaramil Hiraldo,Toros del Este,516809,Junior Lake,Leones del Escogido,FF,Four-Seam Fastball,Called Strike,96.2,2292.0,0,0
+2026-11-11,851474,682274,Yaramil Hiraldo,Toros del Este,516809,Junior Lake,Leones del Escogido,FF,Four-Seam Fastball,Ball,88.7,1665.0,0,0
+2026-11-11,851474,682274,Yaramil Hiraldo,Toros del Este,516809,Junior Lake,Leones del Escogido,FF,Four-Seam Fastball,Swinging Strike,95.4,2304.0,1,1
+2026-11-11,851474,682274,Yaramil Hiraldo,Toros del Este,516809,Junior Lake,Leones del Escogido,FF,Four-Seam Fastball,Foul Tip,95.3,2362.0,1,1
+2026-11-11,851474,682274,Yaramil Hiraldo,Toros del Este,695491,Joshua Báez,Leones del Escogido,FF,Four-Seam Fastball,Foul,96.4,2385.0,1,0
+2026-11-11,851474,682274,Yaramil Hiraldo,Toros del Este,695491,Joshua Báez,Leones del Escogido,FF,Four-Seam Fastball,Swinging Strike,89.4,1608.0,1,1
+2026-11-11,851474,682274,Yaramil Hiraldo,Toros del Este,695491,Joshua Báez,Leones del Escogido,SL,Slider,Ball,85.6,2546.0,0,0
+2026-11-11,851474,682274,Yaramil Hiraldo,Toros del Este,695491,Joshua Báez,Leones del Escogido,SL,Slider,Ball,84.5,2394.0,0,0
+2026-11-11,851474,682274,Yaramil Hiraldo,Toros del Este,695491,Joshua Báez,Leones del Escogido,FF,Four-Seam Fastball,"In play, out(s)",87.8,1584.0,1,0
+2026-11-11,851474,682274,Yaramil Hiraldo,Toros del Este,593647,Sócrates Brito,Leones del Escogido,FF,Four-Seam Fastball,Called Strike,95.3,2404.0,0,0
+2026-11-11,851474,682274,Yaramil Hiraldo,Toros del Este,593647,Sócrates Brito,Leones del Escogido,FF,Four-Seam Fastball,Ball,88.3,1520.0,0,0
+2026-11-11,851474,682274,Yaramil Hiraldo,Toros del Este,593647,Sócrates Brito,Leones del Escogido,FF,Four-Seam Fastball,Ball,95.2,2432.0,0,0
+2026-11-11,851474,682274,Yaramil Hiraldo,Toros del Este,593647,Sócrates Brito,Leones del Escogido,FF,Four-Seam Fastball,"In play, out(s)",87.4,1654.0,1,0
+2026-11-11,851474,675502,Kelly Austin,Leones del Escogido,665482,Gilberto Celestino,Toros del Este,FF,Four-Seam Fastball,Ball,93.0,2408.0,0,0
+2026-11-11,851474,675502,Kelly Austin,Leones del Escogido,665482,Gilberto Celestino,Toros del Este,FF,Four-Seam Fastball,"In play, out(s)",93.5,2435.0,1,0
+2026-11-11,851474,675502,Kelly Austin,Leones del Escogido,682877,Juan Brito,Toros del Este,FF,Four-Seam Fastball,Swinging Strike,92.3,2355.0,1,1
+2026-11-11,851474,675502,Kelly Austin,Leones del Escogido,682877,Juan Brito,Toros del Este,FF,Four-Seam Fastball,Ball,92.7,2385.0,0,0
+2026-11-11,851474,675502,Kelly Austin,Leones del Escogido,682877,Juan Brito,Toros del Este,FF,Four-Seam Fastball,Ball,94.1,2410.0,0,0
+2026-11-11,851474,675502,Kelly Austin,Leones del Escogido,682877,Juan Brito,Toros del Este,FF,Four-Seam Fastball,Ball,93.6,2358.0,0,0
+2026-11-11,851474,675502,Kelly Austin,Leones del Escogido,682877,Juan Brito,Toros del Este,FF,Four-Seam Fastball,"In play, no out",93.8,2385.0,1,0
+2026-11-11,851474,675502,Kelly Austin,Leones del Escogido,650559,Bryan De La Cruz,Toros del Este,SL,Slider,Ball,84.1,2355.0,0,0
+2026-11-11,851474,675502,Kelly Austin,Leones del Escogido,650559,Bryan De La Cruz,Toros del Este,FF,Four-Seam Fastball,Ball,91.9,2336.0,0,0
+2026-11-11,851474,675502,Kelly Austin,Leones del Escogido,650559,Bryan De La Cruz,Toros del Este,FF,Four-Seam Fastball,Foul,92.3,2387.0,1,0
+2026-11-11,851474,675502,Kelly Austin,Leones del Escogido,650559,Bryan De La Cruz,Toros del Este,SL,Slider,Ball,83.4,2215.0,0,0
+2026-11-11,851474,675502,Kelly Austin,Leones del Escogido,650559,Bryan De La Cruz,Toros del Este,SL,Slider,Ball In Dirt,83.8,2413.0,0,0
+2026-11-11,851474,675502,Kelly Austin,Leones del Escogido,660821,Jesús Sánchez,Toros del Este,FF,Four-Seam Fastball,Ball,91.2,2076.0,0,0
+2026-11-11,851474,675502,Kelly Austin,Leones del Escogido,660821,Jesús Sánchez,Toros del Este,FF,Four-Seam Fastball,Called Strike,91.7,2389.0,0,0
+2026-11-11,851474,675502,Kelly Austin,Leones del Escogido,660821,Jesús Sánchez,Toros del Este,FF,Four-Seam Fastball,Foul,92.2,2419.0,1,0
+2026-11-11,851474,675502,Kelly Austin,Leones del Escogido,660821,Jesús Sánchez,Toros del Este,FC,Cutter,Ball In Dirt,85.3,1121.0,0,0
+2026-11-11,851474,675502,Kelly Austin,Leones del Escogido,660821,Jesús Sánchez,Toros del Este,CH,Changeup,Ball In Dirt,86.6,1193.0,0,0
+2026-11-11,851474,675502,Kelly Austin,Leones del Escogido,660821,Jesús Sánchez,Toros del Este,SL,Slider,Swinging Strike,85.0,1013.0,1,1
+2026-11-11,851474,675502,Kelly Austin,Leones del Escogido,694025,Felix Reyes,Toros del Este,FF,Four-Seam Fastball,Swinging Strike,94.2,2331.0,1,1
+2026-11-11,851474,675502,Kelly Austin,Leones del Escogido,694025,Felix Reyes,Toros del Este,FF,Four-Seam Fastball,Ball,94.1,2448.0,0,0
+2026-11-11,851474,675502,Kelly Austin,Leones del Escogido,694025,Felix Reyes,Toros del Este,SL,Slider,"In play, run(s)",83.9,2215.0,1,0
+2026-11-11,851474,656008,Aneurys Zabala,Leones del Escogido,594694,Wilmer Difo,Toros del Este,SI,Sinker,Ball,94.5,2564.0,0,0
+2026-11-11,851474,656008,Aneurys Zabala,Leones del Escogido,594694,Wilmer Difo,Toros del Este,SI,Sinker,Ball,94.7,2457.0,0,0
+2026-11-11,851474,656008,Aneurys Zabala,Leones del Escogido,594694,Wilmer Difo,Toros del Este,SI,Sinker,Foul,95.4,2514.0,1,0
+2026-11-11,851474,656008,Aneurys Zabala,Leones del Escogido,594694,Wilmer Difo,Toros del Este,CH,Changeup,"In play, out(s)",87.6,1815.0,1,0
+2026-11-11,851474,682489,Joe Record,Toros del Este,570256,Gregory Polanco,Leones del Escogido,FF,Four-Seam Fastball,Called Strike,95.3,2297.0,0,0
+2026-11-11,851474,682489,Joe Record,Toros del Este,570256,Gregory Polanco,Leones del Escogido,FC,Cutter,Called Strike,92.8,2214.0,0,0
+2026-11-11,851474,682489,Joe Record,Toros del Este,570256,Gregory Polanco,Leones del Escogido,FF,Four-Seam Fastball,Foul,95.6,2334.0,1,0
+2026-11-11,851474,682489,Joe Record,Toros del Este,570256,Gregory Polanco,Leones del Escogido,CU,Curveball,"In play, out(s)",83.3,2365.0,1,0
+2026-11-11,851474,682489,Joe Record,Toros del Este,593525,Orlando Calixte,Leones del Escogido,FF,Four-Seam Fastball,Called Strike,94.4,1999.0,0,0
+2026-11-11,851474,682489,Joe Record,Toros del Este,593525,Orlando Calixte,Leones del Escogido,SI,Sinker,Swinging Strike,94.7,2092.0,1,1
+2026-11-11,851474,682489,Joe Record,Toros del Este,593525,Orlando Calixte,Leones del Escogido,SL,Slider,Ball,84.9,2372.0,0,0
+2026-11-11,851474,682489,Joe Record,Toros del Este,593525,Orlando Calixte,Leones del Escogido,FF,Four-Seam Fastball,"In play, no out",95.1,2199.0,1,0
+2026-11-11,851474,682489,Joe Record,Toros del Este,614173,Franchy Cordero,Leones del Escogido,FC,Cutter,Ball,92.6,2294.0,0,0
+2026-11-11,851474,682489,Joe Record,Toros del Este,614173,Franchy Cordero,Leones del Escogido,FC,Cutter,Ball,92.6,2270.0,0,0
+2026-11-11,851474,682489,Joe Record,Toros del Este,614173,Franchy Cordero,Leones del Escogido,FC,Cutter,Called Strike,91.9,2223.0,0,0
+2026-11-11,851474,682489,Joe Record,Toros del Este,614173,Franchy Cordero,Leones del Escogido,FC,Cutter,Foul,91.4,2201.0,1,0
+2026-11-11,851474,682489,Joe Record,Toros del Este,614173,Franchy Cordero,Leones del Escogido,CU,Curveball,Ball,83.4,2405.0,0,0
+2026-11-11,851474,682489,Joe Record,Toros del Este,614173,Franchy Cordero,Leones del Escogido,FC,Cutter,Foul,91.8,2236.0,1,0
+2026-11-11,851474,682489,Joe Record,Toros del Este,614173,Franchy Cordero,Leones del Escogido,FC,Cutter,"In play, run(s)",92.7,2261.0,1,0
+2026-11-11,851474,682489,Joe Record,Toros del Este,570481,Erik González,Leones del Escogido,SI,Sinker,Ball,94.9,2081.0,0,0
+2026-11-11,851474,682489,Joe Record,Toros del Este,570481,Erik González,Leones del Escogido,FF,Four-Seam Fastball,"In play, out(s)",94.5,2104.0,1,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,699115,Carlos Jorge,Gigantes del Cibao,CH,Changeup,Called Strike,87.4,2433.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,699115,Carlos Jorge,Gigantes del Cibao,CH,Changeup,Foul,87.7,2335.0,1,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,699115,Carlos Jorge,Gigantes del Cibao,FF,Four-Seam Fastball,"In play, no out",89.8,2507.0,1,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,682622,Noelvi Marte,Gigantes del Cibao,SI,Sinker,Ball,88.3,2479.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,682622,Noelvi Marte,Gigantes del Cibao,SI,Sinker,Ball,87.5,2365.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,682622,Noelvi Marte,Gigantes del Cibao,CH,Changeup,Foul,87.2,2402.0,1,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,682622,Noelvi Marte,Gigantes del Cibao,SI,Sinker,Foul,89.2,2333.0,1,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,682622,Noelvi Marte,Gigantes del Cibao,CU,Curveball,Ball,76.6,3071.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,682622,Noelvi Marte,Gigantes del Cibao,CU,Curveball,Ball,76.0,2900.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,608577,Nomar Mazara,Gigantes del Cibao,FF,Four-Seam Fastball,"In play, run(s)",89.8,2375.0,1,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,542303,Marcell Ozuna,Gigantes del Cibao,FF,Four-Seam Fastball,Ball,89.4,2361.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,542303,Marcell Ozuna,Gigantes del Cibao,SI,Sinker,Called Strike,88.8,2304.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,542303,Marcell Ozuna,Gigantes del Cibao,CU,Curveball,Ball,77.7,2792.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,542303,Marcell Ozuna,Gigantes del Cibao,CU,Curveball,Ball,77.7,2708.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,542303,Marcell Ozuna,Gigantes del Cibao,FF,Four-Seam Fastball,"In play, run(s)",88.9,2336.0,1,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,554238,Carlos Franco,Gigantes del Cibao,SL,Slider,Swinging Strike,82.3,2688.0,1,1
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,554238,Carlos Franco,Gigantes del Cibao,FF,Four-Seam Fastball,Called Strike,89.6,2430.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,554238,Carlos Franco,Gigantes del Cibao,FF,Four-Seam Fastball,Ball,89.6,2393.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,554238,Carlos Franco,Gigantes del Cibao,CU,Curveball,Ball In Dirt,75.5,2856.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,554238,Carlos Franco,Gigantes del Cibao,SL,Slider,Ball,81.9,2482.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,554238,Carlos Franco,Gigantes del Cibao,SI,Sinker,"In play, out(s)",88.4,2320.0,1,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,682663,Agustín Ramírez,Gigantes del Cibao,CU,Curveball,Swinging Strike,76.3,2841.0,1,1
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,682663,Agustín Ramírez,Gigantes del Cibao,CU,Curveball,Swinging Strike,74.5,2815.0,1,1
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,682663,Agustín Ramírez,Gigantes del Cibao,SI,Sinker,Called Strike,89.5,2416.0,0,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,677588,José Tena,Estrellas Orientales,SI,Sinker,Called Strike,93.5,2270.0,0,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,677588,José Tena,Estrellas Orientales,FC,Cutter,Called Strike,88.0,2489.0,0,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,677588,José Tena,Estrellas Orientales,SL,Slider,Ball,83.3,2277.0,0,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,677588,José Tena,Estrellas Orientales,SI,Sinker,"In play, out(s)",89.4,2228.0,1,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,623912,Harold Ramírez,Estrellas Orientales,SL,Slider,Called Strike,82.2,2551.0,0,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,623912,Harold Ramírez,Estrellas Orientales,FC,Cutter,"In play, no out",88.3,2562.0,1,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,683494,Euribiel Angeles,Estrellas Orientales,SI,Sinker,"In play, no out",93.9,2219.0,1,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,682617,Marco Luciano,Estrellas Orientales,SI,Sinker,Called Strike,93.9,2281.0,0,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,682617,Marco Luciano,Estrellas Orientales,SL,Slider,Foul,82.4,2258.0,1,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,682617,Marco Luciano,Estrellas Orientales,SI,Sinker,Foul,88.7,2055.0,1,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,682617,Marco Luciano,Estrellas Orientales,SL,Slider,Ball,81.9,2613.0,0,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,682617,Marco Luciano,Estrellas Orientales,SL,Slider,Foul,84.4,2542.0,1,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,682617,Marco Luciano,Estrellas Orientales,SL,Slider,"In play, run(s)",84.2,2643.0,1,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,700337,Edgar Quero,Estrellas Orientales,FC,Cutter,"In play, run(s)",88.8,2478.0,1,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,623507,Josh Lester,Estrellas Orientales,SI,Sinker,Ball,94.5,2129.0,0,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,623507,Josh Lester,Estrellas Orientales,SL,Slider,Swinging Strike,82.2,2527.0,1,1
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,623507,Josh Lester,Estrellas Orientales,FC,Cutter,Ball,88.0,2506.0,0,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,623507,Josh Lester,Estrellas Orientales,SL,Slider,Ball,83.4,1725.0,0,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,623507,Josh Lester,Estrellas Orientales,FC,Cutter,Swinging Strike,89.4,2535.0,1,1
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,623507,Josh Lester,Estrellas Orientales,SL,Slider,Ball,84.1,2140.0,0,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,660757,Oscar Gonzalez,Estrellas Orientales,SI,Sinker,Called Strike,93.9,2250.0,0,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,660757,Oscar Gonzalez,Estrellas Orientales,SI,Sinker,Ball,94.3,2231.0,0,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,660757,Oscar Gonzalez,Estrellas Orientales,SL,Slider,Swinging Strike,82.4,2716.0,1,1
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,660757,Oscar Gonzalez,Estrellas Orientales,SL,Slider,Foul,81.9,2083.0,1,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,660757,Oscar Gonzalez,Estrellas Orientales,SI,Sinker,"In play, out(s)",88.9,2074.0,1,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,821041,Roldy Brito,Gigantes del Cibao,CH,Changeup,Called Strike,86.1,2318.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,821041,Roldy Brito,Gigantes del Cibao,CH,Changeup,Foul,82.1,1568.0,1,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,821041,Roldy Brito,Gigantes del Cibao,CU,Curveball,Ball,75.3,2947.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,821041,Roldy Brito,Gigantes del Cibao,CU,Curveball,Swinging Strike,74.8,2889.0,1,1
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,801442,Jack Pineda,Gigantes del Cibao,CH,Changeup,"In play, out(s)",86.8,2370.0,1,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,814299,Pascanel Ferreras,Gigantes del Cibao,FF,Four-Seam Fastball,Ball,88.6,2309.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,814299,Pascanel Ferreras,Gigantes del Cibao,SL,Slider,Called Strike,81.9,2523.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,814299,Pascanel Ferreras,Gigantes del Cibao,CU,Curveball,Swinging Strike,76.6,2749.0,1,1
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,814299,Pascanel Ferreras,Gigantes del Cibao,CU,Curveball,Ball,75.5,3053.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,814299,Pascanel Ferreras,Gigantes del Cibao,SL,Slider,"In play, no out",81.0,2474.0,1,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,699115,Carlos Jorge,Gigantes del Cibao,CH,Changeup,Ball,87.0,2209.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,699115,Carlos Jorge,Gigantes del Cibao,CH,Changeup,"In play, run(s)",87.0,2276.0,1,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,682622,Noelvi Marte,Gigantes del Cibao,SL,Slider,Called Strike,83.1,2472.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,682622,Noelvi Marte,Gigantes del Cibao,CU,Curveball,Foul,74.8,2677.0,1,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,682622,Noelvi Marte,Gigantes del Cibao,CU,Curveball,Ball,75.8,2943.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,682622,Noelvi Marte,Gigantes del Cibao,FF,Four-Seam Fastball,"In play, out(s)",90.6,2427.0,1,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,668845,Aaron Schunk,Estrellas Orientales,FC,Cutter,Called Strike,88.0,2544.0,0,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,668845,Aaron Schunk,Estrellas Orientales,FC,Cutter,Foul,89.2,2577.0,1,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,668845,Aaron Schunk,Estrellas Orientales,SL,Slider,Ball,83.1,1692.0,0,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,668845,Aaron Schunk,Estrellas Orientales,SI,Sinker,Foul,94.2,2351.0,1,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,668845,Aaron Schunk,Estrellas Orientales,SI,Sinker,"In play, no out",94.1,2282.0,1,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,694194,Miguel Bleis,Estrellas Orientales,SI,Sinker,Ball,93.5,2274.0,0,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,694194,Miguel Bleis,Estrellas Orientales,SI,Sinker,Called Strike,92.7,2237.0,0,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,694194,Miguel Bleis,Estrellas Orientales,SI,Sinker,"In play, run(s)",93.1,2238.0,1,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,677588,José Tena,Estrellas Orientales,FC,Cutter,Called Strike,89.0,2504.0,0,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,677588,José Tena,Estrellas Orientales,CH,Changeup,Foul Bunt,86.7,2151.0,1,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,677588,José Tena,Estrellas Orientales,SI,Sinker,Foul,93.3,2298.0,1,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,677588,José Tena,Estrellas Orientales,SL,Slider,Swinging Strike,83.6,1643.0,1,1
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,623912,Harold Ramírez,Estrellas Orientales,SL,Slider,Ball,83.1,1326.0,0,0
+2026-11-11,851528,650654,Cristopher Molina,Gigantes del Cibao,623912,Harold Ramírez,Estrellas Orientales,SL,Slider,"In play, run(s)",82.5,2612.0,1,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,683494,Euribiel Angeles,Estrellas Orientales,SI,Sinker,"In play, out(s)",91.0,2335.0,1,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,682617,Marco Luciano,Estrellas Orientales,SI,Sinker,Ball,91.3,2363.0,0,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,682617,Marco Luciano,Estrellas Orientales,SL,Slider,Ball,80.1,2437.0,0,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,682617,Marco Luciano,Estrellas Orientales,SI,Sinker,Called Strike,91.8,2398.0,0,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,682617,Marco Luciano,Estrellas Orientales,SI,Sinker,Foul,91.8,2368.0,1,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,682617,Marco Luciano,Estrellas Orientales,CH,Changeup,Swinging Strike,86.7,2054.0,1,1
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,608577,Nomar Mazara,Gigantes del Cibao,CU,Curveball,Ball,73.6,2791.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,608577,Nomar Mazara,Gigantes del Cibao,FF,Four-Seam Fastball,Called Strike,87.9,2490.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,608577,Nomar Mazara,Gigantes del Cibao,CH,Changeup,Ball,83.7,1910.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,608577,Nomar Mazara,Gigantes del Cibao,SI,Sinker,Ball,87.5,2441.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,608577,Nomar Mazara,Gigantes del Cibao,SL,Slider,Foul,81.9,2646.0,1,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,608577,Nomar Mazara,Gigantes del Cibao,CU,Curveball,Foul,75.4,2885.0,1,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,608577,Nomar Mazara,Gigantes del Cibao,CU,Curveball,Hit By Pitch,76.3,2990.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,542303,Marcell Ozuna,Gigantes del Cibao,SI,Sinker,Ball,88.5,2363.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,542303,Marcell Ozuna,Gigantes del Cibao,SL,Slider,Ball,82.1,2577.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,542303,Marcell Ozuna,Gigantes del Cibao,SL,Slider,Swinging Strike,82.2,2630.0,1,1
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,542303,Marcell Ozuna,Gigantes del Cibao,SI,Sinker,Called Strike,87.8,2442.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,542303,Marcell Ozuna,Gigantes del Cibao,CU,Curveball,Ball,76.4,3050.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,542303,Marcell Ozuna,Gigantes del Cibao,FF,Four-Seam Fastball,Foul,89.4,2554.0,1,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,542303,Marcell Ozuna,Gigantes del Cibao,SI,Sinker,Ball,87.3,2332.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,554238,Carlos Franco,Gigantes del Cibao,SI,Sinker,"In play, out(s)",88.0,2328.0,1,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,682663,Agustín Ramírez,Gigantes del Cibao,SI,Sinker,Foul,88.2,2414.0,1,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,682663,Agustín Ramírez,Gigantes del Cibao,CU,Curveball,Swinging Strike,76.6,2997.0,1,1
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,682663,Agustín Ramírez,Gigantes del Cibao,CU,Curveball,"In play, run(s)",74.7,3069.0,1,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,682796,Eddinson Paulino,Gigantes del Cibao,SI,Sinker,Ball,87.7,2324.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,682796,Eddinson Paulino,Gigantes del Cibao,CH,Changeup,Ball,87.4,2334.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,682796,Eddinson Paulino,Gigantes del Cibao,FF,Four-Seam Fastball,Called Strike,88.3,2386.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,682796,Eddinson Paulino,Gigantes del Cibao,FF,Four-Seam Fastball,Called Strike,88.3,2439.0,0,0
+2026-11-11,851528,469134,Esmil Rogers,Estrellas Orientales,682796,Eddinson Paulino,Gigantes del Cibao,FF,Four-Seam Fastball,"In play, no out",88.8,2430.0,1,0
+2026-11-11,851528,627893,Carlos Belen,Estrellas Orientales,801442,Jack Pineda,Gigantes del Cibao,SL,Slider,"In play, out(s)",83.7,1719.0,1,0
+2026-11-11,851528,627893,Carlos Belen,Estrellas Orientales,814299,Pascanel Ferreras,Gigantes del Cibao,SI,Sinker,Ball,93.3,2049.0,0,0
+2026-11-11,851528,627893,Carlos Belen,Estrellas Orientales,814299,Pascanel Ferreras,Gigantes del Cibao,SI,Sinker,"In play, out(s)",94.7,2119.0,1,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,700337,Edgar Quero,Estrellas Orientales,SI,Sinker,Called Strike,91.4,2306.0,0,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,700337,Edgar Quero,Estrellas Orientales,CH,Changeup,Ball,82.7,2065.0,0,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,700337,Edgar Quero,Estrellas Orientales,CU,Curveball,Foul,79.8,2561.0,1,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,700337,Edgar Quero,Estrellas Orientales,CH,Changeup,"In play, out(s)",85.6,2263.0,1,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,623507,Josh Lester,Estrellas Orientales,SI,Sinker,Ball,91.7,2289.0,0,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,623507,Josh Lester,Estrellas Orientales,CH,Changeup,Ball,84.1,2198.0,0,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,623507,Josh Lester,Estrellas Orientales,SL,Slider,Called Strike,80.8,2611.0,0,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,623507,Josh Lester,Estrellas Orientales,SL,Slider,"In play, no out",82.3,2523.0,1,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,660757,Oscar Gonzalez,Estrellas Orientales,SI,Sinker,"In play, no out",90.6,2205.0,1,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,668845,Aaron Schunk,Estrellas Orientales,SL,Slider,Ball,83.3,2466.0,0,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,668845,Aaron Schunk,Estrellas Orientales,SI,Sinker,Ball,92.2,2309.0,0,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,668845,Aaron Schunk,Estrellas Orientales,SL,Slider,"In play, run(s)",81.4,2536.0,1,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,694194,Miguel Bleis,Estrellas Orientales,SI,Sinker,Foul,92.6,2373.0,1,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,694194,Miguel Bleis,Estrellas Orientales,SI,Sinker,Called Strike,92.9,2278.0,0,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,694194,Miguel Bleis,Estrellas Orientales,CH,Changeup,Ball In Dirt,83.0,1195.0,0,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,694194,Miguel Bleis,Estrellas Orientales,SI,Sinker,Foul,92.8,2312.0,1,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,694194,Miguel Bleis,Estrellas Orientales,SL,Slider,Swinging Strike,84.9,2596.0,1,1
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,677588,José Tena,Estrellas Orientales,SL,Slider,"In play, out(s)",82.3,2512.0,1,0
+2026-11-11,851528,664573,Oddy Nunez,Estrellas Orientales,699115,Carlos Jorge,Gigantes del Cibao,SI,Sinker,Called Strike,92.8,2207.0,0,0
+2026-11-11,851528,664573,Oddy Nunez,Estrellas Orientales,699115,Carlos Jorge,Gigantes del Cibao,SL,Slider,Foul,81.4,2351.0,1,0
+2026-11-11,851528,664573,Oddy Nunez,Estrellas Orientales,699115,Carlos Jorge,Gigantes del Cibao,SL,Slider,Ball,84.6,2242.0,0,0
+2026-11-11,851528,664573,Oddy Nunez,Estrellas Orientales,699115,Carlos Jorge,Gigantes del Cibao,SI,Sinker,Swinging Strike,93.4,2284.0,1,1
+2026-11-11,851528,664573,Oddy Nunez,Estrellas Orientales,682622,Noelvi Marte,Gigantes del Cibao,SI,Sinker,Ball,93.0,2201.0,0,0
+2026-11-11,851528,664573,Oddy Nunez,Estrellas Orientales,682622,Noelvi Marte,Gigantes del Cibao,SI,Sinker,Called Strike,92.8,2225.0,0,0
+2026-11-11,851528,664573,Oddy Nunez,Estrellas Orientales,682622,Noelvi Marte,Gigantes del Cibao,CH,Changeup,"In play, out(s)",83.3,1668.0,1,0
+2026-11-11,851528,664573,Oddy Nunez,Estrellas Orientales,608577,Nomar Mazara,Gigantes del Cibao,SL,Slider,Called Strike,83.3,2217.0,0,0
+2026-11-11,851528,664573,Oddy Nunez,Estrellas Orientales,608577,Nomar Mazara,Gigantes del Cibao,SI,Sinker,"In play, out(s)",93.6,2301.0,1,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,623912,Harold Ramírez,Estrellas Orientales,SI,Sinker,Called Strike,90.2,2284.0,0,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,623912,Harold Ramírez,Estrellas Orientales,SI,Sinker,Called Strike,90.9,2385.0,0,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,623912,Harold Ramírez,Estrellas Orientales,SI,Sinker,Called Strike,92.8,2453.0,0,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,683494,Euribiel Angeles,Estrellas Orientales,SL,Slider,Ball,84.9,2645.0,0,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,683494,Euribiel Angeles,Estrellas Orientales,SI,Sinker,Swinging Strike,91.7,2358.0,1,1
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,683494,Euribiel Angeles,Estrellas Orientales,SI,Sinker,Called Strike,92.4,2431.0,0,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,683494,Euribiel Angeles,Estrellas Orientales,SI,Sinker,Ball,93.3,2337.0,0,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,683494,Euribiel Angeles,Estrellas Orientales,CH,Changeup,Foul,85.9,2322.0,1,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,683494,Euribiel Angeles,Estrellas Orientales,SI,Sinker,Foul,93.4,2328.0,1,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,683494,Euribiel Angeles,Estrellas Orientales,SL,Slider,Swinging Strike,85.0,2563.0,1,1
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,682617,Marco Luciano,Estrellas Orientales,SI,Sinker,Foul,91.9,2271.0,1,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,682617,Marco Luciano,Estrellas Orientales,SL,Slider,Ball,85.7,2503.0,0,0
+2026-11-11,851528,594029,Bryan Rodriguez,Gigantes del Cibao,682617,Marco Luciano,Estrellas Orientales,SI,Sinker,"In play, out(s)",91.6,2311.0,1,0
+2026-11-11,851528,666619,Gregory Santos,Estrellas Orientales,542303,Marcell Ozuna,Gigantes del Cibao,FC,Cutter,Called Strike,93.5,2448.0,0,0
+2026-11-11,851528,666619,Gregory Santos,Estrellas Orientales,542303,Marcell Ozuna,Gigantes del Cibao,SI,Sinker,Ball,98.2,2432.0,0,0
+2026-11-11,851528,666619,Gregory Santos,Estrellas Orientales,542303,Marcell Ozuna,Gigantes del Cibao,SI,Sinker,Ball,97.7,2482.0,0,0
+2026-11-11,851528,666619,Gregory Santos,Estrellas Orientales,542303,Marcell Ozuna,Gigantes del Cibao,FC,Cutter,Ball,92.6,2370.0,0,0
+2026-11-11,851528,666619,Gregory Santos,Estrellas Orientales,542303,Marcell Ozuna,Gigantes del Cibao,FC,Cutter,Foul,93.5,2435.0,1,0
+2026-11-11,851528,666619,Gregory Santos,Estrellas Orientales,542303,Marcell Ozuna,Gigantes del Cibao,SI,Sinker,Foul,99.0,2523.0,1,0
+2026-11-11,851528,666619,Gregory Santos,Estrellas Orientales,542303,Marcell Ozuna,Gigantes del Cibao,FC,Cutter,"In play, out(s)",94.4,2574.0,1,0
+2026-11-11,851528,666619,Gregory Santos,Estrellas Orientales,554238,Carlos Franco,Gigantes del Cibao,FC,Cutter,Foul,92.1,2346.0,1,0
+2026-11-11,851528,666619,Gregory Santos,Estrellas Orientales,554238,Carlos Franco,Gigantes del Cibao,SI,Sinker,Ball,97.9,2500.0,0,0
+2026-11-11,851528,666619,Gregory Santos,Estrellas Orientales,554238,Carlos Franco,Gigantes del Cibao,FF,Four-Seam Fastball,Ball,93.5,2522.0,0,0
+2026-11-11,851528,666619,Gregory Santos,Estrellas Orientales,554238,Carlos Franco,Gigantes del Cibao,SI,Sinker,Foul,97.4,2548.0,1,0
+2026-11-11,851528,666619,Gregory Santos,Estrellas Orientales,554238,Carlos Franco,Gigantes del Cibao,SI,Sinker,Swinging Strike,97.8,2478.0,1,1
+2026-11-11,851528,666619,Gregory Santos,Estrellas Orientales,682663,Agustín Ramírez,Gigantes del Cibao,SI,Sinker,Ball,98.8,2576.0,0,0
+2026-11-11,851528,666619,Gregory Santos,Estrellas Orientales,682663,Agustín Ramírez,Gigantes del Cibao,SI,Sinker,Called Strike,97.8,2549.0,0,0
+2026-11-11,851528,666619,Gregory Santos,Estrellas Orientales,682663,Agustín Ramírez,Gigantes del Cibao,FC,Cutter,Ball,93.4,2493.0,0,0
+2026-11-11,851528,666619,Gregory Santos,Estrellas Orientales,682663,Agustín Ramírez,Gigantes del Cibao,FC,Cutter,Called Strike,92.0,2453.0,0,0
+2026-11-11,851528,666619,Gregory Santos,Estrellas Orientales,682663,Agustín Ramírez,Gigantes del Cibao,SI,Sinker,"In play, no out",99.1,2566.0,1,0
+2026-11-11,851528,666619,Gregory Santos,Estrellas Orientales,682796,Eddinson Paulino,Gigantes del Cibao,FC,Cutter,Ball,91.8,2196.0,0,0
+2026-11-11,851528,666619,Gregory Santos,Estrellas Orientales,682796,Eddinson Paulino,Gigantes del Cibao,SI,Sinker,Ball,96.5,2322.0,0,0
+2026-11-11,851528,666619,Gregory Santos,Estrellas Orientales,682796,Eddinson Paulino,Gigantes del Cibao,SI,Sinker,Foul,95.5,2435.0,1,0
+2026-11-11,851528,666619,Gregory Santos,Estrellas Orientales,682796,Eddinson Paulino,Gigantes del Cibao,SI,Sinker,"In play, out(s)",96.3,2452.0,1,0
+2026-11-11,851528,686433,Luis Velasquez,Gigantes del Cibao,700337,Edgar Quero,Estrellas Orientales,FF,Four-Seam Fastball,Ball,97.1,2664.0,0,0
+2026-11-11,851528,686433,Luis Velasquez,Gigantes del Cibao,700337,Edgar Quero,Estrellas Orientales,SI,Sinker,Foul,96.7,2514.0,1,0
+2026-11-11,851528,686433,Luis Velasquez,Gigantes del Cibao,700337,Edgar Quero,Estrellas Orientales,SI,Sinker,Ball,96.3,2453.0,0,0
+2026-11-11,851528,686433,Luis Velasquez,Gigantes del Cibao,700337,Edgar Quero,Estrellas Orientales,SI,Sinker,Swinging Strike,97.0,2503.0,1,1
+2026-11-11,851528,686433,Luis Velasquez,Gigantes del Cibao,700337,Edgar Quero,Estrellas Orientales,FF,Four-Seam Fastball,Ball,96.4,2617.0,0,0
+2026-11-11,851528,686433,Luis Velasquez,Gigantes del Cibao,700337,Edgar Quero,Estrellas Orientales,SI,Sinker,Foul,91.7,1849.0,1,0
+2026-11-11,851528,686433,Luis Velasquez,Gigantes del Cibao,700337,Edgar Quero,Estrellas Orientales,SI,Sinker,"In play, no out",92.0,1862.0,1,0
+2026-11-11,851528,686433,Luis Velasquez,Gigantes del Cibao,623507,Josh Lester,Estrellas Orientales,SL,Slider,Ball In Dirt,84.3,3024.0,0,0
+2026-11-11,851528,686433,Luis Velasquez,Gigantes del Cibao,623507,Josh Lester,Estrellas Orientales,SI,Sinker,Ball,96.4,2495.0,0,0
+2026-11-11,851528,686433,Luis Velasquez,Gigantes del Cibao,623507,Josh Lester,Estrellas Orientales,FF,Four-Seam Fastball,Ball,97.1,2554.0,0,0
+2026-11-11,851528,686433,Luis Velasquez,Gigantes del Cibao,623507,Josh Lester,Estrellas Orientales,FF,Four-Seam Fastball,Ball,96.7,2571.0,0,0
+2026-11-11,851528,686433,Luis Velasquez,Gigantes del Cibao,660757,Oscar Gonzalez,Estrellas Orientales,SL,Slider,Called Strike,84.7,2946.0,0,0
+2026-11-11,851528,686433,Luis Velasquez,Gigantes del Cibao,660757,Oscar Gonzalez,Estrellas Orientales,SL,Slider,Ball In Dirt,84.8,2954.0,0,0
+2026-11-11,851528,686433,Luis Velasquez,Gigantes del Cibao,660757,Oscar Gonzalez,Estrellas Orientales,SI,Sinker,"In play, run(s)",95.7,2513.0,1,0
+2026-11-11,851528,686433,Luis Velasquez,Gigantes del Cibao,668845,Aaron Schunk,Estrellas Orientales,SI,Sinker,Ball,96.1,2417.0,0,0
+2026-11-11,851528,686433,Luis Velasquez,Gigantes del Cibao,668845,Aaron Schunk,Estrellas Orientales,SL,Slider,Swinging Strike,84.3,3044.0,1,1
+2026-11-11,851528,686433,Luis Velasquez,Gigantes del Cibao,668845,Aaron Schunk,Estrellas Orientales,CU,Curveball,Ball,82.8,2929.0,0,0
+2026-11-11,851528,686433,Luis Velasquez,Gigantes del Cibao,668845,Aaron Schunk,Estrellas Orientales,SL,Slider,Ball In Dirt,83.5,2998.0,0,0
+2026-11-11,851528,686433,Luis Velasquez,Gigantes del Cibao,668845,Aaron Schunk,Estrellas Orientales,FF,Four-Seam Fastball,Called Strike,95.6,2613.0,0,0
+2026-11-11,851528,686433,Luis Velasquez,Gigantes del Cibao,668845,Aaron Schunk,Estrellas Orientales,SL,Slider,"In play, run(s)",84.1,2983.0,1,0
+2026-11-11,851528,666802,Joel Cesar,Gigantes del Cibao,694194,Miguel Bleis,Estrellas Orientales,FC,Cutter,Swinging Strike,86.6,2286.0,1,1
+2026-11-11,851528,666802,Joel Cesar,Gigantes del Cibao,694194,Miguel Bleis,Estrellas Orientales,FF,Four-Seam Fastball,"In play, out(s)",95.5,2282.0,1,0
+2026-11-11,851528,666802,Joel Cesar,Gigantes del Cibao,677588,José Tena,Estrellas Orientales,FF,Four-Seam Fastball,Called Strike,95.7,2365.0,0,0
+2026-11-11,851528,666802,Joel Cesar,Gigantes del Cibao,677588,José Tena,Estrellas Orientales,FF,Four-Seam Fastball,Ball,95.7,2330.0,0,0
+2026-11-11,851528,666802,Joel Cesar,Gigantes del Cibao,677588,José Tena,Estrellas Orientales,FC,Cutter,"In play, out(s)",88.6,2016.0,1,0
+2026-11-11,851528,666802,Joel Cesar,Gigantes del Cibao,623912,Harold Ramírez,Estrellas Orientales,SL,Slider,Ball,85.7,2636.0,0,0
+2026-11-11,851528,666802,Joel Cesar,Gigantes del Cibao,623912,Harold Ramírez,Estrellas Orientales,FF,Four-Seam Fastball,Swinging Strike,95.1,2302.0,1,1
+2026-11-11,851528,666802,Joel Cesar,Gigantes del Cibao,623912,Harold Ramírez,Estrellas Orientales,FF,Four-Seam Fastball,"In play, out(s)",95.2,2315.0,1,0
+2026-11-11,851528,642376,Jefry Yan,Estrellas Orientales,801442,Jack Pineda,Gigantes del Cibao,SI,Sinker,Foul,98.2,2563.0,1,0
+2026-11-11,851528,642376,Jefry Yan,Estrellas Orientales,801442,Jack Pineda,Gigantes del Cibao,SI,Sinker,Ball,99.4,2667.0,0,0
+2026-11-11,851528,642376,Jefry Yan,Estrellas Orientales,801442,Jack Pineda,Gigantes del Cibao,SI,Sinker,Foul,98.5,2586.0,1,0
+2026-11-11,851528,642376,Jefry Yan,Estrellas Orientales,801442,Jack Pineda,Gigantes del Cibao,FF,Four-Seam Fastball,Ball,99.5,2663.0,0,0
+2026-11-11,851528,642376,Jefry Yan,Estrellas Orientales,801442,Jack Pineda,Gigantes del Cibao,SL,Slider,Ball,87.6,2633.0,0,0
+2026-11-11,851528,642376,Jefry Yan,Estrellas Orientales,801442,Jack Pineda,Gigantes del Cibao,SI,Sinker,Swinging Strike,97.8,2472.0,1,1
+2026-11-11,851528,642376,Jefry Yan,Estrellas Orientales,814299,Pascanel Ferreras,Gigantes del Cibao,SL,Slider,Called Strike,87.5,2476.0,0,0
+2026-11-11,851528,642376,Jefry Yan,Estrellas Orientales,814299,Pascanel Ferreras,Gigantes del Cibao,SI,Sinker,Swinging Strike,99.1,2613.0,1,1
+2026-11-11,851528,642376,Jefry Yan,Estrellas Orientales,814299,Pascanel Ferreras,Gigantes del Cibao,SI,Sinker,Swinging Strike,99.2,2573.0,1,1
+2026-11-11,851528,642376,Jefry Yan,Estrellas Orientales,606157,Aristides Aquino,Gigantes del Cibao,SI,Sinker,Called Strike,98.9,2528.0,0,0
+2026-11-11,851528,642376,Jefry Yan,Estrellas Orientales,606157,Aristides Aquino,Gigantes del Cibao,SL,Slider,Ball,89.0,2622.0,0,0
+2026-11-11,851528,642376,Jefry Yan,Estrellas Orientales,606157,Aristides Aquino,Gigantes del Cibao,SL,Slider,Swinging Strike,87.8,2542.0,1,1
+2026-11-11,851528,642376,Jefry Yan,Estrellas Orientales,606157,Aristides Aquino,Gigantes del Cibao,FF,Four-Seam Fastball,Ball,99.9,2599.0,0,0
+2026-11-11,851528,642376,Jefry Yan,Estrellas Orientales,606157,Aristides Aquino,Gigantes del Cibao,SI,Sinker,Swinging Strike,100.1,2665.0,1,1
+2026-11-11,851528,814305,Yunior Tur,Gigantes del Cibao,683494,Euribiel Angeles,Estrellas Orientales,FF,Four-Seam Fastball,Ball,94.7,2245.0,0,0
+2026-11-11,851528,814305,Yunior Tur,Gigantes del Cibao,683494,Euribiel Angeles,Estrellas Orientales,FF,Four-Seam Fastball,Foul,94.3,2256.0,1,0
+2026-11-11,851528,814305,Yunior Tur,Gigantes del Cibao,683494,Euribiel Angeles,Estrellas Orientales,FF,Four-Seam Fastball,Swinging Strike,95.0,2315.0,1,1
+2026-11-11,851528,814305,Yunior Tur,Gigantes del Cibao,683494,Euribiel Angeles,Estrellas Orientales,FF,Four-Seam Fastball,Foul,94.5,2285.0,1,0
+2026-11-11,851528,814305,Yunior Tur,Gigantes del Cibao,683494,Euribiel Angeles,Estrellas Orientales,FF,Four-Seam Fastball,Ball,95.7,2281.0,0,0
+2026-11-11,851528,814305,Yunior Tur,Gigantes del Cibao,683494,Euribiel Angeles,Estrellas Orientales,FF,Four-Seam Fastball,"In play, no out",94.6,2291.0,1,0
+2026-11-11,851528,814305,Yunior Tur,Gigantes del Cibao,682617,Marco Luciano,Estrellas Orientales,FF,Four-Seam Fastball,Ball,94.0,2206.0,0,0
+2026-11-11,851528,814305,Yunior Tur,Gigantes del Cibao,682617,Marco Luciano,Estrellas Orientales,FC,Cutter,Ball,90.5,2383.0,0,0
+2026-11-11,851528,814305,Yunior Tur,Gigantes del Cibao,682617,Marco Luciano,Estrellas Orientales,FC,Cutter,Called Strike,90.6,2475.0,0,0
+2026-11-11,851528,814305,Yunior Tur,Gigantes del Cibao,682617,Marco Luciano,Estrellas Orientales,FF,Four-Seam Fastball,Swinging Strike,93.7,2217.0,1,1
+2026-11-11,851528,814305,Yunior Tur,Gigantes del Cibao,682617,Marco Luciano,Estrellas Orientales,CH,Changeup,Ball,86.6,836.0,0,0
+2026-11-11,851528,814305,Yunior Tur,Gigantes del Cibao,682617,Marco Luciano,Estrellas Orientales,CH,Changeup,Swinging Strike,85.2,1676.0,1,1
+2026-11-11,851528,814305,Yunior Tur,Gigantes del Cibao,700337,Edgar Quero,Estrellas Orientales,FF,Four-Seam Fastball,Ball,93.8,2303.0,0,0
+2026-11-11,851528,814305,Yunior Tur,Gigantes del Cibao,700337,Edgar Quero,Estrellas Orientales,FF,Four-Seam Fastball,Ball,92.3,2413.0,0,0
+2026-11-11,851528,814305,Yunior Tur,Gigantes del Cibao,700337,Edgar Quero,Estrellas Orientales,FC,Cutter,Called Strike,91.4,2474.0,0,0
+2026-11-11,851528,814305,Yunior Tur,Gigantes del Cibao,700337,Edgar Quero,Estrellas Orientales,FF,Four-Seam Fastball,Foul,93.7,2200.0,1,0
+2026-11-11,851528,814305,Yunior Tur,Gigantes del Cibao,700337,Edgar Quero,Estrellas Orientales,FC,Cutter,Ball In Dirt,86.4,993.0,0,0
+2026-11-11,851528,814305,Yunior Tur,Gigantes del Cibao,700337,Edgar Quero,Estrellas Orientales,FC,Cutter,Swinging Strike,89.7,2525.0,1,1
+2026-11-11,851528,814305,Yunior Tur,Gigantes del Cibao,623507,Josh Lester,Estrellas Orientales,FC,Cutter,"In play, out(s)",91.8,2575.0,1,0
+2026-11-11,851528,678868,Eddy Yean,Estrellas Orientales,682622,Noelvi Marte,Gigantes del Cibao,SI,Sinker,Foul,96.5,2430.0,1,0
+2026-11-11,851528,678868,Eddy Yean,Estrellas Orientales,682622,Noelvi Marte,Gigantes del Cibao,SI,Sinker,Called Strike,96.3,2385.0,0,0
+2026-11-11,851528,678868,Eddy Yean,Estrellas Orientales,682622,Noelvi Marte,Gigantes del Cibao,SI,Sinker,"In play, out(s)",96.4,2342.0,1,0
+2026-11-11,851528,678868,Eddy Yean,Estrellas Orientales,608577,Nomar Mazara,Gigantes del Cibao,SI,Sinker,"In play, no out",88.6,2112.0,1,0
+2026-11-11,851528,678868,Eddy Yean,Estrellas Orientales,542303,Marcell Ozuna,Gigantes del Cibao,SI,Sinker,Foul,96.5,2450.0,1,0
+2026-11-11,851528,678868,Eddy Yean,Estrellas Orientales,542303,Marcell Ozuna,Gigantes del Cibao,FC,Cutter,Swinging Strike,85.9,2638.0,1,1
+2026-11-11,851528,678868,Eddy Yean,Estrellas Orientales,542303,Marcell Ozuna,Gigantes del Cibao,FC,Cutter,Swinging Strike,87.0,2734.0,1,1
+2026-11-11,851528,678868,Eddy Yean,Estrellas Orientales,554238,Carlos Franco,Gigantes del Cibao,SI,Sinker,Foul,96.4,2455.0,1,0
+2026-11-11,851528,678868,Eddy Yean,Estrellas Orientales,554238,Carlos Franco,Gigantes del Cibao,SI,Sinker,Foul,96.1,2443.0,1,0
+2026-11-11,851528,678868,Eddy Yean,Estrellas Orientales,554238,Carlos Franco,Gigantes del Cibao,SI,Sinker,Ball,95.1,2369.0,0,0
+2026-11-11,851528,678868,Eddy Yean,Estrellas Orientales,554238,Carlos Franco,Gigantes del Cibao,CH,Changeup,"In play, out(s)",86.5,2098.0,1,0
+2026-11-11,851528,693713,Emiliano Teodo,Gigantes del Cibao,660757,Oscar Gonzalez,Estrellas Orientales,SI,Sinker,Swinging Strike,95.0,2161.0,1,1
+2026-11-11,851528,693713,Emiliano Teodo,Gigantes del Cibao,660757,Oscar Gonzalez,Estrellas Orientales,SI,Sinker,Ball,95.7,2281.0,0,0
+2026-11-11,851528,693713,Emiliano Teodo,Gigantes del Cibao,660757,Oscar Gonzalez,Estrellas Orientales,FC,Cutter,Ball,89.7,2480.0,0,0
+2026-11-11,851528,693713,Emiliano Teodo,Gigantes del Cibao,660757,Oscar Gonzalez,Estrellas Orientales,SI,Sinker,Foul,97.1,2339.0,1,0
+2026-11-11,851528,693713,Emiliano Teodo,Gigantes del Cibao,660757,Oscar Gonzalez,Estrellas Orientales,SI,Sinker,"In play, out(s)",99.6,2432.0,1,0
+2026-11-11,851528,693713,Emiliano Teodo,Gigantes del Cibao,668845,Aaron Schunk,Estrellas Orientales,SI,Sinker,Called Strike,97.2,2278.0,0,0
+2026-11-11,851528,693713,Emiliano Teodo,Gigantes del Cibao,668845,Aaron Schunk,Estrellas Orientales,SI,Sinker,Ball,97.4,2380.0,0,0
+2026-11-11,851528,693713,Emiliano Teodo,Gigantes del Cibao,668845,Aaron Schunk,Estrellas Orientales,FC,Cutter,Ball,89.9,2535.0,0,0
+2026-11-11,851528,693713,Emiliano Teodo,Gigantes del Cibao,668845,Aaron Schunk,Estrellas Orientales,SI,Sinker,Foul,97.6,2367.0,1,0
+2026-11-11,851528,693713,Emiliano Teodo,Gigantes del Cibao,668845,Aaron Schunk,Estrellas Orientales,SI,Sinker,"In play, out(s)",98.9,2426.0,1,0
+2026-11-11,851528,693713,Emiliano Teodo,Gigantes del Cibao,694194,Miguel Bleis,Estrellas Orientales,FC,Cutter,Ball,89.4,2510.0,0,0
+2026-11-11,851528,693713,Emiliano Teodo,Gigantes del Cibao,694194,Miguel Bleis,Estrellas Orientales,SI,Sinker,Called Strike,98.2,2323.0,0,0
+2026-11-11,851528,693713,Emiliano Teodo,Gigantes del Cibao,694194,Miguel Bleis,Estrellas Orientales,SI,Sinker,Foul,98.5,2455.0,1,0
+2026-11-11,851528,693713,Emiliano Teodo,Gigantes del Cibao,694194,Miguel Bleis,Estrellas Orientales,SI,Sinker,Ball,98.6,2403.0,0,0
+2026-11-11,851528,693713,Emiliano Teodo,Gigantes del Cibao,694194,Miguel Bleis,Estrellas Orientales,FC,Cutter,"In play, out(s)",90.1,2517.0,1,0
+2026-11-11,851528,684516,Hancel Rincon,Estrellas Orientales,682663,Agustín Ramírez,Gigantes del Cibao,FC,Cutter,Ball,88.1,2359.0,0,0
+2026-11-11,851528,684516,Hancel Rincon,Estrellas Orientales,682663,Agustín Ramírez,Gigantes del Cibao,FC,Cutter,Swinging Strike,87.4,2425.0,1,1
+2026-11-11,851528,684516,Hancel Rincon,Estrellas Orientales,682663,Agustín Ramírez,Gigantes del Cibao,SI,Sinker,Swinging Strike,90.1,1432.0,1,1
+2026-11-11,851528,684516,Hancel Rincon,Estrellas Orientales,682663,Agustín Ramírez,Gigantes del Cibao,SI,Sinker,Ball,97.9,2562.0,0,0
+2026-11-11,851528,684516,Hancel Rincon,Estrellas Orientales,682663,Agustín Ramírez,Gigantes del Cibao,FF,Four-Seam Fastball,Foul,96.6,2567.0,1,0
+2026-11-11,851528,684516,Hancel Rincon,Estrellas Orientales,682663,Agustín Ramírez,Gigantes del Cibao,FF,Four-Seam Fastball,"In play, out(s)",96.3,2458.0,1,0
+2026-11-11,851528,684516,Hancel Rincon,Estrellas Orientales,682796,Eddinson Paulino,Gigantes del Cibao,FF,Four-Seam Fastball,Called Strike,97.0,2465.0,0,0
+2026-11-11,851528,684516,Hancel Rincon,Estrellas Orientales,682796,Eddinson Paulino,Gigantes del Cibao,FC,Cutter,Foul,87.8,2384.0,1,0
+2026-11-11,851528,684516,Hancel Rincon,Estrellas Orientales,682796,Eddinson Paulino,Gigantes del Cibao,SI,Sinker,Foul,96.1,2465.0,1,0
+2026-11-11,851528,684516,Hancel Rincon,Estrellas Orientales,682796,Eddinson Paulino,Gigantes del Cibao,FF,Four-Seam Fastball,"In play, out(s)",97.6,2501.0,1,0
+2026-11-11,851528,684516,Hancel Rincon,Estrellas Orientales,642721,Kelvin Gutiérrez,Gigantes del Cibao,SI,Sinker,Called Strike,90.3,1431.0,0,0
+2026-11-11,851528,684516,Hancel Rincon,Estrellas Orientales,642721,Kelvin Gutiérrez,Gigantes del Cibao,SI,Sinker,Ball,91.2,1352.0,0,0
+2026-11-11,851528,684516,Hancel Rincon,Estrellas Orientales,642721,Kelvin Gutiérrez,Gigantes del Cibao,FC,Cutter,Ball,88.9,2546.0,0,0
+2026-11-11,851528,684516,Hancel Rincon,Estrellas Orientales,642721,Kelvin Gutiérrez,Gigantes del Cibao,SI,Sinker,Called Strike,97.1,2475.0,0,0
+2026-11-11,851528,684516,Hancel Rincon,Estrellas Orientales,642721,Kelvin Gutiérrez,Gigantes del Cibao,SI,Sinker,Ball,92.3,1309.0,0,0
+2026-11-11,851528,684516,Hancel Rincon,Estrellas Orientales,642721,Kelvin Gutiérrez,Gigantes del Cibao,SI,Sinker,Foul,96.9,2491.0,1,0
+2026-11-11,851528,684516,Hancel Rincon,Estrellas Orientales,642721,Kelvin Gutiérrez,Gigantes del Cibao,FF,Four-Seam Fastball,"In play, out(s)",96.8,2479.0,1,0
+2026-11-11,851528,570663,Hansel Robles,Gigantes del Cibao,677588,José Tena,Estrellas Orientales,SI,Sinker,Called Strike,93.9,2476.0,0,0
+2026-11-11,851528,570663,Hansel Robles,Gigantes del Cibao,677588,José Tena,Estrellas Orientales,SI,Sinker,"In play, no out",88.3,1683.0,1,0
+2026-11-11,851528,570663,Hansel Robles,Gigantes del Cibao,623912,Harold Ramírez,Estrellas Orientales,SI,Sinker,Ball,93.9,2495.0,0,0
+2026-11-11,851528,570663,Hansel Robles,Gigantes del Cibao,623912,Harold Ramírez,Estrellas Orientales,SI,Sinker,"In play, out(s)",93.6,2516.0,1,0
+2026-11-11,851528,570663,Hansel Robles,Gigantes del Cibao,683494,Euribiel Angeles,Estrellas Orientales,SL,Slider,Called Strike,85.4,1075.0,0,0
+2026-11-11,851528,570663,Hansel Robles,Gigantes del Cibao,683494,Euribiel Angeles,Estrellas Orientales,SL,Slider,Ball,84.2,1719.0,0,0
+2026-11-11,851528,570663,Hansel Robles,Gigantes del Cibao,683494,Euribiel Angeles,Estrellas Orientales,SL,Slider,"In play, out(s)",86.0,1672.0,1,0
+2026-11-11,851528,472610,Luis García,Estrellas Orientales,621034,Melvin Mercedes,Gigantes del Cibao,FF,Four-Seam Fastball,Ball,94.2,2418.0,0,0
+2026-11-11,851528,472610,Luis García,Estrellas Orientales,621034,Melvin Mercedes,Gigantes del Cibao,FF,Four-Seam Fastball,Called Strike,95.1,2506.0,0,0
+2026-11-11,851528,472610,Luis García,Estrellas Orientales,621034,Melvin Mercedes,Gigantes del Cibao,FF,Four-Seam Fastball,Foul,93.7,2413.0,1,0
+2026-11-11,851528,472610,Luis García,Estrellas Orientales,621034,Melvin Mercedes,Gigantes del Cibao,FF,Four-Seam Fastball,Foul,88.5,1686.0,1,0
+2026-11-11,851528,472610,Luis García,Estrellas Orientales,621034,Melvin Mercedes,Gigantes del Cibao,FF,Four-Seam Fastball,Ball,90.2,1732.0,0,0
+2026-11-11,851528,472610,Luis García,Estrellas Orientales,621034,Melvin Mercedes,Gigantes del Cibao,FF,Four-Seam Fastball,"In play, out(s)",95.1,2433.0,1,0
+2026-11-11,851528,472610,Luis García,Estrellas Orientales,694230,Hendry Mendez,Gigantes del Cibao,FF,Four-Seam Fastball,Ball,95.4,2438.0,0,0
+2026-11-11,851528,472610,Luis García,Estrellas Orientales,694230,Hendry Mendez,Gigantes del Cibao,FF,Four-Seam Fastball,Called Strike,96.0,2490.0,0,0
+2026-11-11,851528,472610,Luis García,Estrellas Orientales,694230,Hendry Mendez,Gigantes del Cibao,SL,Slider,Ball,81.4,1277.0,0,0
+2026-11-11,851528,472610,Luis García,Estrellas Orientales,694230,Hendry Mendez,Gigantes del Cibao,FF,Four-Seam Fastball,Ball,94.9,2447.0,0,0
+2026-11-11,851528,472610,Luis García,Estrellas Orientales,694230,Hendry Mendez,Gigantes del Cibao,FF,Four-Seam Fastball,Ball,93.9,2434.0,0,0
+2026-11-11,851528,472610,Luis García,Estrellas Orientales,682622,Noelvi Marte,Gigantes del Cibao,FF,Four-Seam Fastball,Called Strike,95.4,2438.0,0,0
+2026-11-11,851528,472610,Luis García,Estrellas Orientales,682622,Noelvi Marte,Gigantes del Cibao,SL,Slider,Called Strike,80.9,2536.0,0,0
+2026-11-11,851528,472610,Luis García,Estrellas Orientales,682622,Noelvi Marte,Gigantes del Cibao,FF,Four-Seam Fastball,Ball,96.9,2411.0,0,0
+2026-11-11,851528,472610,Luis García,Estrellas Orientales,682622,Noelvi Marte,Gigantes del Cibao,SL,Slider,Foul,83.0,2628.0,1,0
+2026-11-11,851528,472610,Luis García,Estrellas Orientales,682622,Noelvi Marte,Gigantes del Cibao,FF,Four-Seam Fastball,Foul,94.7,2370.0,1,0
+2026-11-11,851528,472610,Luis García,Estrellas Orientales,682622,Noelvi Marte,Gigantes del Cibao,SL,Slider,Swinging Strike (Blocked),84.8,2713.0,1,1
+2026-11-11,851528,472610,Luis García,Estrellas Orientales,608577,Nomar Mazara,Gigantes del Cibao,FF,Four-Seam Fastball,Swinging Strike,96.1,2402.0,1,1
+2026-11-11,851528,472610,Luis García,Estrellas Orientales,608577,Nomar Mazara,Gigantes del Cibao,FF,Four-Seam Fastball,Ball In Dirt,88.5,1781.0,0,0
+2026-11-11,851528,472610,Luis García,Estrellas Orientales,608577,Nomar Mazara,Gigantes del Cibao,FF,Four-Seam Fastball,"In play, out(s)",95.0,2395.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,516631,Gustavo Nunez,Tigres del Licey,FF,Four-Seam Fastball,Called Strike,90.2,2599.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,516631,Gustavo Nunez,Tigres del Licey,CU,Curveball,Foul,77.1,2238.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,516631,Gustavo Nunez,Tigres del Licey,FF,Four-Seam Fastball,Foul,92.4,2607.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,516631,Gustavo Nunez,Tigres del Licey,FF,Four-Seam Fastball,Ball,92.3,2625.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,516631,Gustavo Nunez,Tigres del Licey,FF,Four-Seam Fastball,Swinging Strike,92.3,2572.0,1,1
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,642727,Sergio Alcántara,Tigres del Licey,CU,Curveball,Called Strike,80.1,2340.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,642727,Sergio Alcántara,Tigres del Licey,FF,Four-Seam Fastball,Ball,92.2,2599.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,642727,Sergio Alcántara,Tigres del Licey,FF,Four-Seam Fastball,Ball,91.7,2560.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,642727,Sergio Alcántara,Tigres del Licey,FF,Four-Seam Fastball,"In play, out(s)",91.2,2605.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,677595,Ronny Mauricio,Tigres del Licey,FF,Four-Seam Fastball,Foul,91.6,2571.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,677595,Ronny Mauricio,Tigres del Licey,CU,Curveball,Called Strike,77.3,2086.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,677595,Ronny Mauricio,Tigres del Licey,CU,Curveball,"In play, out(s)",79.9,2264.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,672642,Steward Berroa,Aguilas Cibaenas,SI,Sinker,Ball,92.3,2332.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,672642,Steward Berroa,Aguilas Cibaenas,SI,Sinker,Called Strike,92.4,2378.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,672642,Steward Berroa,Aguilas Cibaenas,CH,Changeup,Ball,86.6,1950.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,672642,Steward Berroa,Aguilas Cibaenas,SI,Sinker,Called Strike,92.7,2431.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,672642,Steward Berroa,Aguilas Cibaenas,SI,Sinker,Foul,93.7,2454.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,672642,Steward Berroa,Aguilas Cibaenas,CU,Curveball,Called Strike,79.1,2747.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,642451,Luis Liberato,Aguilas Cibaenas,CH,Changeup,Ball,85.9,1855.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,642451,Luis Liberato,Aguilas Cibaenas,FC,Cutter,"In play, no out",90.1,2478.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,691176,Jasson Domínguez,Aguilas Cibaenas,SI,Sinker,Called Strike,92.7,2297.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,691176,Jasson Domínguez,Aguilas Cibaenas,CH,Changeup,Ball,84.9,1862.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,691176,Jasson Domínguez,Aguilas Cibaenas,CU,Curveball,Called Strike,78.4,2726.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,691176,Jasson Domínguez,Aguilas Cibaenas,SI,Sinker,Ball,92.5,2354.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,691176,Jasson Domínguez,Aguilas Cibaenas,CH,Changeup,"In play, no out",87.7,1916.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,691182,Adael Amador,Aguilas Cibaenas,CU,Curveball,Called Strike,79.9,2627.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,691182,Adael Amador,Aguilas Cibaenas,FC,Cutter,Ball,89.5,2434.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,691182,Adael Amador,Aguilas Cibaenas,SI,Sinker,Ball,92.5,2339.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,691182,Adael Amador,Aguilas Cibaenas,SL,Slider,Foul,80.1,2798.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,691182,Adael Amador,Aguilas Cibaenas,SI,Sinker,"In play, run(s)",93.1,2327.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,641555,J.C. Escarra,Aguilas Cibaenas,SI,Sinker,Called Strike,92.8,2326.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,641555,J.C. Escarra,Aguilas Cibaenas,SL,Slider,Ball,80.8,2766.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,641555,J.C. Escarra,Aguilas Cibaenas,CH,Changeup,Swinging Strike,86.7,1982.0,1,1
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,641555,J.C. Escarra,Aguilas Cibaenas,SI,Sinker,"In play, run(s)",92.9,2396.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,691001,Robert Moore,Aguilas Cibaenas,SI,Sinker,"In play, out(s)",92.1,2478.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,542436,Cristhian Adames,Tigres del Licey,FF,Four-Seam Fastball,Called Strike,90.5,2527.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,542436,Cristhian Adames,Tigres del Licey,FF,Four-Seam Fastball,Swinging Strike,91.1,2573.0,1,1
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,542436,Cristhian Adames,Tigres del Licey,CU,Curveball,Ball,77.6,2228.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,542436,Cristhian Adames,Tigres del Licey,CU,Curveball,Foul,78.8,2256.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,542436,Cristhian Adames,Tigres del Licey,FF,Four-Seam Fastball,Ball,91.4,2578.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,542436,Cristhian Adames,Tigres del Licey,CU,Curveball,Foul,79.3,2188.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,542436,Cristhian Adames,Tigres del Licey,FF,Four-Seam Fastball,Called Strike,92.9,2664.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,592692,Mel Rojas Jr.,Tigres del Licey,FF,Four-Seam Fastball,Ball,88.9,1590.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,592692,Mel Rojas Jr.,Tigres del Licey,FF,Four-Seam Fastball,Ball,92.3,2626.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,592692,Mel Rojas Jr.,Tigres del Licey,FF,Four-Seam Fastball,"In play, out(s)",91.4,2702.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,642336,Francisco Mejía,Tigres del Licey,FF,Four-Seam Fastball,Ball,91.6,2672.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,642336,Francisco Mejía,Tigres del Licey,CU,Curveball,Foul,80.8,2382.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,642336,Francisco Mejía,Tigres del Licey,FF,Four-Seam Fastball,Called Strike,91.7,2518.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,642336,Francisco Mejía,Tigres del Licey,CU,Curveball,"In play, out(s)",78.2,2221.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,573669,Aderlin Rodríguez,Aguilas Cibaenas,SI,Sinker,Called Strike,91.6,2357.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,573669,Aderlin Rodríguez,Aguilas Cibaenas,SI,Sinker,Ball,91.7,2336.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,573669,Aderlin Rodríguez,Aguilas Cibaenas,CU,Curveball,Ball,79.6,2722.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,573669,Aderlin Rodríguez,Aguilas Cibaenas,SI,Sinker,Ball,92.0,2326.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,573669,Aderlin Rodríguez,Aguilas Cibaenas,FC,Cutter,Ball,88.4,2413.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,669384,Raynel Delgado,Aguilas Cibaenas,SI,Sinker,Foul,91.5,2347.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,669384,Raynel Delgado,Aguilas Cibaenas,CU,Curveball,Swinging Strike,78.5,2585.0,1,1
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,669384,Raynel Delgado,Aguilas Cibaenas,SI,Sinker,Ball,91.6,2381.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,669384,Raynel Delgado,Aguilas Cibaenas,CH,Changeup,Foul,85.7,1788.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,669384,Raynel Delgado,Aguilas Cibaenas,FC,Cutter,Foul,88.4,2430.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,669384,Raynel Delgado,Aguilas Cibaenas,SI,Sinker,Foul,92.0,2339.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,669384,Raynel Delgado,Aguilas Cibaenas,SI,Sinker,Ball,92.4,2357.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,669384,Raynel Delgado,Aguilas Cibaenas,CU,Curveball,Foul,79.3,2606.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,669384,Raynel Delgado,Aguilas Cibaenas,SI,Sinker,Swinging Strike,91.4,2295.0,1,1
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,682679,Dayan Frias,Aguilas Cibaenas,SI,Sinker,"In play, out(s)",91.1,2387.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,672642,Steward Berroa,Aguilas Cibaenas,SI,Sinker,Foul,90.6,2261.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,672642,Steward Berroa,Aguilas Cibaenas,SL,Slider,Ball In Dirt,79.8,2668.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,672642,Steward Berroa,Aguilas Cibaenas,CH,Changeup,"In play, out(s)",85.4,1863.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,664314,Estevan Florial,Tigres del Licey,FF,Four-Seam Fastball,Foul,90.4,2564.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,664314,Estevan Florial,Tigres del Licey,CU,Curveball,Ball,78.4,1822.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,664314,Estevan Florial,Tigres del Licey,FF,Four-Seam Fastball,"In play, out(s)",91.0,2507.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,691292,Angel Ortiz,Tigres del Licey,CU,Curveball,Ball,79.6,2316.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,691292,Angel Ortiz,Tigres del Licey,FF,Four-Seam Fastball,Foul,90.9,2690.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,691292,Angel Ortiz,Tigres del Licey,CU,Curveball,Foul,79.2,2125.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,691292,Angel Ortiz,Tigres del Licey,FF,Four-Seam Fastball,Ball,91.7,2556.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,691292,Angel Ortiz,Tigres del Licey,CU,Curveball,Ball,79.8,2207.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,691292,Angel Ortiz,Tigres del Licey,FF,Four-Seam Fastball,"In play, out(s)",91.5,2527.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,466988,Emilio Bonifácio,Tigres del Licey,FF,Four-Seam Fastball,Ball,90.5,2545.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,466988,Emilio Bonifácio,Tigres del Licey,FF,Four-Seam Fastball,Foul Tip,90.6,2647.0,1,1
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,466988,Emilio Bonifácio,Tigres del Licey,FF,Four-Seam Fastball,"In play, out(s)",91.8,2619.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,642451,Luis Liberato,Aguilas Cibaenas,CH,Changeup,"In play, out(s)",84.1,1815.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,691176,Jasson Domínguez,Aguilas Cibaenas,SI,Sinker,Ball,92.1,2348.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,691176,Jasson Domínguez,Aguilas Cibaenas,SI,Sinker,Ball,90.9,2279.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,691176,Jasson Domínguez,Aguilas Cibaenas,SI,Sinker,Called Strike,92.4,2371.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,691176,Jasson Domínguez,Aguilas Cibaenas,FC,Cutter,Foul,89.2,2476.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,691176,Jasson Domínguez,Aguilas Cibaenas,CU,Curveball,"In play, out(s)",78.7,2863.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,691182,Adael Amador,Aguilas Cibaenas,SI,Sinker,Foul,91.4,2372.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,691182,Adael Amador,Aguilas Cibaenas,CH,Changeup,Ball,85.2,1842.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,691182,Adael Amador,Aguilas Cibaenas,CH,Changeup,"In play, out(s)",85.4,1859.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,516631,Gustavo Nunez,Tigres del Licey,CU,Curveball,Ball,78.6,2163.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,516631,Gustavo Nunez,Tigres del Licey,CU,Curveball,Ball,78.3,2090.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,516631,Gustavo Nunez,Tigres del Licey,FF,Four-Seam Fastball,Foul,88.7,2565.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,516631,Gustavo Nunez,Tigres del Licey,FF,Four-Seam Fastball,Foul,89.6,2634.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,516631,Gustavo Nunez,Tigres del Licey,CU,Curveball,Called Strike,78.7,1923.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,642727,Sergio Alcántara,Tigres del Licey,CU,Curveball,Ball,80.7,2280.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,642727,Sergio Alcántara,Tigres del Licey,FF,Four-Seam Fastball,"In play, no out",89.8,2555.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,677595,Ronny Mauricio,Tigres del Licey,CU,Curveball,"In play, out(s)",77.5,2123.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,542436,Cristhian Adames,Tigres del Licey,FF,Four-Seam Fastball,Swinging Strike,90.0,2579.0,1,1
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,542436,Cristhian Adames,Tigres del Licey,CU,Curveball,Swinging Strike (Blocked),78.6,2239.0,1,1
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,542436,Cristhian Adames,Tigres del Licey,FF,Four-Seam Fastball,Ball,90.0,2531.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,542436,Cristhian Adames,Tigres del Licey,FF,Four-Seam Fastball,Foul,91.7,2589.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,542436,Cristhian Adames,Tigres del Licey,CU,Curveball,Called Strike,80.2,2276.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,641555,J.C. Escarra,Aguilas Cibaenas,SI,Sinker,Foul,90.6,2384.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,641555,J.C. Escarra,Aguilas Cibaenas,CH,Changeup,Ball,83.8,1844.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,641555,J.C. Escarra,Aguilas Cibaenas,FC,Cutter,"In play, out(s)",89.4,2427.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,691001,Robert Moore,Aguilas Cibaenas,CH,Changeup,Ball,84.6,1848.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,691001,Robert Moore,Aguilas Cibaenas,CH,Changeup,Ball,85.4,1878.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,691001,Robert Moore,Aguilas Cibaenas,CU,Curveball,Called Strike,77.8,2553.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,691001,Robert Moore,Aguilas Cibaenas,CU,Curveball,Swinging Strike,77.4,2592.0,1,1
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,691001,Robert Moore,Aguilas Cibaenas,CH,Changeup,Foul,86.4,1840.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,691001,Robert Moore,Aguilas Cibaenas,SI,Sinker,"In play, out(s)",91.8,2328.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,573669,Aderlin Rodríguez,Aguilas Cibaenas,SI,Sinker,Ball,92.7,2412.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,573669,Aderlin Rodríguez,Aguilas Cibaenas,SI,Sinker,Swinging Strike,91.6,2364.0,1,1
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,573669,Aderlin Rodríguez,Aguilas Cibaenas,SI,Sinker,Foul,91.5,2364.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,573669,Aderlin Rodríguez,Aguilas Cibaenas,SL,Slider,Ball,81.3,2746.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,573669,Aderlin Rodríguez,Aguilas Cibaenas,SL,Slider,Foul,80.8,2736.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,573669,Aderlin Rodríguez,Aguilas Cibaenas,SI,Sinker,"In play, out(s)",93.0,2475.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,592692,Mel Rojas Jr.,Tigres del Licey,CU,Curveball,Ball,78.1,2256.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,592692,Mel Rojas Jr.,Tigres del Licey,CU,Curveball,Ball,78.8,2224.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,592692,Mel Rojas Jr.,Tigres del Licey,FF,Four-Seam Fastball,Foul,89.7,2634.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,592692,Mel Rojas Jr.,Tigres del Licey,FF,Four-Seam Fastball,Ball,90.7,2665.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,592692,Mel Rojas Jr.,Tigres del Licey,FF,Four-Seam Fastball,"In play, no out",89.5,2575.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,642336,Francisco Mejía,Tigres del Licey,FF,Four-Seam Fastball,Called Strike,89.0,2482.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,642336,Francisco Mejía,Tigres del Licey,FF,Four-Seam Fastball,"In play, out(s)",89.0,2614.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,664314,Estevan Florial,Tigres del Licey,CU,Curveball,Ball,80.9,2211.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,664314,Estevan Florial,Tigres del Licey,CU,Curveball,Called Strike,80.0,2359.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,664314,Estevan Florial,Tigres del Licey,CU,Curveball,Ball In Dirt,80.0,2289.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,664314,Estevan Florial,Tigres del Licey,FF,Four-Seam Fastball,Foul,90.6,2528.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,664314,Estevan Florial,Tigres del Licey,FF,Four-Seam Fastball,"In play, run(s)",91.5,2529.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,691292,Angel Ortiz,Tigres del Licey,FF,Four-Seam Fastball,Called Strike,91.4,2697.0,0,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,691292,Angel Ortiz,Tigres del Licey,CU,Curveball,Foul,79.7,2308.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,691292,Angel Ortiz,Tigres del Licey,CU,Curveball,Foul,80.1,2046.0,1,0
+2026-11-11,851561,605218,Carl Edwards Jr.,Aguilas Cibaenas,691292,Angel Ortiz,Tigres del Licey,FF,Four-Seam Fastball,Swinging Strike,90.8,2623.0,1,1
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,669384,Raynel Delgado,Aguilas Cibaenas,SL,Slider,Ball,79.3,2813.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,669384,Raynel Delgado,Aguilas Cibaenas,CU,Curveball,Foul,78.3,2789.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,669384,Raynel Delgado,Aguilas Cibaenas,SI,Sinker,"In play, out(s)",91.3,2291.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,682679,Dayan Frias,Aguilas Cibaenas,CU,Curveball,Ball,74.9,2721.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,682679,Dayan Frias,Aguilas Cibaenas,CH,Changeup,"In play, out(s)",84.9,1793.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,672642,Steward Berroa,Aguilas Cibaenas,SI,Sinker,Called Strike,91.2,2253.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,672642,Steward Berroa,Aguilas Cibaenas,CH,Changeup,Ball,83.9,1903.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,672642,Steward Berroa,Aguilas Cibaenas,CU,Curveball,Ball,77.3,2715.0,0,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,672642,Steward Berroa,Aguilas Cibaenas,SI,Sinker,Swinging Strike,91.0,2279.0,1,1
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,672642,Steward Berroa,Aguilas Cibaenas,CH,Changeup,Foul,85.6,1888.0,1,0
+2026-11-11,851561,658431,Adonis Medina,Tigres del Licey,672642,Steward Berroa,Aguilas Cibaenas,SI,Sinker,Called Strike,92.6,2352.0,0,0
+2026-11-11,851561,641682,Ryan Hendrix,Aguilas Cibaenas,466988,Emilio Bonifácio,Tigres del Licey,SI,Sinker,Foul,96.7,2396.0,1,0
+2026-11-11,851561,641682,Ryan Hendrix,Aguilas Cibaenas,466988,Emilio Bonifácio,Tigres del Licey,SI,Sinker,"In play, out(s)",97.6,2345.0,1,0
+2026-11-11,851561,641682,Ryan Hendrix,Aguilas Cibaenas,516631,Gustavo Nunez,Tigres del Licey,SI,Sinker,Ball,98.2,2389.0,0,0
+2026-11-11,851561,641682,Ryan Hendrix,Aguilas Cibaenas,516631,Gustavo Nunez,Tigres del Licey,SI,Sinker,Ball,96.4,2335.0,0,0
+2026-11-11,851561,641682,Ryan Hendrix,Aguilas Cibaenas,516631,Gustavo Nunez,Tigres del Licey,SI,Sinker,Ball,97.2,2357.0,0,0
+2026-11-11,851561,641682,Ryan Hendrix,Aguilas Cibaenas,516631,Gustavo Nunez,Tigres del Licey,FF,Four-Seam Fastball,Ball,96.9,2406.0,0,0
+2026-11-11,851561,641682,Ryan Hendrix,Aguilas Cibaenas,642727,Sergio Alcántara,Tigres del Licey,SI,Sinker,Ball,90.4,2081.0,0,0
+2026-11-11,851561,641682,Ryan Hendrix,Aguilas Cibaenas,642727,Sergio Alcántara,Tigres del Licey,FF,Four-Seam Fastball,Ball,97.4,2387.0,0,0
+2026-11-11,851561,641682,Ryan Hendrix,Aguilas Cibaenas,642727,Sergio Alcántara,Tigres del Licey,SI,Sinker,Ball,98.1,2442.0,0,0
+2026-11-11,851561,641682,Ryan Hendrix,Aguilas Cibaenas,642727,Sergio Alcántara,Tigres del Licey,SI,Sinker,Called Strike,98.1,2434.0,0,0
+2026-11-11,851561,641682,Ryan Hendrix,Aguilas Cibaenas,642727,Sergio Alcántara,Tigres del Licey,SI,Sinker,Called Strike,98.0,2457.0,0,0
+2026-11-11,851561,641682,Ryan Hendrix,Aguilas Cibaenas,642727,Sergio Alcántara,Tigres del Licey,SI,Sinker,"In play, run(s)",98.7,2456.0,1,0
+2026-11-11,851561,650893,Génesis Cabrera,Aguilas Cibaenas,677595,Ronny Mauricio,Tigres del Licey,CU,Curveball,Swinging Strike,84.2,2478.0,1,1
+2026-11-11,851561,650893,Génesis Cabrera,Aguilas Cibaenas,677595,Ronny Mauricio,Tigres del Licey,CH,Changeup,Ball,87.8,1987.0,0,0
+2026-11-11,851561,650893,Génesis Cabrera,Aguilas Cibaenas,677595,Ronny Mauricio,Tigres del Licey,CU,Curveball,"In play, out(s)",84.1,2367.0,1,0
+2026-11-11,851561,650893,Génesis Cabrera,Aguilas Cibaenas,542436,Cristhian Adames,Tigres del Licey,FT,Two-Seam Fastball,Swinging Strike,94.5,2373.0,1,1
+2026-11-11,851561,650893,Génesis Cabrera,Aguilas Cibaenas,542436,Cristhian Adames,Tigres del Licey,FF,Four-Seam Fastball,Ball,95.3,2412.0,0,0
+2026-11-11,851561,650893,Génesis Cabrera,Aguilas Cibaenas,542436,Cristhian Adames,Tigres del Licey,CU,Curveball,Swinging Strike (Blocked),86.1,2560.0,1,1
+2026-11-11,851561,650893,Génesis Cabrera,Aguilas Cibaenas,542436,Cristhian Adames,Tigres del Licey,CU,Curveball,Swinging Strike,85.6,2489.0,1,1
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,642451,Luis Liberato,Aguilas Cibaenas,CH,Changeup,Ball,86.1,2078.0,0,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,642451,Luis Liberato,Aguilas Cibaenas,FC,Cutter,Called Strike,89.4,2458.0,0,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,642451,Luis Liberato,Aguilas Cibaenas,FC,Cutter,"In play, out(s)",87.5,1759.0,1,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,691176,Jasson Domínguez,Aguilas Cibaenas,CH,Changeup,Called Strike,86.7,2078.0,0,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,691176,Jasson Domínguez,Aguilas Cibaenas,CU,Curveball,Called Strike,78.0,2728.0,0,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,691176,Jasson Domínguez,Aguilas Cibaenas,CH,Changeup,"In play, out(s)",87.8,1660.0,1,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,691182,Adael Amador,Aguilas Cibaenas,CU,Curveball,Called Strike,78.2,2647.0,0,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,691182,Adael Amador,Aguilas Cibaenas,FC,Cutter,Called Strike,88.1,2460.0,0,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,691182,Adael Amador,Aguilas Cibaenas,CH,Changeup,"In play, out(s)",87.6,1792.0,1,0
+2026-11-11,851561,699214,Leandro Lopez,Aguilas Cibaenas,592692,Mel Rojas Jr.,Tigres del Licey,FF,Four-Seam Fastball,Ball,95.3,2447.0,0,0
+2026-11-11,851561,699214,Leandro Lopez,Aguilas Cibaenas,592692,Mel Rojas Jr.,Tigres del Licey,FF,Four-Seam Fastball,"In play, out(s)",93.8,2442.0,1,0
+2026-11-11,851561,699214,Leandro Lopez,Aguilas Cibaenas,642336,Francisco Mejía,Tigres del Licey,SL,Slider,Called Strike,86.1,2651.0,0,0
+2026-11-11,851561,699214,Leandro Lopez,Aguilas Cibaenas,642336,Francisco Mejía,Tigres del Licey,FF,Four-Seam Fastball,Ball,95.6,2378.0,0,0
+2026-11-11,851561,699214,Leandro Lopez,Aguilas Cibaenas,642336,Francisco Mejía,Tigres del Licey,FF,Four-Seam Fastball,Foul,95.5,2370.0,1,0
+2026-11-11,851561,699214,Leandro Lopez,Aguilas Cibaenas,642336,Francisco Mejía,Tigres del Licey,SL,Slider,Foul,84.9,2714.0,1,0
+2026-11-11,851561,699214,Leandro Lopez,Aguilas Cibaenas,642336,Francisco Mejía,Tigres del Licey,FF,Four-Seam Fastball,Swinging Strike,96.7,2461.0,1,1
+2026-11-11,851561,699214,Leandro Lopez,Aguilas Cibaenas,664314,Estevan Florial,Tigres del Licey,FF,Four-Seam Fastball,Called Strike,96.9,2479.0,0,0
+2026-11-11,851561,699214,Leandro Lopez,Aguilas Cibaenas,664314,Estevan Florial,Tigres del Licey,SL,Slider,Called Strike,86.4,2710.0,0,0
+2026-11-11,851561,699214,Leandro Lopez,Aguilas Cibaenas,664314,Estevan Florial,Tigres del Licey,FF,Four-Seam Fastball,"In play, out(s)",98.0,2508.0,1,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,641555,J.C. Escarra,Aguilas Cibaenas,CU,Curveball,Swinging Strike,78.1,2614.0,1,1
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,641555,J.C. Escarra,Aguilas Cibaenas,FC,Cutter,Ball,88.0,1808.0,0,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,641555,J.C. Escarra,Aguilas Cibaenas,FC,Cutter,"In play, run(s)",86.7,2478.0,1,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,691001,Robert Moore,Aguilas Cibaenas,FF,Four-Seam Fastball,Foul,92.0,2374.0,1,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,691001,Robert Moore,Aguilas Cibaenas,FF,Four-Seam Fastball,Ball,91.6,2337.0,0,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,691001,Robert Moore,Aguilas Cibaenas,CH,Changeup,Ball,85.7,1893.0,0,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,691001,Robert Moore,Aguilas Cibaenas,FF,Four-Seam Fastball,Ball,91.8,2396.0,0,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,691001,Robert Moore,Aguilas Cibaenas,FF,Four-Seam Fastball,"In play, out(s)",90.7,2366.0,1,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,573669,Aderlin Rodríguez,Aguilas Cibaenas,FF,Four-Seam Fastball,Ball,92.5,2356.0,0,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,573669,Aderlin Rodríguez,Aguilas Cibaenas,FF,Four-Seam Fastball,"In play, out(s)",91.7,2453.0,1,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,669384,Raynel Delgado,Aguilas Cibaenas,CU,Curveball,Ball,77.5,2655.0,0,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,669384,Raynel Delgado,Aguilas Cibaenas,CH,Changeup,Ball,86.5,2059.0,0,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,669384,Raynel Delgado,Aguilas Cibaenas,FF,Four-Seam Fastball,Called Strike,91.8,2390.0,0,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,669384,Raynel Delgado,Aguilas Cibaenas,FF,Four-Seam Fastball,Ball,91.4,2376.0,0,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,669384,Raynel Delgado,Aguilas Cibaenas,FF,Four-Seam Fastball,Ball,91.8,2375.0,0,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,682679,Dayan Frias,Aguilas Cibaenas,FF,Four-Seam Fastball,Called Strike,92.5,2404.0,0,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,682679,Dayan Frias,Aguilas Cibaenas,CH,Changeup,Ball In Dirt,87.9,1700.0,0,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,682679,Dayan Frias,Aguilas Cibaenas,CH,Changeup,Foul,86.2,2030.0,1,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,682679,Dayan Frias,Aguilas Cibaenas,FC,Cutter,Ball,86.6,1662.0,0,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,682679,Dayan Frias,Aguilas Cibaenas,FF,Four-Seam Fastball,Foul,88.4,1727.0,1,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,682679,Dayan Frias,Aguilas Cibaenas,CU,Curveball,Ball,77.7,2716.0,0,0
+2026-11-11,851561,650668,Humberto Mejía,Tigres del Licey,682679,Dayan Frias,Aguilas Cibaenas,FF,Four-Seam Fastball,Ball,91.8,2293.0,0,0
+2026-11-11,851561,669993,Raul Brito,Aguilas Cibaenas,691292,Angel Ortiz,Tigres del Licey,CU,Curveball,Ball,80.5,2938.0,0,0
+2026-11-11,851561,669993,Raul Brito,Aguilas Cibaenas,691292,Angel Ortiz,Tigres del Licey,FF,Four-Seam Fastball,Foul,95.3,2478.0,1,0
+2026-11-11,851561,669993,Raul Brito,Aguilas Cibaenas,691292,Angel Ortiz,Tigres del Licey,FF,Four-Seam Fastball,Ball,95.7,2297.0,0,0
+2026-11-11,851561,669993,Raul Brito,Aguilas Cibaenas,691292,Angel Ortiz,Tigres del Licey,FF,Four-Seam Fastball,"In play, out(s)",95.3,2359.0,1,0
+2026-11-11,851561,669993,Raul Brito,Aguilas Cibaenas,466988,Emilio Bonifácio,Tigres del Licey,FF,Four-Seam Fastball,"In play, out(s)",94.5,2436.0,1,0
+2026-11-11,851561,669993,Raul Brito,Aguilas Cibaenas,516631,Gustavo Nunez,Tigres del Licey,FF,Four-Seam Fastball,Called Strike,94.8,2380.0,0,0
+2026-11-11,851561,669993,Raul Brito,Aguilas Cibaenas,516631,Gustavo Nunez,Tigres del Licey,CU,Curveball,Ball,76.6,3133.0,0,0
+2026-11-11,851561,669993,Raul Brito,Aguilas Cibaenas,516631,Gustavo Nunez,Tigres del Licey,FF,Four-Seam Fastball,Ball,94.7,2439.0,0,0
+2026-11-11,851561,669993,Raul Brito,Aguilas Cibaenas,516631,Gustavo Nunez,Tigres del Licey,SL,Slider,Ball,81.4,3040.0,0,0
+2026-11-11,851561,669993,Raul Brito,Aguilas Cibaenas,516631,Gustavo Nunez,Tigres del Licey,FF,Four-Seam Fastball,Ball,94.8,2396.0,0,0
+2026-11-11,851561,669993,Raul Brito,Aguilas Cibaenas,682634,Kevin Alcántara,Tigres del Licey,FF,Four-Seam Fastball,Swinging Strike,95.2,2275.0,1,1
+2026-11-11,851561,669993,Raul Brito,Aguilas Cibaenas,682634,Kevin Alcántara,Tigres del Licey,SI,Sinker,"In play, out(s)",94.8,2317.0,1,0
+2026-11-11,851561,666818,Luis Frías,Tigres del Licey,672642,Steward Berroa,Aguilas Cibaenas,FF,Four-Seam Fastball,Called Strike,94.8,2273.0,0,0
+2026-11-11,851561,666818,Luis Frías,Tigres del Licey,672642,Steward Berroa,Aguilas Cibaenas,SI,Sinker,Ball,95.5,2280.0,0,0
+2026-11-11,851561,666818,Luis Frías,Tigres del Licey,672642,Steward Berroa,Aguilas Cibaenas,SI,Sinker,Called Strike,95.9,2233.0,0,0
+2026-11-11,851561,666818,Luis Frías,Tigres del Licey,672642,Steward Berroa,Aguilas Cibaenas,FF,Four-Seam Fastball,Foul,89.2,1582.0,1,0
+2026-11-11,851561,666818,Luis Frías,Tigres del Licey,672642,Steward Berroa,Aguilas Cibaenas,SL,Slider,Foul,85.6,2235.0,1,0
+2026-11-11,851561,666818,Luis Frías,Tigres del Licey,672642,Steward Berroa,Aguilas Cibaenas,SI,Sinker,"In play, no out",96.9,2217.0,1,0
+2026-11-11,851561,666818,Luis Frías,Tigres del Licey,642451,Luis Liberato,Aguilas Cibaenas,CH,Changeup,Ball,87.0,1345.0,0,0
+2026-11-11,851561,666818,Luis Frías,Tigres del Licey,642451,Luis Liberato,Aguilas Cibaenas,SI,Sinker,"In play, out(s)",95.4,2146.0,1,0
+2026-11-11,851561,666818,Luis Frías,Tigres del Licey,691176,Jasson Domínguez,Aguilas Cibaenas,FF,Four-Seam Fastball,Ball,96.7,2138.0,0,0
+2026-11-11,851561,666818,Luis Frías,Tigres del Licey,691176,Jasson Domínguez,Aguilas Cibaenas,SI,Sinker,Ball,94.9,2111.0,0,0
+2026-11-11,851561,666818,Luis Frías,Tigres del Licey,691176,Jasson Domínguez,Aguilas Cibaenas,SI,Sinker,Foul,96.2,2204.0,1,0
+2026-11-11,851561,666818,Luis Frías,Tigres del Licey,691176,Jasson Domínguez,Aguilas Cibaenas,CH,Changeup,Ball,87.1,1468.0,0,0
+2026-11-11,851561,666818,Luis Frías,Tigres del Licey,691176,Jasson Domínguez,Aguilas Cibaenas,FF,Four-Seam Fastball,Ball In Dirt,96.7,2101.0,0,0
+2026-11-11,851561,666818,Luis Frías,Tigres del Licey,691182,Adael Amador,Aguilas Cibaenas,SL,Slider,Ball,83.7,2111.0,0,0
+2026-11-11,851561,666818,Luis Frías,Tigres del Licey,691182,Adael Amador,Aguilas Cibaenas,FF,Four-Seam Fastball,Called Strike,95.9,2191.0,0,0
+2026-11-11,851561,666818,Luis Frías,Tigres del Licey,691182,Adael Amador,Aguilas Cibaenas,CU,Curveball,Foul,83.2,2159.0,1,0
+2026-11-11,851561,666818,Luis Frías,Tigres del Licey,691182,Adael Amador,Aguilas Cibaenas,FF,Four-Seam Fastball,Swinging Strike,95.8,2175.0,1,1
+2026-11-11,851561,666818,Luis Frías,Tigres del Licey,641555,J.C. Escarra,Aguilas Cibaenas,SI,Sinker,Ball,97.0,2154.0,0,0
+2026-11-11,851561,666818,Luis Frías,Tigres del Licey,641555,J.C. Escarra,Aguilas Cibaenas,FF,Four-Seam Fastball,"In play, out(s)",89.4,1618.0,1,0
+2026-11-11,851561,608167,Jonathan Aro,Aguilas Cibaenas,677595,Ronny Mauricio,Tigres del Licey,SL,Slider,Foul,85.3,2382.0,1,0
+2026-11-11,851561,608167,Jonathan Aro,Aguilas Cibaenas,677595,Ronny Mauricio,Tigres del Licey,FF,Four-Seam Fastball,"In play, out(s)",91.8,2374.0,1,0
+2026-11-11,851561,608167,Jonathan Aro,Aguilas Cibaenas,542436,Cristhian Adames,Tigres del Licey,FF,Four-Seam Fastball,Swinging Strike,92.7,2347.0,1,1
+2026-11-11,851561,608167,Jonathan Aro,Aguilas Cibaenas,542436,Cristhian Adames,Tigres del Licey,SL,Slider,Foul,82.5,2311.0,1,0
+2026-11-11,851561,608167,Jonathan Aro,Aguilas Cibaenas,542436,Cristhian Adames,Tigres del Licey,SL,Slider,Ball,83.5,1450.0,0,0
+2026-11-11,851561,608167,Jonathan Aro,Aguilas Cibaenas,542436,Cristhian Adames,Tigres del Licey,FF,Four-Seam Fastball,Swinging Strike,92.8,2339.0,1,1
+2026-11-11,851561,608167,Jonathan Aro,Aguilas Cibaenas,592692,Mel Rojas Jr.,Tigres del Licey,SL,Slider,Ball,82.9,1475.0,0,0
+2026-11-11,851561,608167,Jonathan Aro,Aguilas Cibaenas,592692,Mel Rojas Jr.,Tigres del Licey,SL,Slider,Called Strike,83.4,2351.0,0,0
+2026-11-11,851561,608167,Jonathan Aro,Aguilas Cibaenas,592692,Mel Rojas Jr.,Tigres del Licey,FF,Four-Seam Fastball,"In play, out(s)",92.9,2344.0,1,0

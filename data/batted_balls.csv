@@ -2883,3 +2883,165 @@ date,game_pk,batter_id,player,team,pitcher_id,pitcher,pitcher_team,result,exit_v
 2026-11-10,851452,516631,Gustavo Nunez,Tigres del Licey,684871,Enmanuel Mejia,Gigantes del Cibao,Groundout,90.1,-17.0,8.0
 2026-11-10,851452,642727,Sergio Alcántara,Tigres del Licey,684871,Enmanuel Mejia,Gigantes del Cibao,Groundout,68.9,-3.0,26.0
 2026-11-10,851452,609280,Miguel Andujar,Tigres del Licey,684871,Enmanuel Mejia,Gigantes del Cibao,Flyout,80.7,41.0,276.0
+2026-11-11,851474,682927,Ronny Simon,Toros del Este,593334,Domingo Germán,Leones del Escogido,Single,104.4,-1.0,61.0
+2026-11-11,851474,665482,Gilberto Celestino,Toros del Este,593334,Domingo Germán,Leones del Escogido,Single,91.2,-15.0,12.0
+2026-11-11,851474,694025,Felix Reyes,Toros del Este,675195,Juan Mercedes,Leones del Escogido,Double,104.5,29.0,424.0
+2026-11-11,851474,622168,Yairo Muñoz,Toros del Este,675195,Juan Mercedes,Leones del Escogido,Lineout,89.9,19.0,315.0
+2026-11-11,851474,593523,Marco Hernández,Leones del Escogido,666745,Jhony Brito,Toros del Este,Double,88.9,-1.0,32.0
+2026-11-11,851474,592530,José Marmolejos,Leones del Escogido,666745,Jhony Brito,Toros del Este,Grounded Into DP,68.2,-28.0,5.0
+2026-11-11,851474,657656,Ramón Laureano,Leones del Escogido,666745,Jhony Brito,Toros del Este,Pop Out,64.2,50.0,172.0
+2026-11-11,851474,600474,Pedro Severino,Toros del Este,675195,Juan Mercedes,Leones del Escogido,Flyout,95.3,36.0,352.0
+2026-11-11,851474,682927,Ronny Simon,Toros del Este,675195,Juan Mercedes,Leones del Escogido,Single,102.4,17.0,307.0
+2026-11-11,851474,682877,Juan Brito,Toros del Este,675195,Juan Mercedes,Leones del Escogido,Groundout,92.5,-5.0,24.0
+2026-11-11,851474,516809,Junior Lake,Leones del Escogido,666745,Jhony Brito,Toros del Este,Groundout,92.8,-15.0,9.0
+2026-11-11,851474,593525,Orlando Calixte,Leones del Escogido,666745,Jhony Brito,Toros del Este,Field Error,85.3,-30.0,3.0
+2026-11-11,851474,593523,Marco Hernández,Leones del Escogido,656647,Taylor Lehman,Toros del Este,Forceout,61.6,-42.0,5.0
+2026-11-11,851474,570481,Erik González,Leones del Escogido,656647,Taylor Lehman,Toros del Este,Lineout,87.1,24.0,311.0
+2026-11-11,851474,650559,Bryan De La Cruz,Toros del Este,691869,Brian McKenna,Leones del Escogido,Flyout,86.9,31.0,292.0
+2026-11-11,851474,660821,Jesús Sánchez,Toros del Este,691869,Brian McKenna,Leones del Escogido,Single,112.8,8.0,210.0
+2026-11-11,851474,665839,Enmanuel Valdez,Toros del Este,691869,Brian McKenna,Leones del Escogido,Groundout,89.3,5.0,84.0
+2026-11-11,851474,592530,José Marmolejos,Leones del Escogido,656647,Taylor Lehman,Toros del Este,Flyout,83.1,40.0,281.0
+2026-11-11,851474,657656,Ramón Laureano,Leones del Escogido,570488,Phillips Valdez,Toros del Este,Groundout,69.2,-15.0,10.0
+2026-11-11,851474,516809,Junior Lake,Leones del Escogido,570488,Phillips Valdez,Toros del Este,Groundout,125.8,-2.0,48.0
+2026-11-11,851474,622168,Yairo Muñoz,Toros del Este,660431,Hector Perez,Leones del Escogido,Lineout,93.5,19.0,302.0
+2026-11-11,851474,600474,Pedro Severino,Toros del Este,660431,Hector Perez,Leones del Escogido,Lineout,102.0,8.0,181.0
+2026-11-11,851474,682877,Juan Brito,Toros del Este,660431,Hector Perez,Leones del Escogido,Flyout,87.6,37.0,320.0
+2026-11-11,851474,828395,Jason Schiavone,Leones del Escogido,592361,Evan Grills,Toros del Este,Flyout,70.6,34.0,241.0
+2026-11-11,851474,593525,Orlando Calixte,Leones del Escogido,592361,Evan Grills,Toros del Este,Groundout,94.7,2.0,72.0
+2026-11-11,851474,650559,Bryan De La Cruz,Toros del Este,691322,Hansel Marcelino,Leones del Escogido,Single,103.8,-0.0,50.0
+2026-11-11,851474,660821,Jesús Sánchez,Toros del Este,691322,Hansel Marcelino,Leones del Escogido,Single,64.3,28.0,205.0
+2026-11-11,851474,694025,Felix Reyes,Toros del Este,691322,Hansel Marcelino,Leones del Escogido,Fielders Choice Out,64.4,-26.0,6.0
+2026-11-11,851474,665839,Enmanuel Valdez,Toros del Este,691322,Hansel Marcelino,Leones del Escogido,Pop Out,80.7,68.0,
+2026-11-11,851474,570481,Erik González,Leones del Escogido,592361,Evan Grills,Toros del Este,Groundout,67.8,-44.0,3.0
+2026-11-11,851474,622168,Yairo Muñoz,Toros del Este,691548,Rolddy Muñoz,Leones del Escogido,Single,85.7,18.0,254.0
+2026-11-11,851474,600474,Pedro Severino,Toros del Este,691548,Rolddy Muñoz,Leones del Escogido,Catcher Interference,60.0,-29.0,3.0
+2026-11-11,851474,682927,Ronny Simon,Toros del Este,691548,Rolddy Muñoz,Leones del Escogido,Forceout,100.5,-5.0,21.0
+2026-11-11,851474,665482,Gilberto Celestino,Toros del Este,691548,Rolddy Muñoz,Leones del Escogido,Groundout,91.6,-21.0,5.0
+2026-11-11,851474,682877,Juan Brito,Toros del Este,691548,Rolddy Muñoz,Leones del Escogido,Pop Out,85.3,69.0,
+2026-11-11,851474,657656,Ramón Laureano,Leones del Escogido,592361,Evan Grills,Toros del Este,Flyout,82.0,55.0,200.0
+2026-11-11,851474,516809,Junior Lake,Leones del Escogido,592361,Evan Grills,Toros del Este,Groundout,90.7,-15.0,7.0
+2026-11-11,851474,695491,Joshua Báez,Leones del Escogido,592361,Evan Grills,Toros del Este,Field Error,103.4,3.0,77.0
+2026-11-11,851474,593647,Sócrates Brito,Leones del Escogido,592361,Evan Grills,Toros del Este,Single,87.6,-37.0,4.0
+2026-11-11,851474,828395,Jason Schiavone,Leones del Escogido,592361,Evan Grills,Toros del Este,Flyout,90.1,54.0,224.0
+2026-11-11,851474,650559,Bryan De La Cruz,Toros del Este,665625,Elvis Peguero,Leones del Escogido,Flyout,67.1,44.0,199.0
+2026-11-11,851474,660821,Jesús Sánchez,Toros del Este,665625,Elvis Peguero,Leones del Escogido,Single,99.0,3.0,73.0
+2026-11-11,851474,694025,Felix Reyes,Toros del Este,665625,Elvis Peguero,Leones del Escogido,Single,65.0,7.0,86.0
+2026-11-11,851474,665839,Enmanuel Valdez,Toros del Este,665625,Elvis Peguero,Leones del Escogido,Grounded Into DP,87.5,-13.0,8.0
+2026-11-11,851474,666695,Jonathan Guzmán,Leones del Escogido,592361,Evan Grills,Toros del Este,Single,79.0,17.0,210.0
+2026-11-11,851474,570481,Erik González,Leones del Escogido,592361,Evan Grills,Toros del Este,Flyout,90.7,32.0,337.0
+2026-11-11,851474,592530,José Marmolejos,Leones del Escogido,592361,Evan Grills,Toros del Este,Double,96.4,18.0,314.0
+2026-11-11,851474,657656,Ramón Laureano,Leones del Escogido,682551,Ronaldo Alesandro,Toros del Este,Groundout,77.1,-18.0,10.0
+2026-11-11,851474,622168,Yairo Muñoz,Toros del Este,593576,Héctor Neris,Leones del Escogido,Groundout,70.8,-11.0,17.0
+2026-11-11,851474,600474,Pedro Severino,Toros del Este,593576,Héctor Neris,Leones del Escogido,Flyout,90.5,37.0,319.0
+2026-11-11,851474,682927,Ronny Simon,Toros del Este,593576,Héctor Neris,Leones del Escogido,Groundout,102.0,-9.0,15.0
+2026-11-11,851474,695491,Joshua Báez,Leones del Escogido,682274,Yaramil Hiraldo,Toros del Este,Groundout,51.5,-53.0,3.0
+2026-11-11,851474,593647,Sócrates Brito,Leones del Escogido,682274,Yaramil Hiraldo,Toros del Este,Groundout,71.7,9.0,118.0
+2026-11-11,851474,665482,Gilberto Celestino,Toros del Este,675502,Kelly Austin,Leones del Escogido,Lineout,92.8,13.0,250.0
+2026-11-11,851474,682877,Juan Brito,Toros del Este,675502,Kelly Austin,Leones del Escogido,Single,93.1,18.0,304.0
+2026-11-11,851474,694025,Felix Reyes,Toros del Este,675502,Kelly Austin,Leones del Escogido,Single,94.9,16.0,251.0
+2026-11-11,851474,594694,Wilmer Difo,Toros del Este,656008,Aneurys Zabala,Leones del Escogido,Groundout,76.0,0.0,42.0
+2026-11-11,851474,570256,Gregory Polanco,Leones del Escogido,682489,Joe Record,Toros del Este,Groundout,86.8,-23.0,5.0
+2026-11-11,851474,593525,Orlando Calixte,Leones del Escogido,682489,Joe Record,Toros del Este,Triple,100.4,8.0,151.0
+2026-11-11,851474,614173,Franchy Cordero,Leones del Escogido,682489,Joe Record,Toros del Este,Groundout,78.0,-1.0,34.0
+2026-11-11,851474,570481,Erik González,Leones del Escogido,682489,Joe Record,Toros del Este,Groundout,84.9,-30.0,5.0
+2026-11-11,851528,699115,Carlos Jorge,Gigantes del Cibao,469134,Esmil Rogers,Estrellas Orientales,Single,73.7,-0.0,41.0
+2026-11-11,851528,608577,Nomar Mazara,Gigantes del Cibao,469134,Esmil Rogers,Estrellas Orientales,Single,102.2,2.0,74.0
+2026-11-11,851528,542303,Marcell Ozuna,Gigantes del Cibao,469134,Esmil Rogers,Estrellas Orientales,Sac Fly,90.7,23.0,316.0
+2026-11-11,851528,554238,Carlos Franco,Gigantes del Cibao,469134,Esmil Rogers,Estrellas Orientales,Lineout,94.0,17.0,283.0
+2026-11-11,851528,677588,José Tena,Estrellas Orientales,650654,Cristopher Molina,Gigantes del Cibao,Groundout,72.8,-10.0,12.0
+2026-11-11,851528,623912,Harold Ramírez,Estrellas Orientales,650654,Cristopher Molina,Gigantes del Cibao,Single,91.2,3.0,90.0
+2026-11-11,851528,683494,Euribiel Angeles,Estrellas Orientales,650654,Cristopher Molina,Gigantes del Cibao,Single,45.8,-67.0,4.0
+2026-11-11,851528,682617,Marco Luciano,Estrellas Orientales,650654,Cristopher Molina,Gigantes del Cibao,Double,103.0,15.0,167.0
+2026-11-11,851528,700337,Edgar Quero,Estrellas Orientales,650654,Cristopher Molina,Gigantes del Cibao,Groundout,88.1,1.0,63.0
+2026-11-11,851528,660757,Oscar Gonzalez,Estrellas Orientales,650654,Cristopher Molina,Gigantes del Cibao,Lineout,96.2,14.0,284.0
+2026-11-11,851528,801442,Jack Pineda,Gigantes del Cibao,469134,Esmil Rogers,Estrellas Orientales,Groundout,56.2,-42.0,3.0
+2026-11-11,851528,814299,Pascanel Ferreras,Gigantes del Cibao,469134,Esmil Rogers,Estrellas Orientales,Double,99.6,23.0,384.0
+2026-11-11,851528,699115,Carlos Jorge,Gigantes del Cibao,469134,Esmil Rogers,Estrellas Orientales,Single,60.7,-72.0,1.0
+2026-11-11,851528,682622,Noelvi Marte,Gigantes del Cibao,469134,Esmil Rogers,Estrellas Orientales,Flyout,65.7,40.0,213.0
+2026-11-11,851528,668845,Aaron Schunk,Estrellas Orientales,650654,Cristopher Molina,Gigantes del Cibao,Double,98.3,12.0,273.0
+2026-11-11,851528,694194,Miguel Bleis,Estrellas Orientales,650654,Cristopher Molina,Gigantes del Cibao,Sac Bunt,22.6,31.0,36.0
+2026-11-11,851528,623912,Harold Ramírez,Estrellas Orientales,650654,Cristopher Molina,Gigantes del Cibao,Field Error,74.6,-19.0,10.0
+2026-11-11,851528,683494,Euribiel Angeles,Estrellas Orientales,594029,Bryan Rodriguez,Gigantes del Cibao,Groundout,68.3,-66.0,2.0
+2026-11-11,851528,554238,Carlos Franco,Gigantes del Cibao,469134,Esmil Rogers,Estrellas Orientales,Groundout,60.2,-40.0,5.0
+2026-11-11,851528,682663,Agustín Ramírez,Gigantes del Cibao,469134,Esmil Rogers,Estrellas Orientales,Home Run,100.7,29.0,355.0
+2026-11-11,851528,801442,Jack Pineda,Gigantes del Cibao,627893,Carlos Belen,Estrellas Orientales,Flyout,88.4,31.0,321.0
+2026-11-11,851528,814299,Pascanel Ferreras,Gigantes del Cibao,627893,Carlos Belen,Estrellas Orientales,Groundout,79.3,-12.0,10.0
+2026-11-11,851528,700337,Edgar Quero,Estrellas Orientales,594029,Bryan Rodriguez,Gigantes del Cibao,Groundout,86.4,-21.0,8.0
+2026-11-11,851528,623507,Josh Lester,Estrellas Orientales,594029,Bryan Rodriguez,Gigantes del Cibao,Single,81.8,2.0,70.0
+2026-11-11,851528,660757,Oscar Gonzalez,Estrellas Orientales,594029,Bryan Rodriguez,Gigantes del Cibao,Single,98.4,-16.0,8.0
+2026-11-11,851528,668845,Aaron Schunk,Estrellas Orientales,594029,Bryan Rodriguez,Gigantes del Cibao,Double,98.4,19.0,320.0
+2026-11-11,851528,677588,José Tena,Estrellas Orientales,594029,Bryan Rodriguez,Gigantes del Cibao,Groundout,65.0,-20.0,6.0
+2026-11-11,851528,682622,Noelvi Marte,Gigantes del Cibao,664573,Oddy Nunez,Estrellas Orientales,Flyout,96.3,38.0,330.0
+2026-11-11,851528,608577,Nomar Mazara,Gigantes del Cibao,664573,Oddy Nunez,Estrellas Orientales,Groundout,56.9,-47.0,4.0
+2026-11-11,851528,682617,Marco Luciano,Estrellas Orientales,594029,Bryan Rodriguez,Gigantes del Cibao,Lineout,95.0,23.0,328.0
+2026-11-11,851528,542303,Marcell Ozuna,Gigantes del Cibao,666619,Gregory Santos,Estrellas Orientales,Groundout,76.1,3.0,56.0
+2026-11-11,851528,682663,Agustín Ramírez,Gigantes del Cibao,666619,Gregory Santos,Estrellas Orientales,Single,81.1,-73.0,2.0
+2026-11-11,851528,682796,Eddinson Paulino,Gigantes del Cibao,666619,Gregory Santos,Estrellas Orientales,Flyout,84.2,37.0,280.0
+2026-11-11,851528,700337,Edgar Quero,Estrellas Orientales,686433,Luis Velasquez,Gigantes del Cibao,Double,94.0,22.0,301.0
+2026-11-11,851528,660757,Oscar Gonzalez,Estrellas Orientales,686433,Luis Velasquez,Gigantes del Cibao,Double,100.4,9.0,218.0
+2026-11-11,851528,668845,Aaron Schunk,Estrellas Orientales,686433,Luis Velasquez,Gigantes del Cibao,Single,74.6,22.0,262.0
+2026-11-11,851528,694194,Miguel Bleis,Estrellas Orientales,666802,Joel Cesar,Gigantes del Cibao,Pop Out,79.4,67.0,
+2026-11-11,851528,677588,José Tena,Estrellas Orientales,666802,Joel Cesar,Gigantes del Cibao,Groundout,75.0,-8.0,13.0
+2026-11-11,851528,623912,Harold Ramírez,Estrellas Orientales,666802,Joel Cesar,Gigantes del Cibao,Pop Out,64.3,25.0,181.0
+2026-11-11,851528,683494,Euribiel Angeles,Estrellas Orientales,814305,Yunior Tur,Gigantes del Cibao,Single,79.0,16.0,206.0
+2026-11-11,851528,623507,Josh Lester,Estrellas Orientales,814305,Yunior Tur,Gigantes del Cibao,Flyout,76.4,68.0,
+2026-11-11,851528,682622,Noelvi Marte,Gigantes del Cibao,678868,Eddy Yean,Estrellas Orientales,Groundout,81.6,-30.0,5.0
+2026-11-11,851528,608577,Nomar Mazara,Gigantes del Cibao,678868,Eddy Yean,Estrellas Orientales,Single,97.5,3.0,95.0
+2026-11-11,851528,554238,Carlos Franco,Gigantes del Cibao,678868,Eddy Yean,Estrellas Orientales,Forceout,66.8,-7.0,20.0
+2026-11-11,851528,660757,Oscar Gonzalez,Estrellas Orientales,693713,Emiliano Teodo,Gigantes del Cibao,Groundout,78.8,-25.0,7.0
+2026-11-11,851528,668845,Aaron Schunk,Estrellas Orientales,693713,Emiliano Teodo,Gigantes del Cibao,Groundout,69.7,-22.0,7.0
+2026-11-11,851528,694194,Miguel Bleis,Estrellas Orientales,693713,Emiliano Teodo,Gigantes del Cibao,Groundout,88.6,-36.0,5.0
+2026-11-11,851528,682663,Agustín Ramírez,Gigantes del Cibao,684516,Hancel Rincon,Estrellas Orientales,Flyout,93.9,38.0,323.0
+2026-11-11,851528,682796,Eddinson Paulino,Gigantes del Cibao,684516,Hancel Rincon,Estrellas Orientales,Flyout,87.7,33.0,320.0
+2026-11-11,851528,642721,Kelvin Gutiérrez,Gigantes del Cibao,684516,Hancel Rincon,Estrellas Orientales,Groundout,61.5,-42.0,4.0
+2026-11-11,851528,677588,José Tena,Estrellas Orientales,570663,Hansel Robles,Gigantes del Cibao,Single,102.9,9.0,151.0
+2026-11-11,851528,623912,Harold Ramírez,Estrellas Orientales,570663,Hansel Robles,Gigantes del Cibao,Double Play,71.9,10.0,135.0
+2026-11-11,851528,683494,Euribiel Angeles,Estrellas Orientales,570663,Hansel Robles,Gigantes del Cibao,Flyout,84.2,37.0,256.0
+2026-11-11,851528,621034,Melvin Mercedes,Gigantes del Cibao,472610,Luis García,Estrellas Orientales,Groundout,49.3,-58.0,2.0
+2026-11-11,851528,608577,Nomar Mazara,Gigantes del Cibao,472610,Luis García,Estrellas Orientales,Groundout,62.1,-19.0,10.0
+2026-11-11,851561,642727,Sergio Alcántara,Tigres del Licey,605218,Carl Edwards Jr.,Aguilas Cibaenas,Groundout,92.7,-33.0,6.0
+2026-11-11,851561,677595,Ronny Mauricio,Tigres del Licey,605218,Carl Edwards Jr.,Aguilas Cibaenas,Flyout,92.2,49.0,228.0
+2026-11-11,851561,642451,Luis Liberato,Aguilas Cibaenas,658431,Adonis Medina,Tigres del Licey,Single,92.4,8.0,144.0
+2026-11-11,851561,691176,Jasson Domínguez,Aguilas Cibaenas,658431,Adonis Medina,Tigres del Licey,Double,80.4,10.0,136.0
+2026-11-11,851561,691182,Adael Amador,Aguilas Cibaenas,658431,Adonis Medina,Tigres del Licey,Sac Fly,95.1,29.0,367.0
+2026-11-11,851561,641555,J.C. Escarra,Aguilas Cibaenas,658431,Adonis Medina,Tigres del Licey,Single,86.7,2.0,64.0
+2026-11-11,851561,691001,Robert Moore,Aguilas Cibaenas,658431,Adonis Medina,Tigres del Licey,Groundout,90.0,-4.0,29.0
+2026-11-11,851561,592692,Mel Rojas Jr.,Tigres del Licey,605218,Carl Edwards Jr.,Aguilas Cibaenas,Groundout,78.6,0.0,38.0
+2026-11-11,851561,642336,Francisco Mejía,Tigres del Licey,605218,Carl Edwards Jr.,Aguilas Cibaenas,Groundout,69.8,-35.0,4.0
+2026-11-11,851561,682679,Dayan Frias,Aguilas Cibaenas,658431,Adonis Medina,Tigres del Licey,Pop Out,67.8,64.0,151.0
+2026-11-11,851561,672642,Steward Berroa,Aguilas Cibaenas,658431,Adonis Medina,Tigres del Licey,Groundout,73.1,-6.0,18.0
+2026-11-11,851561,664314,Estevan Florial,Tigres del Licey,605218,Carl Edwards Jr.,Aguilas Cibaenas,Groundout,75.7,-13.0,13.0
+2026-11-11,851561,691292,Angel Ortiz,Tigres del Licey,605218,Carl Edwards Jr.,Aguilas Cibaenas,Groundout,79.9,-14.0,13.0
+2026-11-11,851561,466988,Emilio Bonifácio,Tigres del Licey,605218,Carl Edwards Jr.,Aguilas Cibaenas,Groundout,53.1,-5.0,17.0
+2026-11-11,851561,642451,Luis Liberato,Aguilas Cibaenas,658431,Adonis Medina,Tigres del Licey,Lineout,100.5,8.0,187.0
+2026-11-11,851561,691176,Jasson Domínguez,Aguilas Cibaenas,658431,Adonis Medina,Tigres del Licey,Groundout,103.7,5.0,102.0
+2026-11-11,851561,691182,Adael Amador,Aguilas Cibaenas,658431,Adonis Medina,Tigres del Licey,Groundout,81.1,4.0,72.0
+2026-11-11,851561,642727,Sergio Alcántara,Tigres del Licey,605218,Carl Edwards Jr.,Aguilas Cibaenas,Single,71.7,19.0,193.0
+2026-11-11,851561,677595,Ronny Mauricio,Tigres del Licey,605218,Carl Edwards Jr.,Aguilas Cibaenas,Lineout,98.3,17.0,372.0
+2026-11-11,851561,641555,J.C. Escarra,Aguilas Cibaenas,658431,Adonis Medina,Tigres del Licey,Groundout,101.6,-11.0,11.0
+2026-11-11,851561,691001,Robert Moore,Aguilas Cibaenas,658431,Adonis Medina,Tigres del Licey,Flyout,73.5,35.0,251.0
+2026-11-11,851561,573669,Aderlin Rodríguez,Aguilas Cibaenas,658431,Adonis Medina,Tigres del Licey,Groundout,60.7,9.0,87.0
+2026-11-11,851561,592692,Mel Rojas Jr.,Tigres del Licey,605218,Carl Edwards Jr.,Aguilas Cibaenas,Double,107.4,18.0,336.0
+2026-11-11,851561,642336,Francisco Mejía,Tigres del Licey,605218,Carl Edwards Jr.,Aguilas Cibaenas,Groundout,85.5,-6.0,25.0
+2026-11-11,851561,664314,Estevan Florial,Tigres del Licey,605218,Carl Edwards Jr.,Aguilas Cibaenas,Groundout,102.5,-5.0,23.0
+2026-11-11,851561,669384,Raynel Delgado,Aguilas Cibaenas,658431,Adonis Medina,Tigres del Licey,Flyout,89.8,58.0,
+2026-11-11,851561,682679,Dayan Frias,Aguilas Cibaenas,658431,Adonis Medina,Tigres del Licey,Groundout,71.6,-24.0,5.0
+2026-11-11,851561,466988,Emilio Bonifácio,Tigres del Licey,641682,Ryan Hendrix,Aguilas Cibaenas,Groundout,92.7,-22.0,7.0
+2026-11-11,851561,642727,Sergio Alcántara,Tigres del Licey,641682,Ryan Hendrix,Aguilas Cibaenas,Single,55.9,-53.0,2.0
+2026-11-11,851561,677595,Ronny Mauricio,Tigres del Licey,650893,Génesis Cabrera,Aguilas Cibaenas,Groundout,80.2,-35.0,4.0
+2026-11-11,851561,642451,Luis Liberato,Aguilas Cibaenas,650668,Humberto Mejía,Tigres del Licey,Groundout,94.5,-12.0,15.0
+2026-11-11,851561,691176,Jasson Domínguez,Aguilas Cibaenas,650668,Humberto Mejía,Tigres del Licey,Groundout,77.3,-27.0,5.0
+2026-11-11,851561,691182,Adael Amador,Aguilas Cibaenas,650668,Humberto Mejía,Tigres del Licey,Groundout,95.8,-5.0,20.0
+2026-11-11,851561,592692,Mel Rojas Jr.,Tigres del Licey,699214,Leandro Lopez,Aguilas Cibaenas,Groundout,103.6,-5.0,31.0
+2026-11-11,851561,664314,Estevan Florial,Tigres del Licey,699214,Leandro Lopez,Aguilas Cibaenas,Flyout,93.8,31.0,334.0
+2026-11-11,851561,641555,J.C. Escarra,Aguilas Cibaenas,650668,Humberto Mejía,Tigres del Licey,Home Run,100.0,31.0,396.0
+2026-11-11,851561,691001,Robert Moore,Aguilas Cibaenas,650668,Humberto Mejía,Tigres del Licey,Pop Out,78.9,83.0,
+2026-11-11,851561,573669,Aderlin Rodríguez,Aguilas Cibaenas,650668,Humberto Mejía,Tigres del Licey,Groundout,74.4,-3.0,34.0
+2026-11-11,851561,691292,Angel Ortiz,Tigres del Licey,669993,Raul Brito,Aguilas Cibaenas,Lineout,90.0,8.0,162.0
+2026-11-11,851561,466988,Emilio Bonifácio,Tigres del Licey,669993,Raul Brito,Aguilas Cibaenas,Flyout,74.7,38.0,237.0
+2026-11-11,851561,682634,Kevin Alcántara,Tigres del Licey,669993,Raul Brito,Aguilas Cibaenas,Groundout,75.9,-60.0,3.0
+2026-11-11,851561,672642,Steward Berroa,Aguilas Cibaenas,666818,Luis Frías,Tigres del Licey,Single,67.5,-30.0,4.0
+2026-11-11,851561,642451,Luis Liberato,Aguilas Cibaenas,666818,Luis Frías,Tigres del Licey,Lineout,94.6,6.0,174.0
+2026-11-11,851561,641555,J.C. Escarra,Aguilas Cibaenas,666818,Luis Frías,Tigres del Licey,Pop Out,70.3,64.0,104.0
+2026-11-11,851561,677595,Ronny Mauricio,Tigres del Licey,608167,Jonathan Aro,Aguilas Cibaenas,Pop Out,84.0,75.0,42.0
+2026-11-11,851561,592692,Mel Rojas Jr.,Tigres del Licey,608167,Jonathan Aro,Aguilas Cibaenas,Groundout,102.1,-9.0,16.0
