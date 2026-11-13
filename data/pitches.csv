@@ -17866,3 +17866,274 @@ date,game_pk,pitcher_id,pitcher,pitcher_team,batter_id,batter,batter_team,pitch_
 2026-11-11,851561,608167,Jonathan Aro,Aguilas Cibaenas,592692,Mel Rojas Jr.,Tigres del Licey,SL,Slider,Ball,82.9,1475.0,0,0
 2026-11-11,851561,608167,Jonathan Aro,Aguilas Cibaenas,592692,Mel Rojas Jr.,Tigres del Licey,SL,Slider,Called Strike,83.4,2351.0,0,0
 2026-11-11,851561,608167,Jonathan Aro,Aguilas Cibaenas,592692,Mel Rojas Jr.,Tigres del Licey,FF,Four-Seam Fastball,"In play, out(s)",92.9,2344.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,682927,Ronny Simon,Toros del Este,SI,Sinker,Ball,91.5,2426.0,0,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,682927,Ronny Simon,Toros del Este,SI,Sinker,Foul,92.5,2418.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,682927,Ronny Simon,Toros del Este,FC,Cutter,Called Strike,88.4,2486.0,0,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,682927,Ronny Simon,Toros del Este,SI,Sinker,Foul Tip,93.8,2454.0,1,1
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,665482,Gilberto Celestino,Toros del Este,SL,Slider,"In play, out(s)",84.2,2654.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,694025,Felix Reyes,Toros del Este,SI,Sinker,Called Strike,92.5,2450.0,0,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,694025,Felix Reyes,Toros del Este,SL,Slider,"In play, out(s)",84.0,2702.0,1,0
+2026-11-12,851562,676362,Gabriel Ponce,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,CH,Changeup,Called Strike,86.5,1886.0,0,0
+2026-11-12,851562,676362,Gabriel Ponce,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,SI,Sinker,Called Strike,89.8,2133.0,0,0
+2026-11-12,851562,676362,Gabriel Ponce,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,SL,Slider,Ball,80.5,2438.0,0,0
+2026-11-12,851562,676362,Gabriel Ponce,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,SL,Slider,Ball,82.8,2346.0,0,0
+2026-11-12,851562,676362,Gabriel Ponce,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,SL,Slider,Foul,80.8,2439.0,1,0
+2026-11-12,851562,676362,Gabriel Ponce,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,CU,Curveball,Ball,79.8,1585.0,0,0
+2026-11-12,851562,676362,Gabriel Ponce,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,SI,Sinker,Foul,89.7,2193.0,1,0
+2026-11-12,851562,676362,Gabriel Ponce,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,SI,Sinker,Foul,90.6,2077.0,1,0
+2026-11-12,851562,676362,Gabriel Ponce,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,SL,Slider,Ball,80.7,2263.0,0,0
+2026-11-12,851562,676362,Gabriel Ponce,Toros del Este,642451,Luis Liberato,Aguilas Cibaenas,SI,Sinker,Ball,88.6,1951.0,0,0
+2026-11-12,851562,676362,Gabriel Ponce,Toros del Este,642451,Luis Liberato,Aguilas Cibaenas,CH,Changeup,Ball,87.8,1928.0,0,0
+2026-11-12,851562,676362,Gabriel Ponce,Toros del Este,642451,Luis Liberato,Aguilas Cibaenas,SL,Slider,Called Strike,80.5,2269.0,0,0
+2026-11-12,851562,676362,Gabriel Ponce,Toros del Este,642451,Luis Liberato,Aguilas Cibaenas,SL,Slider,"In play, run(s)",80.0,2337.0,1,0
+2026-11-12,851562,676362,Gabriel Ponce,Toros del Este,691176,Jasson Domínguez,Aguilas Cibaenas,SI,Sinker,Ball,90.2,2017.0,0,0
+2026-11-12,851562,676362,Gabriel Ponce,Toros del Este,691176,Jasson Domínguez,Aguilas Cibaenas,CH,Changeup,Ball In Dirt,80.4,1751.0,0,0
+2026-11-12,851562,676362,Gabriel Ponce,Toros del Este,691176,Jasson Domínguez,Aguilas Cibaenas,SI,Sinker,Ball,88.9,1971.0,0,0
+2026-11-12,851562,676362,Gabriel Ponce,Toros del Este,691176,Jasson Domínguez,Aguilas Cibaenas,CH,Changeup,Ball,87.3,1982.0,0,0
+2026-11-12,851562,676362,Gabriel Ponce,Toros del Este,691182,Adael Amador,Aguilas Cibaenas,SI,Sinker,Ball,87.8,1913.0,0,0
+2026-11-12,851562,676362,Gabriel Ponce,Toros del Este,691182,Adael Amador,Aguilas Cibaenas,SL,Slider,Ball,79.7,2302.0,0,0
+2026-11-12,851562,676362,Gabriel Ponce,Toros del Este,691182,Adael Amador,Aguilas Cibaenas,SI,Sinker,Called Strike,87.9,2027.0,0,0
+2026-11-12,851562,676362,Gabriel Ponce,Toros del Este,691182,Adael Amador,Aguilas Cibaenas,SI,Sinker,Ball,88.5,2010.0,0,0
+2026-11-12,851562,676362,Gabriel Ponce,Toros del Este,691182,Adael Amador,Aguilas Cibaenas,SL,Slider,Called Strike,80.0,2197.0,0,0
+2026-11-12,851562,676362,Gabriel Ponce,Toros del Este,691182,Adael Amador,Aguilas Cibaenas,CU,Curveball,Ball,80.3,2337.0,0,0
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,641555,J.C. Escarra,Aguilas Cibaenas,CU,Curveball,Ball,80.6,2386.0,0,0
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,641555,J.C. Escarra,Aguilas Cibaenas,FF,Four-Seam Fastball,Ball,95.0,2378.0,0,0
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,641555,J.C. Escarra,Aguilas Cibaenas,FF,Four-Seam Fastball,"In play, run(s)",95.9,2408.0,1,0
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,593528,Jorge Bonifacio,Aguilas Cibaenas,SI,Sinker,Called Strike,95.6,2294.0,0,0
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,593528,Jorge Bonifacio,Aguilas Cibaenas,SI,Sinker,Swinging Strike,95.3,2230.0,1,1
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,593528,Jorge Bonifacio,Aguilas Cibaenas,SL,Slider,Ball,82.7,2489.0,0,0
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,593528,Jorge Bonifacio,Aguilas Cibaenas,CU,Curveball,"In play, run(s)",82.4,2384.0,1,0
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,669384,Raynel Delgado,Aguilas Cibaenas,FF,Four-Seam Fastball,"In play, run(s)",95.5,2390.0,1,0
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,690022,Ryan Ritter,Aguilas Cibaenas,CU,Curveball,Ball,79.0,2266.0,0,0
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,690022,Ryan Ritter,Aguilas Cibaenas,CU,Curveball,Called Strike,79.1,2271.0,0,0
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,690022,Ryan Ritter,Aguilas Cibaenas,SI,Sinker,Called Strike,96.1,2263.0,0,0
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,690022,Ryan Ritter,Aguilas Cibaenas,SL,Slider,Foul,84.0,2336.0,1,0
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,690022,Ryan Ritter,Aguilas Cibaenas,SI,Sinker,Called Strike,95.3,2260.0,0,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,660821,Jesús Sánchez,Toros del Este,FF,Four-Seam Fastball,Called Strike,92.0,2464.0,0,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,660821,Jesús Sánchez,Toros del Este,CU,Curveball,Ball,77.4,2733.0,0,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,660821,Jesús Sánchez,Toros del Este,FC,Cutter,"In play, no out",88.5,2486.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,688005,Francisco Urbaez,Toros del Este,SL,Slider,Ball,83.2,2707.0,0,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,688005,Francisco Urbaez,Toros del Este,SL,Slider,Called Strike,82.8,2724.0,0,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,688005,Francisco Urbaez,Toros del Este,SI,Sinker,Foul,91.5,2472.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,688005,Francisco Urbaez,Toros del Este,FC,Cutter,Foul,87.4,2646.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,688005,Francisco Urbaez,Toros del Este,FF,Four-Seam Fastball,"In play, out(s)",94.2,2553.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,650391,Eloy Jiménez,Toros del Este,SI,Sinker,Ball,92.5,2468.0,0,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,650391,Eloy Jiménez,Toros del Este,SL,Slider,Foul,83.3,2586.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,650391,Eloy Jiménez,Toros del Este,SI,Sinker,Foul,92.1,2417.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,650391,Eloy Jiménez,Toros del Este,FF,Four-Seam Fastball,"In play, out(s)",94.0,2556.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,682877,Juan Brito,Toros del Este,CH,Changeup,Ball,83.5,1610.0,0,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,682877,Juan Brito,Toros del Este,SL,Slider,Foul,84.7,2647.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,682877,Juan Brito,Toros del Este,FF,Four-Seam Fastball,Foul,93.7,2447.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,682877,Juan Brito,Toros del Este,SI,Sinker,"In play, out(s)",94.2,2538.0,1,0
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,682679,Dayan Frias,Aguilas Cibaenas,SI,Sinker,Called Strike,96.6,2401.0,0,0
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,682679,Dayan Frias,Aguilas Cibaenas,FF,Four-Seam Fastball,Foul,96.7,2403.0,1,0
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,682679,Dayan Frias,Aguilas Cibaenas,SL,Slider,Swinging Strike (Blocked),82.2,2426.0,1,1
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,SL,Slider,Ball,82.7,2310.0,0,0
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,CU,Curveball,Ball,80.3,2418.0,0,0
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,FF,Four-Seam Fastball,Foul,96.2,2382.0,1,0
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,FF,Four-Seam Fastball,Foul,94.9,2332.0,1,0
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,SL,Slider,Ball,84.1,2397.0,0,0
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,CU,Curveball,Called Strike,82.4,2378.0,0,0
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,642451,Luis Liberato,Aguilas Cibaenas,SL,Slider,Swinging Strike,83.9,2472.0,1,1
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,642451,Luis Liberato,Aguilas Cibaenas,SL,Slider,Swinging Strike,82.9,2400.0,1,1
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,642451,Luis Liberato,Aguilas Cibaenas,SL,Slider,Ball,83.3,2467.0,0,0
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,642451,Luis Liberato,Aguilas Cibaenas,CU,Curveball,"In play, no out",80.9,2432.0,1,0
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,691176,Jasson Domínguez,Aguilas Cibaenas,FF,Four-Seam Fastball,"In play, no out",95.8,2328.0,1,0
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,691182,Adael Amador,Aguilas Cibaenas,CU,Curveball,Called Strike,80.5,2424.0,0,0
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,691182,Adael Amador,Aguilas Cibaenas,FF,Four-Seam Fastball,Called Strike,94.8,2343.0,0,0
+2026-11-12,851562,665734,Angel Felipe,Toros del Este,691182,Adael Amador,Aguilas Cibaenas,SL,Slider,"In play, out(s)",83.0,2413.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,622168,Yairo Muñoz,Toros del Este,FF,Four-Seam Fastball,Called Strike,90.7,2506.0,0,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,622168,Yairo Muñoz,Toros del Este,SL,Slider,Ball,85.3,2630.0,0,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,622168,Yairo Muñoz,Toros del Este,SL,Slider,"In play, no out",83.8,2501.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,667372,Julio E. Rodriguez,Toros del Este,SI,Sinker,Called Strike,90.1,2337.0,0,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,667372,Julio E. Rodriguez,Toros del Este,FF,Four-Seam Fastball,"In play, out(s)",91.4,2538.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,682927,Ronny Simon,Toros del Este,CU,Curveball,Ball,77.5,2499.0,0,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,682927,Ronny Simon,Toros del Este,SI,Sinker,Foul,91.5,2475.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,682927,Ronny Simon,Toros del Este,CH,Changeup,Ball,80.1,1334.0,0,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,682927,Ronny Simon,Toros del Este,SI,Sinker,Swinging Strike,92.0,2413.0,1,1
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,682927,Ronny Simon,Toros del Este,CU,Curveball,"In play, run(s)",80.1,2718.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,665482,Gilberto Celestino,Toros del Este,FF,Four-Seam Fastball,Foul,92.7,2507.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,665482,Gilberto Celestino,Toros del Este,FF,Four-Seam Fastball,"In play, out(s)",93.3,2510.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,694025,Felix Reyes,Toros del Este,SI,Sinker,"In play, run(s)",92.2,2423.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,660821,Jesús Sánchez,Toros del Este,SI,Sinker,Ball,92.8,2511.0,0,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,660821,Jesús Sánchez,Toros del Este,SI,Sinker,Swinging Strike,93.5,2478.0,1,1
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,660821,Jesús Sánchez,Toros del Este,SI,Sinker,"In play, out(s)",93.4,2500.0,1,0
+2026-11-12,851562,666668,Hector Yan,Toros del Este,641555,J.C. Escarra,Aguilas Cibaenas,SL,Slider,Ball,80.9,2155.0,0,0
+2026-11-12,851562,666668,Hector Yan,Toros del Este,641555,J.C. Escarra,Aguilas Cibaenas,SL,Slider,Swinging Strike,79.0,2160.0,1,1
+2026-11-12,851562,666668,Hector Yan,Toros del Este,641555,J.C. Escarra,Aguilas Cibaenas,CH,Changeup,Ball,84.8,1599.0,0,0
+2026-11-12,851562,666668,Hector Yan,Toros del Este,641555,J.C. Escarra,Aguilas Cibaenas,FF,Four-Seam Fastball,Ball,91.9,2116.0,0,0
+2026-11-12,851562,666668,Hector Yan,Toros del Este,641555,J.C. Escarra,Aguilas Cibaenas,SI,Sinker,Called Strike,92.1,2132.0,0,0
+2026-11-12,851562,666668,Hector Yan,Toros del Este,641555,J.C. Escarra,Aguilas Cibaenas,SI,Sinker,Ball,91.4,2144.0,0,0
+2026-11-12,851562,666668,Hector Yan,Toros del Este,593528,Jorge Bonifacio,Aguilas Cibaenas,SL,Slider,Ball In Dirt,84.9,1463.0,0,0
+2026-11-12,851562,666668,Hector Yan,Toros del Este,593528,Jorge Bonifacio,Aguilas Cibaenas,SI,Sinker,Ball,92.2,2206.0,0,0
+2026-11-12,851562,666668,Hector Yan,Toros del Este,593528,Jorge Bonifacio,Aguilas Cibaenas,SI,Sinker,Foul,91.1,2088.0,1,0
+2026-11-12,851562,666668,Hector Yan,Toros del Este,593528,Jorge Bonifacio,Aguilas Cibaenas,CH,Changeup,Ball,84.9,1490.0,0,0
+2026-11-12,851562,666668,Hector Yan,Toros del Este,593528,Jorge Bonifacio,Aguilas Cibaenas,SI,Sinker,Ball,92.0,2111.0,0,0
+2026-11-12,851562,666668,Hector Yan,Toros del Este,669384,Raynel Delgado,Aguilas Cibaenas,SI,Sinker,Foul,90.8,2179.0,1,0
+2026-11-12,851562,666668,Hector Yan,Toros del Este,669384,Raynel Delgado,Aguilas Cibaenas,SL,Slider,"In play, out(s)",79.7,2263.0,1,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,690022,Ryan Ritter,Aguilas Cibaenas,CH,Changeup,Swinging Strike,93.3,2302.0,1,1
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,690022,Ryan Ritter,Aguilas Cibaenas,CH,Changeup,Ball,92.9,2329.0,0,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,690022,Ryan Ritter,Aguilas Cibaenas,SL,Slider,Swinging Strike,84.7,2152.0,1,1
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,690022,Ryan Ritter,Aguilas Cibaenas,SL,Slider,Ball In Dirt,84.8,2237.0,0,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,690022,Ryan Ritter,Aguilas Cibaenas,SL,Slider,Foul,84.1,2188.0,1,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,690022,Ryan Ritter,Aguilas Cibaenas,CH,Changeup,Ball,86.7,2075.0,0,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,690022,Ryan Ritter,Aguilas Cibaenas,SL,Slider,Foul,84.8,2193.0,1,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,690022,Ryan Ritter,Aguilas Cibaenas,CH,Changeup,Called Strike,92.9,2082.0,0,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,682679,Dayan Frias,Aguilas Cibaenas,CH,Changeup,Ball,92.8,2122.0,0,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,682679,Dayan Frias,Aguilas Cibaenas,CH,Changeup,Ball,92.5,2216.0,0,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,682679,Dayan Frias,Aguilas Cibaenas,SL,Slider,Called Strike,82.6,2173.0,0,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,682679,Dayan Frias,Aguilas Cibaenas,CH,Changeup,Foul,92.7,2248.0,1,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,682679,Dayan Frias,Aguilas Cibaenas,CH,Changeup,Foul Tip,93.2,2180.0,1,1
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,688005,Francisco Urbaez,Toros del Este,FC,Cutter,Ball,86.0,2466.0,0,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,688005,Francisco Urbaez,Toros del Este,SI,Sinker,Swinging Strike,91.5,2424.0,1,1
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,688005,Francisco Urbaez,Toros del Este,SL,Slider,Ball,84.9,2570.0,0,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,688005,Francisco Urbaez,Toros del Este,FC,Cutter,Swinging Strike,86.9,2437.0,1,1
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,688005,Francisco Urbaez,Toros del Este,FF,Four-Seam Fastball,Foul,92.8,2522.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,688005,Francisco Urbaez,Toros del Este,FC,Cutter,"In play, out(s)",86.0,2535.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,650391,Eloy Jiménez,Toros del Este,SI,Sinker,"In play, out(s)",92.1,2420.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,682877,Juan Brito,Toros del Este,SL,Slider,Called Strike,83.9,2608.0,0,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,682877,Juan Brito,Toros del Este,SL,Slider,Ball,83.8,2670.0,0,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,682877,Juan Brito,Toros del Este,SI,Sinker,"In play, out(s)",92.3,2539.0,1,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,SL,Slider,Ball,83.1,2135.0,0,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,CH,Changeup,Ball,92.3,2187.0,0,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,SL,Slider,Called Strike,84.4,2221.0,0,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,CH,Changeup,"In play, out(s)",85.1,2014.0,1,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,642451,Luis Liberato,Aguilas Cibaenas,CH,Changeup,Ball,93.0,2194.0,0,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,642451,Luis Liberato,Aguilas Cibaenas,SL,Slider,"In play, out(s)",84.0,2273.0,1,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,691176,Jasson Domínguez,Aguilas Cibaenas,SL,Slider,Called Strike,84.7,2248.0,0,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,691176,Jasson Domínguez,Aguilas Cibaenas,SL,Slider,Ball,85.1,2270.0,0,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,691176,Jasson Domínguez,Aguilas Cibaenas,SL,Slider,"In play, run(s)",86.1,2266.0,1,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,691182,Adael Amador,Aguilas Cibaenas,SL,Slider,"In play, out(s)",81.7,2063.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,622168,Yairo Muñoz,Toros del Este,SL,Slider,Ball,84.6,2457.0,0,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,622168,Yairo Muñoz,Toros del Este,FF,Four-Seam Fastball,Foul,91.0,2354.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,622168,Yairo Muñoz,Toros del Este,SI,Sinker,"In play, no out",91.7,2435.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,667372,Julio E. Rodriguez,Toros del Este,SL,Slider,Foul,82.7,2501.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,667372,Julio E. Rodriguez,Toros del Este,FF,Four-Seam Fastball,"In play, out(s)",91.3,2447.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,682927,Ronny Simon,Toros del Este,FF,Four-Seam Fastball,Called Strike,92.2,2494.0,0,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,682927,Ronny Simon,Toros del Este,FF,Four-Seam Fastball,Ball,93.0,2492.0,0,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,682927,Ronny Simon,Toros del Este,FC,Cutter,Swinging Strike,89.3,2529.0,1,1
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,682927,Ronny Simon,Toros del Este,FF,Four-Seam Fastball,Swinging Strike,93.8,2551.0,1,1
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,665482,Gilberto Celestino,Toros del Este,SL,Slider,Ball,84.4,2659.0,0,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,665482,Gilberto Celestino,Toros del Este,SL,Slider,Ball,83.5,2512.0,0,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,665482,Gilberto Celestino,Toros del Este,FF,Four-Seam Fastball,Foul,92.4,2576.0,1,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,665482,Gilberto Celestino,Toros del Este,FC,Cutter,Ball,87.2,2586.0,0,0
+2026-11-12,851562,668766,Dylan File,Aguilas Cibaenas,665482,Gilberto Celestino,Toros del Este,FF,Four-Seam Fastball,"In play, out(s)",92.1,2509.0,1,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,641555,J.C. Escarra,Aguilas Cibaenas,CH,Changeup,"In play, out(s)",91.1,2240.0,1,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,593528,Jorge Bonifacio,Aguilas Cibaenas,CH,Changeup,Called Strike,92.7,2142.0,0,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,593528,Jorge Bonifacio,Aguilas Cibaenas,CH,Changeup,Foul,92.4,2290.0,1,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,593528,Jorge Bonifacio,Aguilas Cibaenas,CH,Changeup,Swinging Strike,93.5,2234.0,1,1
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,669384,Raynel Delgado,Aguilas Cibaenas,SL,Slider,Ball,81.1,2432.0,0,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,669384,Raynel Delgado,Aguilas Cibaenas,SL,Slider,Called Strike,85.6,2176.0,0,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,669384,Raynel Delgado,Aguilas Cibaenas,SL,Slider,"In play, no out",84.1,2176.0,1,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,690022,Ryan Ritter,Aguilas Cibaenas,CH,Changeup,Ball,92.6,2190.0,0,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,690022,Ryan Ritter,Aguilas Cibaenas,CH,Changeup,Foul,91.3,2197.0,1,0
+2026-11-12,851562,642758,Domingo Acevedo,Toros del Este,690022,Ryan Ritter,Aguilas Cibaenas,CH,Changeup,Ball,92.7,2146.0,0,0
+2026-11-12,851562,658551,Junior Fernández,Aguilas Cibaenas,694025,Felix Reyes,Toros del Este,SI,Sinker,Ball,96.5,2197.0,0,0
+2026-11-12,851562,658551,Junior Fernández,Aguilas Cibaenas,694025,Felix Reyes,Toros del Este,SI,Sinker,"In play, no out",97.0,2353.0,1,0
+2026-11-12,851562,658551,Junior Fernández,Aguilas Cibaenas,660821,Jesús Sánchez,Toros del Este,FF,Four-Seam Fastball,Called Strike,88.3,2156.0,0,0
+2026-11-12,851562,658551,Junior Fernández,Aguilas Cibaenas,660821,Jesús Sánchez,Toros del Este,SI,Sinker,Ball,97.0,2291.0,0,0
+2026-11-12,851562,658551,Junior Fernández,Aguilas Cibaenas,660821,Jesús Sánchez,Toros del Este,SI,Sinker,Ball,96.2,2266.0,0,0
+2026-11-12,851562,658551,Junior Fernández,Aguilas Cibaenas,660821,Jesús Sánchez,Toros del Este,SI,Sinker,Swinging Strike,88.9,2218.0,1,1
+2026-11-12,851562,658551,Junior Fernández,Aguilas Cibaenas,660821,Jesús Sánchez,Toros del Este,FF,Four-Seam Fastball,Ball,90.2,2332.0,0,0
+2026-11-12,851562,658551,Junior Fernández,Aguilas Cibaenas,660821,Jesús Sánchez,Toros del Este,SI,Sinker,Swinging Strike,89.8,2172.0,1,1
+2026-11-12,851562,658551,Junior Fernández,Aguilas Cibaenas,688005,Francisco Urbaez,Toros del Este,FC,Cutter,Ball,89.4,2269.0,0,0
+2026-11-12,851562,658551,Junior Fernández,Aguilas Cibaenas,688005,Francisco Urbaez,Toros del Este,FC,Cutter,Called Strike,87.8,2224.0,0,0
+2026-11-12,851562,658551,Junior Fernández,Aguilas Cibaenas,688005,Francisco Urbaez,Toros del Este,SI,Sinker,Foul,97.0,2342.0,1,0
+2026-11-12,851562,658551,Junior Fernández,Aguilas Cibaenas,688005,Francisco Urbaez,Toros del Este,FC,Cutter,Called Strike,87.8,2212.0,0,0
+2026-11-12,851562,658551,Junior Fernández,Aguilas Cibaenas,650391,Eloy Jiménez,Toros del Este,FF,Four-Seam Fastball,"In play, out(s)",97.3,2247.0,1,0
+2026-11-12,851562,594056,Reymin Guduan,Toros del Este,690022,Ryan Ritter,Aguilas Cibaenas,FF,Four-Seam Fastball,Called Strike,93.2,2379.0,0,0
+2026-11-12,851562,594056,Reymin Guduan,Toros del Este,690022,Ryan Ritter,Aguilas Cibaenas,FF,Four-Seam Fastball,Called Strike,93.6,2393.0,0,0
+2026-11-12,851562,594056,Reymin Guduan,Toros del Este,690022,Ryan Ritter,Aguilas Cibaenas,SL,Slider,"In play, no out",82.3,2301.0,1,0
+2026-11-12,851562,594056,Reymin Guduan,Toros del Este,682679,Dayan Frias,Aguilas Cibaenas,FF,Four-Seam Fastball,"In play, out(s)",95.7,2336.0,1,0
+2026-11-12,851562,594056,Reymin Guduan,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,FF,Four-Seam Fastball,Ball In Dirt,96.2,2387.0,0,0
+2026-11-12,851562,594056,Reymin Guduan,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,FF,Four-Seam Fastball,Swinging Strike,92.7,2153.0,1,1
+2026-11-12,851562,594056,Reymin Guduan,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,FF,Four-Seam Fastball,"In play, out(s)",95.0,2417.0,1,0
+2026-11-12,851562,642546,Jonathan Hernández,Aguilas Cibaenas,682877,Juan Brito,Toros del Este,SI,Sinker,Ball,97.5,2430.0,0,0
+2026-11-12,851562,642546,Jonathan Hernández,Aguilas Cibaenas,682877,Juan Brito,Toros del Este,SL,Slider,Called Strike,87.3,2674.0,0,0
+2026-11-12,851562,642546,Jonathan Hernández,Aguilas Cibaenas,682877,Juan Brito,Toros del Este,SI,Sinker,"In play, out(s)",97.6,2531.0,1,0
+2026-11-12,851562,642546,Jonathan Hernández,Aguilas Cibaenas,622168,Yairo Muñoz,Toros del Este,SL,Slider,Ball,88.6,2644.0,0,0
+2026-11-12,851562,642546,Jonathan Hernández,Aguilas Cibaenas,622168,Yairo Muñoz,Toros del Este,SL,Slider,Swinging Strike,87.0,2643.0,1,1
+2026-11-12,851562,642546,Jonathan Hernández,Aguilas Cibaenas,622168,Yairo Muñoz,Toros del Este,SI,Sinker,Swinging Strike,96.6,2428.0,1,1
+2026-11-12,851562,642546,Jonathan Hernández,Aguilas Cibaenas,622168,Yairo Muñoz,Toros del Este,SL,Slider,Swinging Strike,89.7,2567.0,1,1
+2026-11-12,851562,642546,Jonathan Hernández,Aguilas Cibaenas,667372,Julio E. Rodriguez,Toros del Este,SI,Sinker,Ball,96.9,2482.0,0,0
+2026-11-12,851562,642546,Jonathan Hernández,Aguilas Cibaenas,667372,Julio E. Rodriguez,Toros del Este,SI,Sinker,Ball,97.4,2574.0,0,0
+2026-11-12,851562,642546,Jonathan Hernández,Aguilas Cibaenas,667372,Julio E. Rodriguez,Toros del Este,SI,Sinker,Foul,96.7,2388.0,1,0
+2026-11-12,851562,642546,Jonathan Hernández,Aguilas Cibaenas,667372,Julio E. Rodriguez,Toros del Este,SL,Slider,Ball,89.5,2576.0,0,0
+2026-11-12,851562,642546,Jonathan Hernández,Aguilas Cibaenas,667372,Julio E. Rodriguez,Toros del Este,SI,Sinker,"In play, out(s)",95.8,2325.0,1,0
+2026-11-12,851562,692983,Emailin Montilla,Toros del Este,642451,Luis Liberato,Aguilas Cibaenas,CH,Changeup,Foul,87.3,2117.0,1,0
+2026-11-12,851562,692983,Emailin Montilla,Toros del Este,642451,Luis Liberato,Aguilas Cibaenas,CH,Changeup,Ball,87.1,2166.0,0,0
+2026-11-12,851562,692983,Emailin Montilla,Toros del Este,642451,Luis Liberato,Aguilas Cibaenas,SL,Slider,Foul,85.8,1932.0,1,0
+2026-11-12,851562,692983,Emailin Montilla,Toros del Este,642451,Luis Liberato,Aguilas Cibaenas,SI,Sinker,"In play, no out",97.1,2226.0,1,0
+2026-11-12,851562,692983,Emailin Montilla,Toros del Este,691176,Jasson Domínguez,Aguilas Cibaenas,SI,Sinker,Ball,96.9,2221.0,0,0
+2026-11-12,851562,692983,Emailin Montilla,Toros del Este,691176,Jasson Domínguez,Aguilas Cibaenas,SI,Sinker,Ball,97.1,2270.0,0,0
+2026-11-12,851562,692983,Emailin Montilla,Toros del Este,691176,Jasson Domínguez,Aguilas Cibaenas,FF,Four-Seam Fastball,Foul,96.8,2445.0,1,0
+2026-11-12,851562,692983,Emailin Montilla,Toros del Este,691176,Jasson Domínguez,Aguilas Cibaenas,SI,Sinker,Foul Tip,97.6,2461.0,1,1
+2026-11-12,851562,692983,Emailin Montilla,Toros del Este,691176,Jasson Domínguez,Aguilas Cibaenas,SI,Sinker,Ball,97.5,2457.0,0,0
+2026-11-12,851562,692983,Emailin Montilla,Toros del Este,691176,Jasson Domínguez,Aguilas Cibaenas,SI,Sinker,Ball,96.9,2526.0,0,0
+2026-11-12,851562,692983,Emailin Montilla,Toros del Este,691182,Adael Amador,Aguilas Cibaenas,SI,Sinker,Called Strike,95.6,2489.0,0,0
+2026-11-12,851562,692983,Emailin Montilla,Toros del Este,691182,Adael Amador,Aguilas Cibaenas,SI,Sinker,Called Strike,96.0,2565.0,0,0
+2026-11-12,851562,692983,Emailin Montilla,Toros del Este,691182,Adael Amador,Aguilas Cibaenas,SI,Sinker,Foul,96.5,2516.0,1,0
+2026-11-12,851562,692983,Emailin Montilla,Toros del Este,691182,Adael Amador,Aguilas Cibaenas,SI,Sinker,Swinging Strike,96.5,2323.0,1,1
+2026-11-12,851562,692983,Emailin Montilla,Toros del Este,641555,J.C. Escarra,Aguilas Cibaenas,SI,Sinker,Ball,96.4,2407.0,0,0
+2026-11-12,851562,692983,Emailin Montilla,Toros del Este,641555,J.C. Escarra,Aguilas Cibaenas,SI,Sinker,Ball,95.9,2200.0,0,0
+2026-11-12,851562,692983,Emailin Montilla,Toros del Este,641555,J.C. Escarra,Aguilas Cibaenas,SI,Sinker,"In play, run(s)",96.6,2494.0,1,0
+2026-11-12,851562,845212,Luis Rodriguez,Toros del Este,593528,Jorge Bonifacio,Aguilas Cibaenas,SI,Sinker,Ball,92.1,2141.0,0,0
+2026-11-12,851562,845212,Luis Rodriguez,Toros del Este,593528,Jorge Bonifacio,Aguilas Cibaenas,SI,Sinker,Swinging Strike,91.4,2123.0,1,1
+2026-11-12,851562,845212,Luis Rodriguez,Toros del Este,593528,Jorge Bonifacio,Aguilas Cibaenas,SL,Slider,Swinging Strike,83.0,2486.0,1,1
+2026-11-12,851562,845212,Luis Rodriguez,Toros del Este,593528,Jorge Bonifacio,Aguilas Cibaenas,SL,Slider,Ball,84.6,2424.0,0,0
+2026-11-12,851562,845212,Luis Rodriguez,Toros del Este,593528,Jorge Bonifacio,Aguilas Cibaenas,SL,Slider,Swinging Strike,83.8,2434.0,1,1
+2026-11-12,851562,677614,Sadrac Franco,Aguilas Cibaenas,682927,Ronny Simon,Toros del Este,SI,Sinker,Ball,98.0,2396.0,0,0
+2026-11-12,851562,677614,Sadrac Franco,Aguilas Cibaenas,682927,Ronny Simon,Toros del Este,SI,Sinker,Called Strike,97.1,2453.0,0,0
+2026-11-12,851562,677614,Sadrac Franco,Aguilas Cibaenas,682927,Ronny Simon,Toros del Este,SI,Sinker,"In play, no out",97.6,2430.0,1,0
+2026-11-12,851562,677614,Sadrac Franco,Aguilas Cibaenas,665482,Gilberto Celestino,Toros del Este,SL,Slider,"In play, run(s)",81.6,2580.0,1,0
+2026-11-12,851562,677614,Sadrac Franco,Aguilas Cibaenas,694025,Felix Reyes,Toros del Este,SI,Sinker,Foul,95.8,2247.0,1,0
+2026-11-12,851562,677614,Sadrac Franco,Aguilas Cibaenas,694025,Felix Reyes,Toros del Este,SI,Sinker,Foul,97.7,2386.0,1,0
+2026-11-12,851562,677614,Sadrac Franco,Aguilas Cibaenas,694025,Felix Reyes,Toros del Este,SL,Slider,Ball,83.9,2617.0,0,0
+2026-11-12,851562,677614,Sadrac Franco,Aguilas Cibaenas,694025,Felix Reyes,Toros del Este,SL,Slider,Ball,83.1,2600.0,0,0
+2026-11-12,851562,677614,Sadrac Franco,Aguilas Cibaenas,694025,Felix Reyes,Toros del Este,SI,Sinker,"In play, out(s)",98.7,2408.0,1,0
+2026-11-12,851562,677614,Sadrac Franco,Aguilas Cibaenas,660821,Jesús Sánchez,Toros del Este,SI,Sinker,Ball,92.5,1869.0,0,0
+2026-11-12,851562,677614,Sadrac Franco,Aguilas Cibaenas,660821,Jesús Sánchez,Toros del Este,SI,Sinker,"In play, run(s)",97.8,2433.0,1,0
+2026-11-12,851562,677614,Sadrac Franco,Aguilas Cibaenas,688005,Francisco Urbaez,Toros del Este,SI,Sinker,Swinging Strike,98.3,2408.0,1,1
+2026-11-12,851562,677614,Sadrac Franco,Aguilas Cibaenas,688005,Francisco Urbaez,Toros del Este,FF,Four-Seam Fastball,Foul,96.8,2334.0,1,0
+2026-11-12,851562,677614,Sadrac Franco,Aguilas Cibaenas,688005,Francisco Urbaez,Toros del Este,SI,Sinker,Ball,96.6,2367.0,0,0
+2026-11-12,851562,677614,Sadrac Franco,Aguilas Cibaenas,688005,Francisco Urbaez,Toros del Este,SI,Sinker,Ball,97.8,2330.0,0,0
+2026-11-12,851562,677614,Sadrac Franco,Aguilas Cibaenas,688005,Francisco Urbaez,Toros del Este,SL,Slider,Ball,84.5,2576.0,0,0
+2026-11-12,851562,677614,Sadrac Franco,Aguilas Cibaenas,688005,Francisco Urbaez,Toros del Este,SI,Sinker,Foul,97.5,2354.0,1,0
+2026-11-12,851562,677614,Sadrac Franco,Aguilas Cibaenas,688005,Francisco Urbaez,Toros del Este,SI,Sinker,Swinging Strike,97.7,2407.0,1,1
+2026-11-12,851562,608371,Lucas Sims,Toros del Este,669384,Raynel Delgado,Aguilas Cibaenas,CH,Changeup,Called Strike,88.3,2257.0,0,0
+2026-11-12,851562,608371,Lucas Sims,Toros del Este,669384,Raynel Delgado,Aguilas Cibaenas,CH,Changeup,Ball,87.1,2316.0,0,0
+2026-11-12,851562,608371,Lucas Sims,Toros del Este,669384,Raynel Delgado,Aguilas Cibaenas,CU,Curveball,Ball,81.1,2991.0,0,0
+2026-11-12,851562,608371,Lucas Sims,Toros del Este,669384,Raynel Delgado,Aguilas Cibaenas,CU,Curveball,Swinging Strike,80.1,3024.0,1,1
+2026-11-12,851562,608371,Lucas Sims,Toros del Este,669384,Raynel Delgado,Aguilas Cibaenas,FF,Four-Seam Fastball,Ball,96.2,2641.0,0,0
+2026-11-12,851562,608371,Lucas Sims,Toros del Este,669384,Raynel Delgado,Aguilas Cibaenas,CH,Changeup,Ball,88.5,2111.0,0,0
+2026-11-12,851562,608371,Lucas Sims,Toros del Este,690022,Ryan Ritter,Aguilas Cibaenas,FF,Four-Seam Fastball,Foul Tip,94.5,2559.0,1,1
+2026-11-12,851562,608371,Lucas Sims,Toros del Este,690022,Ryan Ritter,Aguilas Cibaenas,FF,Four-Seam Fastball,Hit By Pitch,93.1,2473.0,0,0
+2026-11-12,851562,608371,Lucas Sims,Toros del Este,682679,Dayan Frias,Aguilas Cibaenas,CU,Curveball,Ball,79.5,3065.0,0,0
+2026-11-12,851562,608371,Lucas Sims,Toros del Este,682679,Dayan Frias,Aguilas Cibaenas,FF,Four-Seam Fastball,Ball,93.8,2633.0,0,0
+2026-11-12,851562,608371,Lucas Sims,Toros del Este,682679,Dayan Frias,Aguilas Cibaenas,FF,Four-Seam Fastball,Called Strike,92.1,2500.0,0,0
+2026-11-12,851562,608371,Lucas Sims,Toros del Este,682679,Dayan Frias,Aguilas Cibaenas,FF,Four-Seam Fastball,Foul Bunt,95.2,2670.0,1,0
+2026-11-12,851562,608371,Lucas Sims,Toros del Este,682679,Dayan Frias,Aguilas Cibaenas,SL,Slider,Swinging Strike,84.3,3147.0,1,1
+2026-11-12,851562,608371,Lucas Sims,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,FF,Four-Seam Fastball,Ball,94.9,2578.0,0,0
+2026-11-12,851562,608371,Lucas Sims,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,CU,Curveball,Ball,80.4,2936.0,0,0
+2026-11-12,851562,608371,Lucas Sims,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,CU,Curveball,Ball,79.6,3004.0,0,0
+2026-11-12,851562,608371,Lucas Sims,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,FF,Four-Seam Fastball,Called Strike,93.8,2581.0,0,0
+2026-11-12,851562,608371,Lucas Sims,Toros del Este,672642,Steward Berroa,Aguilas Cibaenas,FF,Four-Seam Fastball,Ball,93.2,2632.0,0,0
+2026-11-12,851562,642759,Julian Fernández,Toros del Este,642451,Luis Liberato,Aguilas Cibaenas,FF,Four-Seam Fastball,Swinging Strike,95.0,2384.0,1,1
+2026-11-12,851562,642759,Julian Fernández,Toros del Este,642451,Luis Liberato,Aguilas Cibaenas,FF,Four-Seam Fastball,Ball,95.7,2409.0,0,0
+2026-11-12,851562,642759,Julian Fernández,Toros del Este,642451,Luis Liberato,Aguilas Cibaenas,FF,Four-Seam Fastball,Foul,94.6,2397.0,1,0
+2026-11-12,851562,642759,Julian Fernández,Toros del Este,642451,Luis Liberato,Aguilas Cibaenas,FC,Cutter,Ball,84.7,1693.0,0,0
+2026-11-12,851562,642759,Julian Fernández,Toros del Este,642451,Luis Liberato,Aguilas Cibaenas,SL,Slider,"In play, run(s)",82.7,1580.0,1,0
+2026-11-12,851562,642759,Julian Fernández,Toros del Este,691176,Jasson Domínguez,Aguilas Cibaenas,FF,Four-Seam Fastball,Called Strike,98.4,2406.0,0,0
+2026-11-12,851562,642759,Julian Fernández,Toros del Este,691176,Jasson Domínguez,Aguilas Cibaenas,FF,Four-Seam Fastball,"In play, out(s)",96.0,2311.0,1,0
+2026-11-12,851562,608167,Jonathan Aro,Aguilas Cibaenas,650391,Eloy Jiménez,Toros del Este,FF,Four-Seam Fastball,Ball,91.1,2400.0,0,0
+2026-11-12,851562,608167,Jonathan Aro,Aguilas Cibaenas,650391,Eloy Jiménez,Toros del Este,SL,Slider,Ball,82.5,2204.0,0,0
+2026-11-12,851562,608167,Jonathan Aro,Aguilas Cibaenas,650391,Eloy Jiménez,Toros del Este,FF,Four-Seam Fastball,"In play, out(s)",90.7,2439.0,1,0
+2026-11-12,851562,608167,Jonathan Aro,Aguilas Cibaenas,682877,Juan Brito,Toros del Este,CH,Changeup,Ball,82.8,1779.0,0,0
+2026-11-12,851562,608167,Jonathan Aro,Aguilas Cibaenas,682877,Juan Brito,Toros del Este,FF,Four-Seam Fastball,Called Strike,91.5,2474.0,0,0
+2026-11-12,851562,608167,Jonathan Aro,Aguilas Cibaenas,682877,Juan Brito,Toros del Este,FF,Four-Seam Fastball,Ball,92.0,2456.0,0,0
+2026-11-12,851562,608167,Jonathan Aro,Aguilas Cibaenas,682877,Juan Brito,Toros del Este,FF,Four-Seam Fastball,"In play, no out",91.1,2446.0,1,0
+2026-11-12,851562,608167,Jonathan Aro,Aguilas Cibaenas,622168,Yairo Muñoz,Toros del Este,FF,Four-Seam Fastball,Ball,91.3,2274.0,0,0
+2026-11-12,851562,608167,Jonathan Aro,Aguilas Cibaenas,622168,Yairo Muñoz,Toros del Este,SL,Slider,Swinging Strike,83.4,2344.0,1,1
+2026-11-12,851562,608167,Jonathan Aro,Aguilas Cibaenas,622168,Yairo Muñoz,Toros del Este,FF,Four-Seam Fastball,"In play, out(s)",91.2,2393.0,1,0
+2026-11-12,851562,608167,Jonathan Aro,Aguilas Cibaenas,665839,Enmanuel Valdez,Toros del Este,SL,Slider,Swinging Strike (Blocked),84.1,2455.0,1,1
+2026-11-12,851562,608167,Jonathan Aro,Aguilas Cibaenas,665839,Enmanuel Valdez,Toros del Este,FF,Four-Seam Fastball,"In play, out(s)",92.3,2523.0,1,0
