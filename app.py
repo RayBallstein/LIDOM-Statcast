@@ -23,10 +23,11 @@ LOGO_B64 = "iVBORw0KGgoAAAANSUhEUgAAAIAAAACgCAYAAADEkmT9AABcvklEQVR42u2dd5gkRfnH
 
 BALL_COLS = ["date", "game_pk", "batter_id", "player", "team", "pitcher_id",
              "pitcher", "pitcher_team", "result", "exit_velo",
-             "launch_angle", "distance"]
+             "launch_angle", "distance", "age"]
 PITCH_COLS = ["date", "game_pk", "pitcher_id", "pitcher", "pitcher_team",
               "batter_id", "batter", "batter_team", "pitch_type", "pitch_name",
-              "call", "velo", "spin", "swing", "whiff"]
+              "call", "velo", "spin", "swing", "whiff",
+              "batter_age", "pitcher_age"]
 
 
 def is_barrel(ev, la):
@@ -63,9 +64,9 @@ if DATA_MSG:
     bb = pd.DataFrame(columns=BALL_COLS)
     pit = pd.DataFrame(columns=PITCH_COLS)
 
-for c in ("exit_velo", "launch_angle", "distance"):
+for c in ("exit_velo", "launch_angle", "distance", "age"):
     bb[c] = pd.to_numeric(bb[c], errors="coerce")
-for c in ("velo", "spin", "swing", "whiff"):
+for c in ("velo", "spin", "swing", "whiff", "batter_age", "pitcher_age"):
     pit[c] = pd.to_numeric(pit[c], errors="coerce")
 pit["swing"] = pit["swing"].fillna(0)
 pit["whiff"] = pit["whiff"].fillna(0)
@@ -77,8 +78,20 @@ bb["barrel"] = is_barrel(bb["exit_velo"], bb["launch_angle"]).astype(float)
 bb["hard_hit"] = (bb["exit_velo"] >= HARD_HIT_MPH).astype(float)
 bb["sweet"] = bb["launch_angle"].between(SWEET_LO, SWEET_HI).astype(float)
 
+# pitcher age for the "batted balls allowed" boards (taken from the pitch data)
+_pitcher_age = (pit.dropna(subset=["pitcher_age"])
+                .drop_duplicates("pitcher_id")
+                .set_index("pitcher_id")["pitcher_age"])
+bb["pitcher_age"] = bb["pitcher_id"].map(_pitcher_age)
+
 meta_path = DATA / "meta.json"
 meta = json.loads(meta_path.read_text()) if meta_path.exists() else {}
+
+_ages = pd.concat([bb["age"], pit["batter_age"], pit["pitcher_age"]]).dropna()
+AGE_MIN = int(_ages.min()) if len(_ages) else 18
+AGE_MAX = int(_ages.max()) if len(_ages) else 45
+if AGE_MAX <= AGE_MIN:
+    AGE_MAX = AGE_MIN + 1
 
 TEAMS = ["All teams"] + sorted(
     set(bb["team"].dropna()) | set(bb["pitcher_team"].dropna())
@@ -142,6 +155,8 @@ def mode_or_first(s):
 
 def add_rank(df):
     df = df.reset_index(drop=True)
+    if "Age" in df.columns:
+        df["Age"] = pd.to_numeric(df["Age"], errors="coerce").round().astype("Int64")
     df.insert(0, "Rank", np.arange(1, len(df) + 1))
     return df
 
@@ -164,6 +179,10 @@ app_ui = ui.page_sidebar(
             ui.input_select("pit_board", "Pitching Leaderboard", PIT_BOARDS),
         ),
         ui.input_select("team", "Team", TEAMS),
+        ui.input_slider(
+            "age", "Age range", min=AGE_MIN, max=AGE_MAX,
+            value=(AGE_MIN, AGE_MAX), step=1, sep="",
+        ),
         ui.output_ui("min_ctl"),
         ui.input_radio_buttons(
             "order", "Sort order",
@@ -207,6 +226,7 @@ app_ui = ui.page_sidebar(
 - **Whiff%**: swings and misses divided by swings. Swings include whiffs, foul balls and balls in play.
 - **Pitching Hard-Hit%, Barrel% and Average Exit Velocity** are for batted balls allowed. Lower is better, so they default to lowest first.
 - **Fastball spin** uses four-seam, sinker, two-seam and unclassified fastballs, in rpm.
+- **Age** is each player's age as of the last data update. The **Age range** filter applies to the hitter on hitting boards and the pitcher on pitching boards. Players with no age data only appear when the full range is selected.
 - Tracking coverage can vary by stadium, and early-season samples are small.
             """
         ),
@@ -238,6 +258,21 @@ def server(input, output, session):
         label, top, default = cfg
         return ui.input_slider("min_n", label, 1, top, default)
 
+    def age_active():
+        lo, hi = input.age()
+        return lo > AGE_MIN or hi < AGE_MAX
+
+    def age_filter(df, col):
+        """Keep rows whose age is in the selected range.
+
+        At the full range nothing is filtered (so players with no age still
+        show). Once the range is narrowed, players with no age are left out.
+        """
+        if not age_active():
+            return df
+        lo, hi = input.age()
+        return df[df[col].between(lo, hi)]
+
     # -------- hitting
     @reactive.calc
     def table_hit():
@@ -247,21 +282,22 @@ def server(input, output, session):
         team = input.team()
         asc = input.order() == "asc"
         balls = bb if team == "All teams" else bb[bb["team"] == team]
+        balls = age_filter(balls, "age")
 
         if board == "hardest":
             out = balls.sort_values("exit_velo", ascending=asc).head(TOP_EVENTS)
-            out = out[["player", "team", "exit_velo", "launch_angle",
+            out = out[["player", "age", "team", "exit_velo", "launch_angle",
                        "distance", "result", "pitcher", "date"]].copy()
-            out.columns = ["Player", "Team", "Exit Velo", "Launch Angle",
+            out.columns = ["Player", "Age", "Team", "Exit Velo", "Launch Angle",
                            "Distance", "Result", "Pitcher", "Date"]
             return add_rank(out.round(1))
 
         if board == "longest_hr":
             hr = balls[(balls["result"] == "Home Run") & balls["distance"].notna()]
             out = hr.sort_values("distance", ascending=asc).head(TOP_EVENTS)
-            out = out[["player", "team", "distance", "exit_velo",
+            out = out[["player", "age", "team", "distance", "exit_velo",
                        "launch_angle", "pitcher", "date"]].copy()
-            out.columns = ["Player", "Team", "Distance", "Exit Velo",
+            out.columns = ["Player", "Age", "Team", "Distance", "Exit Velo",
                            "Launch Angle", "Pitcher", "Date"]
             return add_rank(out.round(1))
 
@@ -269,8 +305,10 @@ def server(input, output, session):
 
         if board == "whiff":
             p = pit if team == "All teams" else pit[pit["batter_team"] == team]
+            p = age_filter(p, "batter_age")
             out = p.groupby("batter_id").agg(
                 Player=("batter", "first"),
+                Age=("batter_age", "first"),
                 Team=("batter_team", mode_or_first),
                 Swings=("swing", "sum"),
                 Whiffs=("whiff", "sum"),
@@ -282,6 +320,7 @@ def server(input, output, session):
 
         out = balls.groupby("batter_id").agg(
             Player=("player", "first"),
+            Age=("age", "first"),
             Team=("team", mode_or_first),
             BBE=("exit_velo", "size"),
             MaxEV=("exit_velo", "max"),
@@ -295,7 +334,7 @@ def server(input, output, session):
         for c in ("HardHit", "Barrel", "Sweet"):
             out[c] = out[c] * 100
         out = out[out["BBE"] >= min_n]
-        out.columns = ["Player", "Team", "BBE", "Max EV", "Avg EV", "EV90",
+        out.columns = ["Player", "Age", "Team", "BBE", "Max EV", "Avg EV", "EV90",
                        "Avg LA", "Hard-Hit%", "Barrel%", "Sweet-Spot%"]
         out = out.sort_values(HIT_SORT[board], ascending=asc)
         return add_rank(out.round(1))
@@ -310,27 +349,29 @@ def server(input, output, session):
         asc = input.order() == "asc"
 
         p = pit if team == "All teams" else pit[pit["pitcher_team"] == team]
+        p = age_filter(p, "pitcher_age")
 
         if board in ("fast_pitches", "max_velo", "avg_velo"):
             pv = p.dropna(subset=["velo"])
 
             if board == "fast_pitches":
                 out = pv.sort_values("velo", ascending=asc).head(TOP_EVENTS)
-                out = out[["pitcher", "pitcher_team", "velo", "pitch_name",
-                           "spin", "batter", "date"]].copy()
-                out.columns = ["Pitcher", "Team", "Velo", "Pitch Type", "Spin",
-                               "Batter", "Date"]
+                out = out[["pitcher", "pitcher_age", "pitcher_team", "velo",
+                           "pitch_name", "spin", "batter", "date"]].copy()
+                out.columns = ["Pitcher", "Age", "Team", "Velo", "Pitch Type",
+                               "Spin", "Batter", "Date"]
                 return add_rank(out.round(1))
 
             out = pv.groupby("pitcher_id").agg(
                 Pitcher=("pitcher", "first"),
+                Age=("pitcher_age", "first"),
                 Team=("pitcher_team", mode_or_first),
                 Pitches=("velo", "size"),
                 MaxVelo=("velo", "max"),
                 AvgVelo=("velo", "mean"),
             ).reset_index(drop=True)
             out = out[out["Pitches"] >= input.min_n()]
-            out.columns = ["Pitcher", "Team", "Pitches", "Max Velo", "Avg Velo"]
+            out.columns = ["Pitcher", "Age", "Team", "Pitches", "Max Velo", "Avg Velo"]
             col = "Max Velo" if board == "max_velo" else "Avg Velo"
             out = out.sort_values(col, ascending=asc)
             return add_rank(out.round(1))
@@ -340,6 +381,7 @@ def server(input, output, session):
         if board == "whiff":
             out = p.groupby("pitcher_id").agg(
                 Pitcher=("pitcher", "first"),
+                Age=("pitcher_age", "first"),
                 Team=("pitcher_team", mode_or_first),
                 Swings=("swing", "sum"),
                 Whiffs=("whiff", "sum"),
@@ -353,21 +395,24 @@ def server(input, output, session):
             fb = p[p["pitch_type"].isin(FASTBALL_CODES)].dropna(subset=["spin"])
             out = fb.groupby("pitcher_id").agg(
                 Pitcher=("pitcher", "first"),
+                Age=("pitcher_age", "first"),
                 Team=("pitcher_team", mode_or_first),
                 Fastballs=("spin", "size"),
                 MaxSpin=("spin", "max"),
                 AvgSpin=("spin", "mean"),
             ).reset_index(drop=True)
             out = out[out["Fastballs"] >= min_n]
-            out.columns = ["Pitcher", "Team", "Fastballs", "Max Spin", "Avg Spin"]
+            out.columns = ["Pitcher", "Age", "Team", "Fastballs", "Max Spin", "Avg Spin"]
             col = "Max Spin" if board == "max_spin" else "Avg Spin"
             out = out.sort_values(col, ascending=asc)
             return add_rank(out.round(0))
 
         # hard_hit, avg_ev, barrel: batted balls allowed
         balls = bb if team == "All teams" else bb[bb["pitcher_team"] == team]
+        balls = age_filter(balls, "pitcher_age")
         out = balls.groupby("pitcher_id").agg(
             Pitcher=("pitcher", "first"),
+            Age=("pitcher_age", "first"),
             Team=("pitcher_team", mode_or_first),
             BBE=("exit_velo", "size"),
             AvgEV=("exit_velo", "mean"),
@@ -377,12 +422,15 @@ def server(input, output, session):
         for c in ("HardHit", "Barrel"):
             out[c] = out[c] * 100
         out = out[out["BBE"] >= min_n]
-        out.columns = ["Pitcher", "Team", "BBE", "Avg EV", "Hard-Hit%", "Barrel%"]
+        out.columns = ["Pitcher", "Age", "Team", "BBE", "Avg EV", "Hard-Hit%", "Barrel%"]
         out = out.sort_values(PIT_BBE_SORT[board], ascending=asc)
         return add_rank(out.round(1))
 
     # -------- headings and tables
     def heading(name):
+        if age_active():
+            lo, hi = input.age()
+            name = f"{name} (ages {lo} to {hi})"
         if not meta:
             return name
         return (f"{name}  -  {meta.get('games', '?')} games | "
